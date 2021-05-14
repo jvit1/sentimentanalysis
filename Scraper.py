@@ -30,6 +30,3 @@ df = pd.DataFrame({'tweets': tweets, 'likes': likes, 'time': time})
 
 # Removing Retweets
 df = df[~df.tweets.str.contains("RT")]
-
-mostliked = df.loc[df.likes.nlargest(5).index]
-print(mostliked)
