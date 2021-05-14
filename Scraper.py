@@ -27,6 +27,8 @@ for i in tweepy.Cursor(api.user_timeline, id='elonmusk', tweet_mode="extended").
     time.append(i.created_at)
 
 df = pd.DataFrame({'tweets': tweets, 'likes': likes, 'time': time})
+
+# Removing Retweets
 df = df[~df.tweets.str.contains("RT")]
 
 mostliked = df.loc[df.likes.nlargest(5).index]
