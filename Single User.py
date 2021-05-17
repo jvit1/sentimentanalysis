@@ -15,7 +15,7 @@ try:
 except:
     print("Error during authentication")
 
-n_tweets = 2000
+n_tweets = 100
 tweets = []
 likes = []
 time = []
