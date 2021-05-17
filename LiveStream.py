@@ -1,9 +1,12 @@
 import tweepy
 import json
 import csv
-import pandas
 from Keys import *
 
+'''
+This code is used to live stream tweets.
+It will likely not be used for analysis.
+'''
 
 # csvFile = open('result.csv', 'a')
 # csvWriter = csv.writer(csvFile)
