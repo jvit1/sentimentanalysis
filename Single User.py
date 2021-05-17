@@ -2,7 +2,10 @@ import tweepy
 from Keys import *
 import pandas as pd
 
-
+'''
+This code is used to scrape the tweets of a single user based on parameters.
+It is incomplete and does not add to a csv quite yet.
+'''
 # Twitter Authentication
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
