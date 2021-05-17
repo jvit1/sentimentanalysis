@@ -14,7 +14,7 @@ except:
     print("Error during authentication")
 
 query = 'bitcoin'
-n_tweets = 1500
+n_tweets = 150
 
 
 try:
@@ -29,6 +29,9 @@ try:
 except BaseException as e:
     print('failed on_status,', str(e))
 
+
 df = tweets_df[~tweets_df[2].str.contains("RT")]
-print(df)
+
+# mode='a'
+df.to_csv("Scraped_Tweets.csv", header=False)
 
