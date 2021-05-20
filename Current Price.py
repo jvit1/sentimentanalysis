@@ -10,5 +10,6 @@ soup = BeautifulSoup(source, 'lxml')
 price = str(soup.find('div', class_='price-large'))
 price = price.split("$</span>")[1]
 price = price.replace('</div>', '')
+price = float(price.replace(',', ''))
 print(price)
 
