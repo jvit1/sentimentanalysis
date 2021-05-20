@@ -1,6 +1,16 @@
 import tweepy
 from Keys import *
 import pandas as pd
+import requests
+from bs4 import BeautifulSoup
+
+# Current Price
+source = requests.get('https://www.coindesk.com/price/bitcoin').text
+soup = BeautifulSoup(source, 'lxml')
+
+price = str(soup.find('div', class_='price-large'))
+price = price.split("$</span>")[1]
+price = price.replace('</div>', '')
 
 # Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
