@@ -4,14 +4,14 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
-
 # Current Price
 source = requests.get('https://www.coindesk.com/price/bitcoin').text
 soup = BeautifulSoup(source, 'lxml')
 
-price = str(soup.find('div', class_='price-large'))
-price = price.split("$</span>")[1]
-price = price.replace('</div>', '')
+current_price = str(soup.find('div', class_='price-large'))
+current_price = current_price.split("$</span>")[1]
+current_price = current_price.replace('</div>', '')
+current_price = float(current_price.replace(',', ''))
 
 # Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -24,6 +24,7 @@ try:
 except:
     print("Error during authentication")
 
+# Parameters to scrape from twitter
 query = 'bitcoin'
 n_tweets = 50
 
@@ -39,7 +40,11 @@ try:
 except BaseException as e:
     print('failed on_status,', str(e))
 
+# Attempts to filter spam
 df = tweets_df[~tweets_df[2].str.contains("RT")]
+
+
+
 print(df)
-# mode='a'
+# mode='a' to append once ready for production
 df.to_csv("Scraped_Tweets.csv", header=False)
