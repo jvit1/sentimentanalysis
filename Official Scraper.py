@@ -26,15 +26,13 @@ except:
 
 # Parameters to scrape from twitter
 query = 'bitcoin'
-n_tweets = 50
+n_tweets = 2000
 
 try:
     # Creation of query method using parameters
     tweets = tweepy.Cursor(api.search, q=query, lang="en", tweet_mode='extended').items(n_tweets)
-
     # Pulling information from tweets iterable object
     tweets_list = [[tweet.created_at, tweet.id, tweet.full_text] for tweet in tweets]
-
     tweets_df = pd.DataFrame(tweets_list)
 
 except BaseException as e:
@@ -42,9 +40,8 @@ except BaseException as e:
 
 # Attempts to filter spam
 df = tweets_df[~tweets_df[2].str.contains("RT")]
+# Adding current price to data frame
+df.insert(3, "Price", current_price, True)
 
-
-
-print(df)
 # mode='a' to append once ready for production
-df.to_csv("Scraped_Tweets.csv", header=False)
+df.to_csv("Scraped_Tweets.csv", header=False, mode='a')
