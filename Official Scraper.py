@@ -35,7 +35,7 @@ except BaseException as e:
     print('failed on_status,', str(e))
     quit()
 
-# Spam Filter
+# Spam Filter - Currently not working
 print("Removing some spam")
 spam_filter(tweets_df)
 
