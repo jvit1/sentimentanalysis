@@ -2,7 +2,6 @@ import tweepy
 from Keys import *
 from NecessaryFunctions import *
 import pandas as pd
-import poopdolla
 
 # Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
