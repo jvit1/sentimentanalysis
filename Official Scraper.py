@@ -36,7 +36,9 @@ try:
     tweets_list = [[tweet.created_at, tweet.id, tweet.full_text,
                     tweet.place, tweet.user.followers_count,
                     tweet.user.friends_count, tweet.user.verified,
-                    tweet.is_quote_status] for tweet in tweets]
+                    tweet.is_quote_status, tweet.user.created_at,
+                    tweet.user.default_profile, tweet.user.default_profile_image,
+                    tweet.user.friends_count] for tweet in tweets]
     tweets_df = pd.DataFrame(tweets_list)
 
 except BaseException as e:
@@ -45,7 +47,8 @@ except BaseException as e:
 # Attempts to filter spam
 print("Removing some spam")
 df = tweets_df[~tweets_df[2].str.contains("RT")]
-df = df[~(df[4] <= 100)]
+df = df[~(df[4] <= 100)]  # Making sure total followers is greater than 100
+df = df[~(df[11] <= 100)]  # Making sure total account likes is greater than 100
 
 # Adding current price to data frame
 df.insert(3, "Price", current_price, True)
@@ -53,8 +56,9 @@ df.insert(3, "Price", current_price, True)
 # Renaming Columns
 df.columns = ['Date', 'Tweet ID', 'Text', 'BTC Price', 'User Location',
               'User follower count', 'User following count', 'User Verified',
-              'Quote Status?']
+              'Quote Status?', 'Account Creation Date', 'Default Profile Theme?',
+              'Default Profile Image?', 'Total Account Likes']
 
 # mode='a' to append once ready for production
-df.to_csv("Scraped_Tweets.csv", header=True)
+df.to_csv("Scraped_Tweetstest.csv", header=True)
 print("All done, check out final csv")
