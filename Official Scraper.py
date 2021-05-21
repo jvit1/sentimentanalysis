@@ -2,6 +2,7 @@ import tweepy
 from Keys import *
 from NecessaryFunctions import *
 import pandas as pd
+import poopdolla
 
 # Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -38,6 +39,9 @@ except BaseException as e:
 # Spam Filter
 print("Removing some spam")
 spam_filter(tweets_df)
+
+# Calculating Sentiments
+
 
 # Adding current price to data frame
 tweets_df.insert(3, "Price", current_price, True)
