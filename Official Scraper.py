@@ -26,7 +26,7 @@ except:
 
 # Parameters to scrape from twitter
 query = 'bitcoin'
-n_tweets = 200
+n_tweets = 2000
 
 print('Tweets are now being scraped')
 try:
@@ -34,7 +34,7 @@ try:
     tweets = tweepy.Cursor(api.search, q=query, lang="en", tweet_mode='extended').items(n_tweets)
     # Pulling information from tweets iterable object
     tweets_list = [[tweet.created_at, tweet.id, tweet.full_text,
-                    tweet.place, tweet.user.followers_count,
+                    tweet.user.location, tweet.user.followers_count,
                     tweet.user.friends_count, tweet.user.verified,
                     tweet.is_quote_status, tweet.user.created_at,
                     tweet.user.default_profile, tweet.user.default_profile_image,
@@ -44,7 +44,7 @@ try:
 except BaseException as e:
     print('failed on_status,', str(e))
 
-# Attempts to filter spam
+# Spam Filter
 print("Removing some spam")
 df = tweets_df[~tweets_df[2].str.contains("RT")]
 df = df[~(df[4] <= 100)]  # Making sure total followers is greater than 100
