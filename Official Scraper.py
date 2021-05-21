@@ -1,17 +1,7 @@
 import tweepy
 from Keys import *
+from NecessaryFunctions import *
 import pandas as pd
-import requests
-from bs4 import BeautifulSoup
-
-# Current Price
-source = requests.get('https://www.coindesk.com/price/bitcoin').text
-soup = BeautifulSoup(source, 'lxml')
-
-current_price = str(soup.find('div', class_='price-large'))
-current_price = current_price.split("$</span>")[1]
-current_price = current_price.replace('</div>', '')
-current_price = float(current_price.replace(',', ''))
 
 # Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -32,7 +22,7 @@ print('Tweets are now being scraped')
 try:
     # Creation of query method using parameters
     tweets = tweepy.Cursor(api.search, q=query, lang="en", tweet_mode='extended').items(n_tweets)
-    # Pulling information from tweets iterable object
+    # Pulling information from tweets
     tweets_list = [[tweet.created_at, tweet.id, tweet.full_text,
                     tweet.user.location, tweet.user.followers_count,
                     tweet.user.friends_count, tweet.user.verified,
@@ -47,20 +37,17 @@ except BaseException as e:
 
 # Spam Filter
 print("Removing some spam")
-df = tweets_df[~tweets_df[2].str.contains("RT")]
-df = df[~(df[4] <= 100)]  # Making sure total followers is greater than 100
-df = df[~(df[11] <= 100)]  # Making sure total account likes is greater than 100
-df = df[(df[10] == False)]  # Making sure there is a real profile pic
+spam_filter(tweets_df)
 
 # Adding current price to data frame
-df.insert(3, "Price", current_price, True)
+tweets_df.insert(3, "Price", current_price, True)
 
 # Renaming Columns
-df.columns = ['Date', 'Tweet ID', 'Text', 'BTC Price', 'User Location',
+tweets_df.columns = ['Date', 'Tweet ID', 'Text', 'BTC Price', 'User Location',
               'User follower count', 'User following count', 'User Verified',
               'Quote Status?', 'Account Creation Date', 'Default Profile Theme?',
               'Default Profile Image?', 'Total Account Likes']
 
 # mode='a' to append once ready for production
-df.to_csv("Scraped_Tweetstest.csv", header=True)
+tweets_df.to_csv("Scraped_Tweetstest.csv", header=True)
 print("All done, check out final csv")
