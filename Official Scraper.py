@@ -26,7 +26,7 @@ except:
 
 # Parameters to scrape from twitter
 query = 'bitcoin'
-n_tweets = 2000
+n_tweets = 200
 
 print('Tweets are now being scraped')
 try:
@@ -43,12 +43,14 @@ try:
 
 except BaseException as e:
     print('failed on_status,', str(e))
+    quit()
 
 # Spam Filter
 print("Removing some spam")
 df = tweets_df[~tweets_df[2].str.contains("RT")]
 df = df[~(df[4] <= 100)]  # Making sure total followers is greater than 100
 df = df[~(df[11] <= 100)]  # Making sure total account likes is greater than 100
+df = df[(df[10] == False)]  # Making sure there is a real profile pic
 
 # Adding current price to data frame
 df.insert(3, "Price", current_price, True)
