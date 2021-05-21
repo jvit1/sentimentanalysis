@@ -54,6 +54,7 @@ df.insert(3, "Price", current_price, True)
 df.columns = ['Date', 'Tweet ID', 'Text', 'BTC Price', 'User Location',
               'User follower count', 'User following count', 'User Verified',
               'Quote Status?']
-print(df)
+
 # mode='a' to append once ready for production
 df.to_csv("Scraped_Tweets.csv", header=True)
+print("All done, check out final csv")
