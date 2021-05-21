@@ -1,8 +1,5 @@
-The following project is used to scrape tweets using the Twitter API to run a sentiment analysis on a given twitter user.
+The following project is used to scrape tweets using the Twitter API to run a sentiment analysis on a given query. 
+In this repository, the file titled Official Scraper and Necessary Functions are used to create a dataset. When 
+completed, the full dataset will be posted to Kaggle.com.
 
-NOTE: YOU WILL NEED YOUR OWN API KEYS. PERSONAL API KEYS ARE NOT INCLUDED IN THIS RESPOSITORY FOR PRIVACY REASONS.
-
-Python Packages used in this project so far:
-1) datetime
-2) tweepy
-3) csv
+It's important to note that API keys are not included in the repository for privacy reasons.
