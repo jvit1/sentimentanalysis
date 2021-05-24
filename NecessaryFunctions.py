@@ -8,10 +8,10 @@ The following file defines functions and values that are used throughout the scr
 
 # Spam Filter
 def spam_filter(df):
-    df = df[~df[2].str.contains("RT")]
-    df = df[~(df[4] <= 100)]  # Making sure total followers is greater than 100
-    df = df[~(df[11] <= 100)]  # Making sure total account likes is greater than 100
-    df = df[(df[10] == False)]  # Making sure there is a real profile pic
+    df = df[~df.Text.astype(str).str.contains("RT")]
+    df = df[~(df.UserFollowingCount <= 100)]  # Making sure total followers is greater than 100
+    df = df[~(df.TotalAccountLikes <= 100)]  # Making sure total account likes is greater than 100
+    df = df[(df.DefaultProfileImage == False)]
     return df
 
 
