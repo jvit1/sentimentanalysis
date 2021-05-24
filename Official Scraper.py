@@ -35,24 +35,24 @@ except BaseException as e:
     print('failed on_status,', str(e))
     quit()
 
-# Spam Filter - Currently not working
-print("Removing some spam")
-tweets_df = tweets_df[~tweets_df[2].str.contains("RT")]
-tweets_df = tweets_df[~(tweets_df[4] <= 100)]  # Making sure total followers is greater than 100
-tweets_df = tweets_df[~(tweets_df[11] <= 100)]  # Making sure total account likes is greater than 100
-tweets_df = tweets_df[(tweets_df[10] == False)]  # Making sure there is a real profile pic
-
-
-
 # Adding current price to data frame
 tweets_df.insert(3, "Price", current_price, True)
 
 # Renaming Columns
-tweets_df.columns = ['Date', 'Tweet ID', 'Text', 'BTC Price', 'User Location',
-              'User follower count', 'User following count', 'User Verified',
+tweets_df.columns = ['Date', 'TweetID', 'Text', 'BTC Price', 'User Location',
+              'User follower count', 'UserFollowingCount', 'User Verified',
               'Quote Status?', 'Account Creation Date', 'Default Profile Theme?',
-              'Default Profile Image?', 'Total Account Likes']
+              'DefaultProfileImage', 'TotalAccountLikes']
+
+
+# Spam Filter - Function not working
+#spam_filter(tweets_df)
+print("Removing some spam")
+tweets_df = tweets_df[~tweets_df.Text.astype(str).str.contains("RT")]
+tweets_df = tweets_df[~(tweets_df.UserFollowingCount <= 100)]  # Making sure total followers is greater than 100
+tweets_df = tweets_df[~(tweets_df.TotalAccountLikes <= 100)]  # Making sure total account likes is greater than 100
+tweets_df = tweets_df[(tweets_df.DefaultProfileImage == False)]  # Making sure there is a real profile pic
 
 # mode='a' to append once ready for production
-tweets_df.to_csv("Scraped_Tweetstest.csv", header=True)
+tweets_df.to_csv("Scraped_Tweets.csv", header=True)
 print("All done, check out final csv")
