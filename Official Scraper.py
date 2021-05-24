@@ -16,7 +16,7 @@ except:
 
 # Parameters to scrape from twitter
 query = 'bitcoin'
-n_tweets = 200
+n_tweets = 100
 
 print('Tweets are now being scraped')
 try:
@@ -37,9 +37,11 @@ except BaseException as e:
 
 # Spam Filter - Currently not working
 print("Removing some spam")
-spam_filter(tweets_df)
+tweets_df = tweets_df[~tweets_df[2].str.contains("RT")]
+tweets_df = tweets_df[~(tweets_df[4] <= 100)]  # Making sure total followers is greater than 100
+tweets_df = tweets_df[~(tweets_df[11] <= 100)]  # Making sure total account likes is greater than 100
+tweets_df = tweets_df[(tweets_df[10] == False)]  # Making sure there is a real profile pic
 
-# Calculating Sentiments
 
 
 # Adding current price to data frame
