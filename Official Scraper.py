@@ -16,7 +16,7 @@ except:
 
 # Parameters to scrape from twitter
 query = 'bitcoin'
-n_tweets = 100
+n_tweets = 2000
 
 print('Tweets are now being scraped')
 try:
@@ -36,27 +36,32 @@ except BaseException as e:
     quit()
 
 # Adding current price to data frame
+print('Adding Current BTC Price')
 tweets_df.insert(3, "Price", current_price, True)
 
 # Renaming Columns
 tweets_df.columns = ['Date', 'TweetID', 'Text', 'BTC Price', 'User Location',
               'User follower count', 'UserFollowingCount', 'User Verified',
-              'Quote Status?', 'Account Creation Date', 'Default Profile Theme?',
+              'Quote Status?', 'AccountCreationDate', 'Default Profile Theme?',
               'DefaultProfileImage', 'TotalAccountLikes']
 
 
 
 #spam_filter(tweets_df)
 print("Removing some spam")
-tweets_df['Text'] = tweets_df['Text'].apply(cleanTxt)
-tweets_df = tweets_df[~tweets_df.Text.astype(str).str.contains("RT")]
+tweets_df['Text'] = tweets_df['Text'].apply(CleanText)  # Text Cleaner
+tweets_df = tweets_df[~tweets_df.Text.astype(str).str.contains("RT")]  # Removing Retweets
 tweets_df = tweets_df[~(tweets_df.UserFollowingCount <= 100)]  # Making sure total followers is greater than 100
 tweets_df = tweets_df[~(tweets_df.TotalAccountLikes <= 100)]  # Making sure total account likes is greater than 100
 tweets_df = tweets_df[(tweets_df.DefaultProfileImage == False)]  # Making sure there is a real profile pic
+tweets_df = tweets_df[~tweets_df.AccountCreationDate.astype(str).str.contains("2021")]  # Removing New Accounts
+tweets_df['Text'] = tweets_df['Text'].apply(remove_emoji)  # Removing Emojis
 
 #Subjectivity (opinion[1]) and Polarity (positive [1] or negative [0])
-tweets_df['Subjectivity'] = tweets_df['Text'].apply(getSubjectivity)
-tweets_df['Polarity'] = tweets_df['Text'].apply(getPolarity)
+tweets_df['Subjectivity'] = tweets_df['Text'].apply(Subjectivity)
+tweets_df['Polarity'] = tweets_df['Text'].apply(Polarity)
+
+tweets_df = tweets_df[(tweets_df.Polarity != 0)]  # Making sure total followers is greater than 100
 
 
 # mode='a' to append once ready for production
