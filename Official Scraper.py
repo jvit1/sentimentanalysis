@@ -45,9 +45,10 @@ tweets_df.columns = ['Date', 'TweetID', 'Text', 'BTC Price', 'User Location',
               'DefaultProfileImage', 'TotalAccountLikes']
 
 
-# Spam Filter - Function not working
+
 #spam_filter(tweets_df)
 print("Removing some spam")
+tweets_df['Text'] = tweets_df['Text'].apply(cleanTxt)
 tweets_df = tweets_df[~tweets_df.Text.astype(str).str.contains("RT")]
 tweets_df = tweets_df[~(tweets_df.UserFollowingCount <= 100)]  # Making sure total followers is greater than 100
 tweets_df = tweets_df[~(tweets_df.TotalAccountLikes <= 100)]  # Making sure total account likes is greater than 100
