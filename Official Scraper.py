@@ -65,5 +65,5 @@ tweets_df = tweets_df[(tweets_df.Polarity != 0)]  # Making sure total followers 
 
 
 # mode='a' to append once ready for production
-tweets_df.to_csv("Scraped_Tweets.csv", header=True)
+tweets_df.to_csv("Scraped_Tweets.csv", header=True, mode='a')
 print("All done, check out final csv")
