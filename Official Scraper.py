@@ -54,6 +54,11 @@ tweets_df = tweets_df[~(tweets_df.UserFollowingCount <= 100)]  # Making sure tot
 tweets_df = tweets_df[~(tweets_df.TotalAccountLikes <= 100)]  # Making sure total account likes is greater than 100
 tweets_df = tweets_df[(tweets_df.DefaultProfileImage == False)]  # Making sure there is a real profile pic
 
+#Subjectivity (opinion[1]) and Polarity (positive [1] or negative [0])
+tweets_df['Subjectivity'] = tweets_df['Text'].apply(getSubjectivity)
+tweets_df['Polarity'] = tweets_df['Text'].apply(getPolarity)
+
+
 # mode='a' to append once ready for production
 tweets_df.to_csv("Scraped_Tweets.csv", header=True)
 print("All done, check out final csv")
