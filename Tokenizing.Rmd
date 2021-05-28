@@ -1,0 +1,13 @@
+Packages and loading in data
+```{r}
+library(readr)
+library(tidyverse)
+library(tidytext)
+library(SnowballC)
+library(gridExtra)
+library(grid)
+
+urlfile <- 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
+data <- read.csv(url(urlfile))
+```
+
