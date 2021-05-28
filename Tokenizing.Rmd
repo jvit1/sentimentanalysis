@@ -3,11 +3,41 @@ Packages and loading in data
 library(readr)
 library(tidyverse)
 library(tidytext)
-library(SnowballC)
 library(gridExtra)
 library(grid)
+library(igraph)
+library(ggraph)
+library(widyr)
 
 urlfile <- 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
 data <- read.csv(url(urlfile))
 ```
+
+Tokenizing
+```{r}
+bigrams <- data %>%
+  unnest_tokens(bigram, Text, token = "ngrams", n = 2) %>%
+  mutate(bigram = str_extract(bigram, "[0-9a-z'\\s]+")) %>%
+  drop_na()
+
+bigrams <- bigrams %>%
+  separate(bigram, c("word1", "word2"), sep = " ") %>%
+  filter(!word1 %in% stop_words$word) %>%
+  filter(!word2 %in% stop_words$word) %>%
+  drop_na() %>%
+  unite(bigram, word1, word2, sep = " ") 
+
+bigram.count <- bigrams %>%
+  group_by(bigram) %>%
+  summarize(count = n()) %>%
+  arrange(desc(count))
+
+bigram.count %>%
+  top_n(15, count) %>%
+  mutate(bigram = reorder(bigram, count)) %>%
+  ggplot(aes(x = bigram, y = count)) + 
+  geom_col() + 
+  coord_flip()
+```
+
 
