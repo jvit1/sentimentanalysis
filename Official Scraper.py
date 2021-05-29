@@ -61,7 +61,7 @@ tweets_df['Text'] = tweets_df['Text'].apply(remove_emoji)  # Removing Emojis
 tweets_df['Subjectivity'] = tweets_df['Text'].apply(Subjectivity)
 tweets_df['Polarity'] = tweets_df['Text'].apply(Polarity)
 
-tweets_df = tweets_df[(tweets_df.Polarity != 0)]  # Making sure total followers is greater than 100
+tweets_df = tweets_df[(tweets_df.Polarity != 0)]  # Making sure polarity is not 0
 
 
 # mode='a' to append once ready for production
