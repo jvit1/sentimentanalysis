@@ -13,7 +13,7 @@ urlfile <- 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scrap
 data <- read.csv(url(urlfile))
 ```
 
-Tokenizing
+Bi Gram
 ```{r}
 bigrams <- data %>%
   unnest_tokens(bigram, Text, token = "ngrams", n = 2) %>%
@@ -36,6 +36,48 @@ bigram.count %>%
   top_n(15, count) %>%
   mutate(bigram = reorder(bigram, count)) %>%
   ggplot(aes(x = bigram, y = count)) + 
+  geom_col() + 
+  coord_flip()
+
+write.csv(bigram.count,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/Bigrams.csv", row.names = FALSE)
+```
+
+Single Word
+```{r}
+review.words <- data %>%
+  unnest_tokens(word, Text) %>%
+  mutate(word = str_extract(word, "[0-9a-z']+"))
+
+review.words <- review.words %>%
+  anti_join(stop_words, by = "word")  %>%
+  mutate(word.stem = wordStem(word))
+
+
+word.count <- review.words %>%
+  group_by(word) %>%
+  summarize(word.count = n()) %>%
+  arrange(desc(word.count))
+
+
+stem.count <- review.words %>%
+  group_by(word.stem) %>%
+  summarize(count = n()) %>%
+  arrange(desc(count))
+
+new_stop_words <- tibble(word.stem = c("bitcoin", "1"))
+
+review.words <- review.words %>%
+  anti_join(new_stop_words, by = "word.stem")
+
+new.stem.count <- review.words %>%
+  group_by(word.stem) %>%
+  summarize(count = n()) %>%
+  arrange(desc(count))
+
+new.stem.count %>%
+  top_n(15, count) %>%
+  mutate(word.stem = reorder(word.stem, count)) %>%
+  ggplot(aes(x = word.stem, y = count)) + 
   geom_col() + 
   coord_flip()
 ```
