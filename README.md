@@ -8,7 +8,11 @@ Visualization is currently in process and can be viewed here:
 https://tabsoft.co/3yQGNGT
 
 # How are sentiments calculated?
-TextBlob is used to conduct the sentiment analysis in Python.
+Python and R are both utilized; however, more 'intense' lexicons are applied with R, mainly just due to user comfort.
+
+### TextBlob
+TextBlob is used to conduct the sentiment analysis in Python. Two scores are created, polarity (how positive or negative the string is) and subjectivity (literally how subjective the string is).
+For the purpose of this project, polarity is the main focus.
 
 ### AFINN 
 The AFINN lexicon was used to calculate sentiments (added 6/12) to further test accuracy of alternate lexicons.
@@ -20,5 +24,5 @@ Alternate lexicons may be explored in later versions. In addition, bigrams and t
 # Disclaimers
 It's important to note that API keys are not included in the repository for privacy reasons.
 I am proud to say that all code is original. With that being said, I am learning more everyday and I understand that the process I chose may not be the most efficient or effective.
-
+In addition, take the number of commits with a grain of salt. I use github more of a cloud than its true purpose, so I tend to make a bunch of commits as a way to back up my work.
 Thank you for reading!
