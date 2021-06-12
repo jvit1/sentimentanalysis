@@ -1,11 +1,20 @@
 # About
-The following project is used to scrape tweets using the Twitter API to run a sentiment analysis on a given query. 
+The following project is used to scrape tweets using the Twitter API to run a sentiment analysis on tweets about Bitcoin. 
 In this repository, the file titled Official Scraper and Necessary Functions are used to create a dataset. When 
 completed, the full dataset will be posted to Kaggle.com.
+
+### Questions to answer
+Are bitcoin price and sentiment correlated?
+How does geographic location affect sentiment?
+Can sentiment predict price?
+
+All of these questions will attempt to be answered as more data are collected.
 
 # Visualization
 Visualization is currently in process and can be viewed here:
 https://tabsoft.co/3yQGNGT
+
+A more indepth dashboard will be added after a few months worth of data is compiled.
 
 # How are sentiments calculated?
 Python and R are both utilized; however, more 'intense' lexicons are applied with R, mainly just due to user comfort.
