@@ -56,6 +56,8 @@ word.totals <- review.words %>% group_by(word) %>%
 write.csv(word.totals,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/wordtotals.csv", row.names = FALSE)
 
 # Bigrams: We'll use the same approach as before.
+data$Text <- sapply(data$Text, removeNumbers)
+
 bigrams <- data %>%
   unnest_tokens(bigram, Text, token = "ngrams", n = 2) %>%
   mutate(bigram = str_extract(bigram, "[0-9a-z'\\s]+")) %>%
@@ -70,27 +72,31 @@ bigrams <- bigrams %>%
 
 ## We are going to define some additional stop words to remove. 
 ##Because we are interested in seeing what else people are talking about, we will remove 'bitcoin'.
+##Potential spam word combos will be removed also.
 
-###############################################################################
-new_stop_words <- tibble(word.stem = c("bitcoin", "btc", ""))
+new_stop_words <- as.character(c("bitcoin", "btc", "cryptocurrency",
+                                 "passive", "income", "kindly", 
+                                 "instagram", "twitter", "facebook", "tiktok",
+                                 "message", "pinterest"))
+
 
 test <- bigrams %>%
   separate(bigram, c("word1", "word2"), sep= ' ') %>%
   filter(!word1 %in% new_stop_words) %>%
   filter(!word2 %in% new_stop_words) %>%
   unite(bigram, word1, word2, sep = " ")
-###################### Bigram word removal is not working #####################
-################### FIX THIS ASAP #######################
 
-bigram.count <- bigrams %>%
+
+bigram.count <- test %>%
   group_by(bigram) %>%
   summarize(count = n()) %>%
   arrange(desc(count))
 
-
 bigram.count %>%
-  top_n(15, count) %>%
+  top_n(10, count) %>%
   mutate(bigram = reorder(bigram, count)) %>%
   ggplot(aes(x = bigram, y = count)) + 
   geom_col() + 
   coord_flip()
+
+write.csv(bigram.count,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/bigrams.csv", row.names = FALSE)
