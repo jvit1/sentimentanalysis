@@ -12,7 +12,7 @@ All of these questions will attempt to be answered as more data are collected.
 
 # Visualization
 Visualization is currently in process and can be viewed here:
-https://tabsoft.co/3yQGNGT
+http://bit.ly/BitcoinSentiment
 
 A more indepth dashboard will be added after a few months worth of data is compiled.
 
