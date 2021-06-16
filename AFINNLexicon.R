@@ -13,10 +13,9 @@ library(readr)
 link = 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
 data <- read_csv(url(link))
 
-
+data$Text <- sapply(data$Text, removeNumbers)
 # Tokenizes and removes stopwords. 
 review.words <- data %>%
-  select(Text, `BTC Price`, Date) %>%
   unnest_tokens(word, Text) %>%
   mutate(word = str_extract(word, "[0-9a-z']+")) %>%
   drop_na()
@@ -26,14 +25,6 @@ review.words$word <- sapply(review.words$word, removeNumbers)
 review.words <- review.words %>%
   anti_join(stop_words)
 
-
-# Summarizes by count.
-review.words %>% group_by(word) %>%
-  summarize(count = n()) %>%
-  arrange(desc(count))
-
-# For now, we'll use the AFINN lexicon because we want a quantitative value. 
-# We average out the scores by date. This will be what we can graph from.
 
 afinn.sent <- get_sentiments("afinn")
 
@@ -46,17 +37,20 @@ final.table <- sentiments %>% select(`BTC Price`, Date, value) %>%
   group_by(Date, `BTC Price`) %>% summarize(score = mean(value))
 
 
-write.csv(final.table,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/AFINNLexicon.csv", row.names = FALSE)
+write.csv(sentiments,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/LexiconScores.csv", row.names = FALSE)
+#################################
 
 # Let's also get a csv of most common words (for graphic purposes).
-word.totals <- review.words %>% group_by(word) %>%
+word.totals <- review.words %>% group_by(word, Date) %>%
   summarize(count = n()) %>%
   arrange(desc(count))
 
-write.csv(word.totals,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/wordtotals.csv", row.names = FALSE)
+word.totals$Date <- as.Date(word.totals$Date)
+
+write.csv(word.totals,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/TotalWords.csv", row.names = FALSE)
 
 # Bigrams: We'll use the same approach as before.
-data$Text <- sapply(data$Text, removeNumbers)
+
 
 bigrams <- data %>%
   unnest_tokens(bigram, Text, token = "ngrams", n = 2) %>%
@@ -86,24 +80,16 @@ test <- bigrams %>%
   filter(!word2 %in% new_stop_words) %>%
   unite(bigram, word1, word2, sep = " ")
 
+test$Date <- as.Date(test$Date)
 
 bigram.count <- test %>%
-  group_by(bigram) %>%
+  group_by(bigram, Date) %>%
   summarize(count = n()) %>%
   arrange(desc(count))
 
-bigram.count %>%
-  top_n(10, count) %>%
-  mutate(bigram = reorder(bigram, count)) %>%
-  ggplot(aes(x = bigram, y = count)) + 
-  geom_col() + 
-  coord_flip()
-
-write.csv(bigram.count,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/bigrams.csv", row.names = FALSE)
+write.csv(bigram.count,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/TotalBigrams.csv", row.names = FALSE)
 
 # Fixing Geographic Location
 ## Regex to change any with state code to USA
 data$`User Location` <- ifelse(grepl('[A-Z]{2}', data$`User Location`, fixed= FALSE), "United States", data$`User Location`)
 data$`User Location` <- ifelse(grepl('USA', data$`User Location`, fixed= TRUE), "United States", data$`User Location`)
-
-
