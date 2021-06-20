@@ -6,9 +6,7 @@ library(gridExtra)
 library(grid)
 library(igraph)
 library(ggraph)
-library(widyr)
-library(SnowballC)
-library(readr)
+library(tm)
 
 link = 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
 data <- read_csv(url(link))
