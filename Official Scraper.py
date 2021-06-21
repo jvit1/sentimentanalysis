@@ -63,8 +63,9 @@ tweets_df['Polarity'] = tweets_df['Text'].apply(Polarity)
 
 tweets_df = tweets_df[(tweets_df.Polarity != 0)]  # Making sure polarity is not 0
 
-print("Cleaning Locations")
+
 # Fixing Country Location
+print("Cleaning Locations")
 # Australia
 australia_cities = "Queensland|Sydney|Australia|Melbourne"
 tweets_df.loc[tweets_df['User Location'].str.contains(australia_cities, case=False, na=False), 'User Location'] = 'Australia'
@@ -85,11 +86,9 @@ tweets_df.loc[tweets_df['User Location'].str.contains(canada_cities, case=False,
 cyprus_cities = "Ayia"
 tweets_df.loc[tweets_df['User Location'].str.contains(cyprus_cities, case=False, na=False), 'User Location'] = 'Cyprus'
 
-
 # France
 france_cities = "France|Paris"
 tweets_df.loc[tweets_df['User Location'].str.contains(france_cities, case=False, na=False), 'User Location'] = 'France'
-
 
 # Indonesia
 indonesia_cities = "Jakarta|Indonesia|Bekasi|Java|Jawa"
