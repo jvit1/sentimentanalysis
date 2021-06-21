@@ -45,9 +45,7 @@ tweets_df.columns = ['Date', 'TweetID', 'Text', 'BTC Price', 'User Location',
               'Quote Status?', 'AccountCreationDate', 'Default Profile Theme?',
               'DefaultProfileImage', 'TotalAccountLikes']
 
-
-
-#spam_filter(tweets_df)
+# Removing Spam
 print("Removing some spam")
 tweets_df['Text'] = tweets_df['Text'].apply(CleanText)  # Text Cleaner
 tweets_df = tweets_df[~tweets_df.Text.astype(str).str.contains("RT")]  # Removing Retweets
@@ -69,59 +67,45 @@ print("Cleaning Locations")
 # Australia
 australia_cities = "Queensland|Sydney|Australia|Melbourne"
 tweets_df.loc[tweets_df['User Location'].str.contains(australia_cities, case=False, na=False), 'User Location'] = 'Australia'
-
 # Bangledesh
 bangladesh_cities = "Satkhira|Bangladesh"
 tweets_df.loc[tweets_df['User Location'].str.contains(bangladesh_cities, case=False, na=False), 'User Location'] = 'Bangladesh'
-
 # Brazil
 brazil_cities = "Goiânia|Janeiro|Brasil|Brazil|Sao Paulo"
 tweets_df.loc[tweets_df['User Location'].str.contains(brazil_cities, case=False, na=False), 'User Location'] = 'Brazil'
-
 # Canada
 canada_cities = "Toronto|Ontario|Canada|Vancouver|Ottawa|Montréal|Québec|Alberta"
 tweets_df.loc[tweets_df['User Location'].str.contains(canada_cities, case=False, na=False), 'User Location'] = 'Canada'
-
 # Cyprus
 cyprus_cities = "Ayia"
 tweets_df.loc[tweets_df['User Location'].str.contains(cyprus_cities, case=False, na=False), 'User Location'] = 'Cyprus'
-
 # France
 france_cities = "France|Paris"
 tweets_df.loc[tweets_df['User Location'].str.contains(france_cities, case=False, na=False), 'User Location'] = 'France'
-
 # Indonesia
 indonesia_cities = "Jakarta|Indonesia|Bekasi|Java|Jawa"
 tweets_df.loc[tweets_df['User Location'].str.contains(indonesia_cities, case=False, na=False), 'User Location'] = 'Indonesia'
-
 # India
 india_cities = "Mumbai|India|bangalore|Nairobi|New Delhi"
 tweets_df.loc[tweets_df['User Location'].str.contains(india_cities, case=False, na=False), 'User Location'] = 'India'
-
 # Kenya
 kenya_cities = "Kisumu"
 tweets_df.loc[tweets_df['User Location'].str.contains(kenya_cities, case=False, na=False), 'User Location'] = 'Kenya'
-
 # Malaysia
 Malaysia_cities = "Malaysia|Kuala"
 tweets_df.loc[tweets_df['User Location'].str.contains(Malaysia_cities, case=False, na=False), 'User Location'] = 'Malaysia'
-
 # Nigeria
 nigeria_cities = "Nigeria"
 tweets_df.loc[tweets_df['User Location'].str.contains(nigeria_cities, case=False, na=False), 'User Location'] = 'Nigeria'
-
 # Philippines
 pilippines_cities = "Caloocan|Philippines"
 tweets_df.loc[tweets_df['User Location'].str.contains(pilippines_cities, case=False, na=False), 'User Location'] = 'Philippines'
-
 #South Africa
 south_africancities = "Midrand|South Africa"
 tweets_df.loc[tweets_df['User Location'].str.contains(south_africancities, case=False, na=False), 'User Location'] = 'South Africa'
-
 # Thailand
 thailand_cities = "Bangkok"
 tweets_df.loc[tweets_df['User Location'].str.contains(thailand_cities, case=False, na=False), 'User Location'] = 'Thailand'
-
 # United States
 us_cities = "Angeles|York|Greenville|Michigan|Tampa|Fayetteville|Antonio|Manhattan|USA|Boston|Detroit|United States|" \
             "Dallas|Oklahoma|Jersey|Chicago|Albuquerque|Orlando|NYC|San Francisco|Leesburg|Ohio|Miami|Stamford|SEATTLE|" \
@@ -135,7 +119,6 @@ us_cities = "Angeles|York|Greenville|Michigan|Tampa|Fayetteville|Antonio|Manhatt
             "Darien|Mesa|Oshkosh|Laguna|Baltimore|Rochelle|Ridgefield|Castle Rock|Lake Forest|St Louis|Tyson|Santa Rosa|" \
             "Alexandria|Sacramento"
 tweets_df.loc[tweets_df['User Location'].str.contains(us_cities, case=False, na=False), 'User Location'] = 'United States of America'
-
 #United Kingdom
 uk_cities = "London|Liverpool|England|Scotland|UK|Ireland|United Kingdom|Wales"
 tweets_df.loc[tweets_df['User Location'].str.contains(uk_cities, case=False, na=False), 'User Location'] = 'United Kingdom'
