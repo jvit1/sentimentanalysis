@@ -12,7 +12,7 @@ bangladesh_cities = "Satkhira|Bangladesh"
 df.loc[df['User Location'].str.contains(bangladesh_cities, case=False, na=False), 'User Location'] = 'Bangladesh'
 
 # Brazil
-brazil_cities = "Goiânia|Janeiro|Brasil"
+brazil_cities = "Goiânia|Janeiro|Brasil|Brazil|Sao Paulo"
 df.loc[df['User Location'].str.contains(brazil_cities, case=False, na=False), 'User Location'] = 'Brazil'
 
 
@@ -31,12 +31,21 @@ df.loc[df['User Location'].str.contains(france_cities, case=False, na=False), 'U
 
 
 # Indonesia
-indonesia_cities = "Jakarta|Indonesia"
+indonesia_cities = "Jakarta|Indonesia|Bekasi|Java|Jawa"
 df.loc[df['User Location'].str.contains(indonesia_cities, case=False, na=False), 'User Location'] = 'Indonesia'
 
 # India
 india_cities = "Mumbai|India|bangalore|Nairobi|New Delhi"
 df.loc[df['User Location'].str.contains(india_cities, case=False, na=False), 'User Location'] = 'India'
+
+# Kenya
+kenya_cities = "Kisumu"
+df.loc[df['User Location'].str.contains(kenya_cities, case=False, na=False), 'User Location'] = 'Kenya'
+
+# Nigeria
+nigeria_cities = "Nigeria"
+df.loc[df['User Location'].str.contains(nigeria_cities, case=False, na=False), 'User Location'] = 'Nigeria'
+
 
 # Philippines
 pilippines_cities = "Caloocan"
@@ -59,7 +68,10 @@ us_cities = "Angeles|York|Greenville|Michigan|Tampa|Fayetteville|Antonio|Manhatt
             "Texas|Savannah|Salt Lake|New Orleans|Cary|Long Island|Concrete Jungle|united state|colorado|" \
             "grand rapids|Louisville|Charlotte|Atlanta|Jacksonville|Inglewood|Scottsdale|Palm Beach|Columbus|Kansas City|" \
             "California|Palo Alto|Columbus|Roanoke|Durham|Rochester|Beverly Hills|Utah|America|Madison|Philadelp|Hollywood|" \
-            "Boca Raton|Portland|Nashville|Tacoma|Wellington|Bethesda|Roseville|Bristol|Lafayette"
+            "Boca Raton|Portland|Nashville|Tacoma|Wellington|Bethesda|Roseville|Bristol|Lafayette|San Diego|Night City|" \
+            "Lauderdale|Wildwood|NJ|San Jose|TN|Hawaii|Brooklyn|Bethlehem|Orange County|Birmingham|Virginia|FL|Victoria|" \
+            "Silicon Valley|Brookline|Allentown|Pasadena|Queens|Nevada|Santa Clara|Lancaster|Bellevue|Marina del|Rockville|" \
+            "Darien"
 df.loc[df['User Location'].str.contains(us_cities, case=False, na=False), 'User Location'] = 'United States of America'
 
 #United Kingdom
