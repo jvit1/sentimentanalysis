@@ -1,28 +1,37 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 from textblob import TextBlob
 import re
-from nltk.corpus import stopwords
+import emoji
 
 '''
 The following file defines functions and values that are used throughout the scraper before outputting the cleaned dataset.
 '''
 
 
-def cleanTxt(text):
-    text = re.sub(r'@[A-Za-z0-9]+', '', text)  # no @s
+# Cleans the majority of the doo doo out of the tweet text
+def CleanText(text):
+    text = re.sub(r'@[A-Za-z0-9_]+', '', text)  # no @s
     text = re.sub(r'#', '', text)  # no hashtag symbols
-    text = re.sub(r'https?:\/\/\S+', '', text)  # remove hyperlink
+    text = re.sub(r'https?:\/\/\S+', '', text)  # Remove image links
+    text = re.sub(r'\$[A-Z]+', '', text)  # Remove currency labels
+    text = re.sub(r'\n', '', text)  # remove hyperlink
     return text
 
-# Spam Filter - Find way to apply this
-def spam_filter(df):
-    df = df[~df.Text.astype(str).str.contains("RT")]
-    df = df[~(df.UserFollowingCount <= 100)]  # Making sure total followers is greater than 100
-    df = df[~(df.TotalAccountLikes <= 100)]  # Making sure total account likes is greater than 100
-    df = df[(df.DefaultProfileImage == False)]
-    return df
+
+# Removes emojis
+def remove_emoji(text):
+    return emoji.get_emoji_regexp().sub(u'', text)
+
+
+# Subjectivity
+def Subjectivity(text):
+    return TextBlob(text).sentiment.subjectivity
+
+
+# Polarity
+def Polarity(text):
+    return TextBlob(text).sentiment.polarity
 
 
 # Current Price
