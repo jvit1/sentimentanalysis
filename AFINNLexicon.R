@@ -8,8 +8,8 @@ library(igraph)
 library(ggraph)
 library(tm)
 
-link = 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
-data <- read_csv(url(link))
+#link = 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
+data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv')
 
 data$Text <- sapply(data$Text, removeNumbers)
 # Tokenizes and removes stopwords. 
@@ -29,7 +29,6 @@ afinn.sent <- get_sentiments("afinn")
 sentiments <- review.words %>%
   inner_join(afinn.sent)
 
-sentiments$Date <- as.Date(sentiments$Date)
 
 final.table <- sentiments %>% select(`BTC Price`, Date, value) %>%
   group_by(Date, `BTC Price`) %>% summarize(score = mean(value))
