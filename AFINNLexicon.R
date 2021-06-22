@@ -42,8 +42,6 @@ word.totals <- review.words %>% group_by(word, Date) %>%
   summarize(count = n()) %>%
   arrange(desc(count))
 
-word.totals$Date <- as.Date(word.totals$Date)
-
 write.csv(word.totals,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/TotalWords.csv", row.names = FALSE)
 
 # Bigrams: We'll use the same approach as before.
