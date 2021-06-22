@@ -117,7 +117,7 @@ us_cities = "Angeles|York|Greenville|Michigan|Tampa|Fayetteville|Antonio|Manhatt
             "Lauderdale|Wildwood|NJ|San Jose|TN|Hawaii|Brooklyn|Bethlehem|Orange County|Birmingham|Virginia|FL|Victoria|" \
             "Silicon Valley|Brookline|Allentown|Pasadena|Queens|Nevada|Santa Clara|Lancaster|Bellevue|Marina del|Rockville|" \
             "Darien|Mesa|Oshkosh|Laguna|Baltimore|Rochelle|Ridgefield|Castle Rock|Lake Forest|St Louis|Tyson|Santa Rosa|" \
-            "Alexandria|Sacramento"
+            "Alexandria|Sacramento|Raleigh|NY"
 tweets_df.loc[tweets_df['User Location'].str.contains(us_cities, case=False, na=False), 'User Location'] = 'United States of America'
 #United Kingdom
 uk_cities = "London|Liverpool|England|Scotland|UK|Ireland|United Kingdom|Wales"
