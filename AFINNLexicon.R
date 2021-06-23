@@ -7,11 +7,26 @@ library(grid)
 library(igraph)
 library(ggraph)
 library(tm)
+library(data.table)
 
 #link = 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
 data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv')
 
 data$Text <- sapply(data$Text, removeNumbers)
+
+#Reformatting Today's Date
+today <- data[data$Date %like% as.character(Sys.Date()), ]
+today$Date <- as.Date(today$Date)
+
+other <- data[!data$Date %like% as.character(Sys.Date()), ]
+datetest <- as.character(other$Date)
+datetest <- gsub( " .*$", "", datetest)
+datetest <- gsub("/", "-", datetest)
+datetest <- as.Date(datetest, format = "%m-%d-%Y")
+other$Date <- datetest
+
+data <- bind_rows(today, other)
+
 # Tokenizes and removes stopwords. 
 review.words <- data %>%
   unnest_tokens(word, Text) %>%
