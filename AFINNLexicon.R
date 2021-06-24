@@ -8,9 +8,10 @@ library(igraph)
 library(ggraph)
 library(tm)
 library(data.table)
+print("Packages attached.")
 
-#link = 'https://raw.githubusercontent.com/jvit1/sentimentanalysis/main/Scraped_Tweets.csv'
 data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv')
+print("Data successfully loaded.")
 
 data$Text <- sapply(data$Text, removeNumbers)
 
@@ -99,7 +100,4 @@ bigram.count <- test %>%
 
 write.csv(bigram.count,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/TotalBigrams.csv", row.names = FALSE)
 
-# Fixing Geographic Location
-## Regex to change any with state code to USA
-data$`User Location` <- ifelse(grepl('[A-Z]{2}', data$`User Location`, fixed= FALSE), "United States", data$`User Location`)
-data$`User Location` <- ifelse(grepl('USA', data$`User Location`, fixed= TRUE), "United States", data$`User Location`)
+print("Complete!")
