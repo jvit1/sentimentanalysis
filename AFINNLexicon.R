@@ -15,6 +15,7 @@ print("Data successfully loaded.")
 
 data$Text <- sapply(data$Text, removeNumbers)
 
+
 #Reformatting Today's Date
 today <- data[data$Date %like% as.character(Sys.Date()), ]
 today$Date <- as.Date(today$Date)
@@ -27,6 +28,9 @@ datetest <- as.Date(datetest, format = "%m-%d-%Y")
 other$Date <- datetest
 
 data <- bind_rows(today, other)
+
+write.csv(data,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/DateFixTesting.csv", row.names = FALSE)
+data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/DateFixTesting.csv')
 
 # Tokenizes and removes stopwords. 
 review.words <- data %>%
