@@ -27,10 +27,10 @@ datetest <- gsub("/", "-", datetest)
 datetest <- as.Date(datetest, format = "%m-%d-%Y")
 other$Date <- datetest
 
-data <- bind_rows(today, other)
+data <- bind_rows(other, today)
 
-write.csv(data,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/DateFixTesting.csv", row.names = FALSE)
-data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/DateFixTesting.csv')
+write.csv(data,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/Scraped_Tweets.csv", row.names = FALSE)
+data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/Scraped_Tweets.csv')
 
 # Tokenizes and removes stopwords. 
 review.words <- data %>%
