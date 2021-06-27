@@ -2,6 +2,7 @@ import tweepy
 from Keys import *
 from NecessaryFunctions import *
 import pandas as pd
+from datetime import datetime
 
 # Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -41,9 +42,9 @@ tweets_df.insert(3, "Price", current_price, True)
 
 # Renaming Columns
 tweets_df.columns = ['Date', 'TweetID', 'Text', 'BTC Price', 'User Location',
-              'User follower count', 'UserFollowingCount', 'User Verified',
-              'Quote Status?', 'AccountCreationDate', 'Default Profile Theme?',
-              'DefaultProfileImage', 'TotalAccountLikes']
+                     'User follower count', 'UserFollowingCount', 'User Verified',
+                     'Quote Status?', 'AccountCreationDate', 'Default Profile Theme?',
+                     'DefaultProfileImage', 'TotalAccountLikes']
 
 # Removing Spam
 print("Removing some spam")
@@ -55,21 +56,22 @@ tweets_df = tweets_df[(tweets_df.DefaultProfileImage == False)]  # Making sure t
 tweets_df = tweets_df[~tweets_df.AccountCreationDate.astype(str).str.contains("2021")]  # Removing New Accounts
 tweets_df['Text'] = tweets_df['Text'].apply(remove_emoji)  # Removing Emojis
 
-#Subjectivity (opinion[1]) and Polarity (positive [1] or negative [0])
+# Subjectivity (opinion[1]) and Polarity (positive [1] or negative [0])
 tweets_df['Subjectivity'] = tweets_df['Text'].apply(Subjectivity)
 tweets_df['Polarity'] = tweets_df['Text'].apply(Polarity)
 
 tweets_df = tweets_df[(tweets_df.Polarity != 0)]  # Making sure polarity is not 0
 
-
 # Fixing Country Location
 print("Cleaning Locations")
 # Australia
 australia_cities = "Queensland|Sydney|Australia|Melbourne"
-tweets_df.loc[tweets_df['User Location'].str.contains(australia_cities, case=False, na=False), 'User Location'] = 'Australia'
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(australia_cities, case=False, na=False), 'User Location'] = 'Australia'
 # Bangledesh
 bangladesh_cities = "Satkhira|Bangladesh"
-tweets_df.loc[tweets_df['User Location'].str.contains(bangladesh_cities, case=False, na=False), 'User Location'] = 'Bangladesh'
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(bangladesh_cities, case=False, na=False), 'User Location'] = 'Bangladesh'
 # Brazil
 brazil_cities = "Goiânia|Janeiro|Brasil|Brazil|Sao Paulo"
 tweets_df.loc[tweets_df['User Location'].str.contains(brazil_cities, case=False, na=False), 'User Location'] = 'Brazil'
@@ -84,7 +86,8 @@ france_cities = "France|Paris"
 tweets_df.loc[tweets_df['User Location'].str.contains(france_cities, case=False, na=False), 'User Location'] = 'France'
 # Indonesia
 indonesia_cities = "Jakarta|Indonesia|Bekasi|Java|Jawa"
-tweets_df.loc[tweets_df['User Location'].str.contains(indonesia_cities, case=False, na=False), 'User Location'] = 'Indonesia'
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(indonesia_cities, case=False, na=False), 'User Location'] = 'Indonesia'
 # India
 india_cities = "Mumbai|India|bangalore|Nairobi|New Delhi"
 tweets_df.loc[tweets_df['User Location'].str.contains(india_cities, case=False, na=False), 'User Location'] = 'India'
@@ -93,19 +96,24 @@ kenya_cities = "Kisumu"
 tweets_df.loc[tweets_df['User Location'].str.contains(kenya_cities, case=False, na=False), 'User Location'] = 'Kenya'
 # Malaysia
 Malaysia_cities = "Malaysia|Kuala"
-tweets_df.loc[tweets_df['User Location'].str.contains(Malaysia_cities, case=False, na=False), 'User Location'] = 'Malaysia'
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(Malaysia_cities, case=False, na=False), 'User Location'] = 'Malaysia'
 # Nigeria
 nigeria_cities = "Nigeria"
-tweets_df.loc[tweets_df['User Location'].str.contains(nigeria_cities, case=False, na=False), 'User Location'] = 'Nigeria'
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(nigeria_cities, case=False, na=False), 'User Location'] = 'Nigeria'
 # Philippines
 pilippines_cities = "Caloocan|Philippines"
-tweets_df.loc[tweets_df['User Location'].str.contains(pilippines_cities, case=False, na=False), 'User Location'] = 'Philippines'
-#South Africa
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(pilippines_cities, case=False, na=False), 'User Location'] = 'Philippines'
+# South Africa
 south_africancities = "Midrand|South Africa"
-tweets_df.loc[tweets_df['User Location'].str.contains(south_africancities, case=False, na=False), 'User Location'] = 'South Africa'
+tweets_df.loc[tweets_df['User Location'].str.contains(south_africancities, case=False,
+                                                      na=False), 'User Location'] = 'South Africa'
 # Thailand
 thailand_cities = "Bangkok"
-tweets_df.loc[tweets_df['User Location'].str.contains(thailand_cities, case=False, na=False), 'User Location'] = 'Thailand'
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(thailand_cities, case=False, na=False), 'User Location'] = 'Thailand'
 # United States
 us_cities = "Angeles|York|Greenville|Michigan|Tampa|Fayetteville|Antonio|Manhattan|USA|Boston|Detroit|United States|" \
             "Dallas|Oklahoma|Jersey|Chicago|Albuquerque|Orlando|NYC|San Francisco|Leesburg|Ohio|Miami|Stamford|SEATTLE|" \
@@ -118,12 +126,15 @@ us_cities = "Angeles|York|Greenville|Michigan|Tampa|Fayetteville|Antonio|Manhatt
             "Silicon Valley|Brookline|Allentown|Pasadena|Queens|Nevada|Santa Clara|Lancaster|Bellevue|Marina del|Rockville|" \
             "Darien|Mesa|Oshkosh|Laguna|Baltimore|Rochelle|Ridgefield|Castle Rock|Lake Forest|St Louis|Tyson|Santa Rosa|" \
             "Alexandria|Sacramento|Raleigh|NY"
-tweets_df.loc[tweets_df['User Location'].str.contains(us_cities, case=False, na=False), 'User Location'] = 'United States of America'
-#United Kingdom
+tweets_df.loc[tweets_df['User Location'].str.contains(us_cities, case=False,
+                                                      na=False), 'User Location'] = 'United States of America'
+# United Kingdom
 uk_cities = "London|Liverpool|England|Scotland|UK|Ireland|United Kingdom|Wales"
-tweets_df.loc[tweets_df['User Location'].str.contains(uk_cities, case=False, na=False), 'User Location'] = 'United Kingdom'
+tweets_df.loc[
+    tweets_df['User Location'].str.contains(uk_cities, case=False, na=False), 'User Location'] = 'United Kingdom'
 
-
-# mode='a' to append once ready for production
-tweets_df.to_csv("Scraped_Tweets.csv", header=False, mode='a')
+# Files are now timestamped. Will be combined using R. This is to begin saving individual days to prevent accidental deletion.
+timestamp = 'Tweets_' + str(datetime.now().strftime('%m_%d_%Y')) + '.csv'
+path = 'C:\\Users\\student\\Documents\\UVA\\Portfolio Projects\\Sentiment Analysis\\sentimentanalysis\\TimeStamped\\'
+tweets_df.to_csv(path + timestamp, header=True)
 print("All done, check out final csv")
