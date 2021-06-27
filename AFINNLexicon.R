@@ -10,27 +10,19 @@ library(tm)
 library(data.table)
 print("Packages attached.")
 
-data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv')
-print("Data successfully loaded.")
+#Opening and reformatting tweets from today
+path <- "C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/TimeStamped/Tweets_"
+date.today <- format(Sys.Date(), "%m_%d_%Y")
+data.today <- read.csv(paste(path, date.today, ".csv", sep = ""))
+data.today$Date <- as.Date(data.today$Date)
 
-data$Text <- sapply(data$Text, removeNumbers)
+#Adding to combined csv
+total <- read.csv("C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv", header = T)
+total$Date <- as.Date(total$Date, "%Y-%m-%d")
 
-
-#Reformatting Today's Date
-today <- data[data$Date %like% as.character(Sys.Date()), ]
-today$Date <- as.Date(today$Date)
-
-other <- data[!data$Date %like% as.character(Sys.Date()), ]
-datetest <- as.character(other$Date)
-datetest <- gsub( " .*$", "", datetest)
-datetest <- gsub("/", "-", datetest)
-datetest <- as.Date(datetest, format = "%m-%d-%Y")
-other$Date <- datetest
-
-data <- bind_rows(other, today)
-
-write.csv(data,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv", row.names = FALSE)
-data <- read_csv('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/Scraped_Tweets.csv')
+scraped.tweets <- rbind(total, data.today)
+write.csv(scraped.tweets,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv", row.names = FALSE)
+data <- scraped.tweets
 
 # Tokenizes and removes stopwords. 
 review.words <- data %>%
