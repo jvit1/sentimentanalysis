@@ -10,19 +10,7 @@ library(tm)
 library(data.table)
 print("Packages attached.")
 
-#Opening and reformatting tweets from today
-path <- "C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/TimeStamped/Tweets_"
-date.today <- format(Sys.Date(), "%m_%d_%Y")
-data.today <- read.csv(paste(path, date.today, ".csv", sep = ""))
-data.today$Date <- as.Date(data.today$Date)
-
-#Adding to combined csv
-total <- read.csv("C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv", header = T)
-total$Date <- as.Date(total$Date, "%Y-%m-%d")
-
-scraped.tweets <- rbind(total, data.today)
-write.csv(scraped.tweets,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv", row.names = FALSE)
-data <- scraped.tweets
+data <- read.csv("C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv", header = T)
 
 # Tokenizes and removes stopwords. 
 review.words <- data %>%
@@ -86,8 +74,6 @@ test <- bigrams %>%
   filter(!word1 %in% new_stop_words) %>%
   filter(!word2 %in% new_stop_words) %>%
   unite(bigram, word1, word2, sep = " ")
-
-test$Date <- as.Date(test$Date)
 
 bigram.count <- test %>%
   group_by(bigram, Date) %>%
