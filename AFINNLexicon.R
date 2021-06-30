@@ -29,7 +29,7 @@ afinn.sent <- get_sentiments("afinn")
 sentiments <- review.words %>%
   inner_join(afinn.sent)
 
-sentiments$Date <- as.Date(sentiments$Date, "%m/%d/%Y")
+sentiments$Date <- format(as.Date(sentiments$Date, format = "%Y-%m-%d"), "%m/%d/%Y")
 
 final.table <- sentiments %>% select(BTC.Price, Date, value) %>%
   group_by(Date, BTC.Price) %>% summarize(score = mean(value))
