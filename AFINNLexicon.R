@@ -34,7 +34,6 @@ sentiments$Date <- format(as.Date(sentiments$Date, format = "%Y-%m-%d"), "%m/%d/
 final.table <- sentiments %>% select(BTC.Price, Date, value) %>%
   group_by(Date, BTC.Price) %>% summarize(score = mean(value))
 
-
 write.csv(sentiments,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Data/LexiconScores.csv", row.names = FALSE)
 #################################
 
