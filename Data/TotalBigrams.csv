@@ -1,6 +1,7 @@
 "bigram","Date","count"
 "similar times","2021-06-21",185
 "trading options","2021-06-21",185
+" ","2021-07-04",106
 "similar times","2021-06-23",78
 "trading options","2021-06-23",78
 "similar times","2021-06-24",60
@@ -108,8 +109,11 @@
 " ","2021-06-18",15
 "contacted wendy","2021-06-17",15
 "cryptotv ctv","2021-06-03",15
+"current momentum","2021-07-04",15
 "elon musk","2021-06-04",15
+"momentum suggests","2021-07-04",15
 "sending money","2021-06-02",15
+"weakly trending","2021-07-04",15
 "wendy earlier","2021-06-17",15
 " ","2021-06-09",14
 "20 35","2021-06-02",14
@@ -214,11 +218,13 @@
 "trading options","2021-07-02",9
 " ","2021-05-25",8
 " ","2021-06-10",8
+" monetize","2021-07-04",8
 "100daysofcode blockchain","2021-06-21",8
 "5g ar","2021-06-21",8
 "ai machinelearning","2021-06-21",8
 "altcoin born","2021-06-13",8
 "amp mining","2021-06-03",8
+"android device","2021-07-04",8
 "ar robotics","2021-06-21",8
 "bigdata 5g","2021-06-21",8
 "block ","2021-06-13",8
@@ -227,6 +233,8 @@
 "counter strike","2021-06-03",8
 "crypto ml","2021-06-21",8
 "cryptonews ai","2021-06-21",8
+"cryptotab browser","2021-07-04",8
+"device free","2021-07-04",8
 "dj set","2021-06-23",8
 "dogecoin ethereum","2021-06-17",8
 "easily cash","2021-06-03",8
@@ -235,17 +243,21 @@
 "eth dogecoin","2021-06-17",8
 "eth insurance","2021-06-21",8
 "fintech vr","2021-06-21",8
+"free mining","2021-07-04",8
 "futureofwork defi","2021-06-21",8
 "infinitecoin block","2021-06-13",8
 "infinitecoin ifc","2021-06-13",8
 "injecting technology","2021-06-13",8
 "insurance coin","2021-06-21",8
+"investments stay","2021-07-04",8
 "investors injecting","2021-06-13",8
 "iot cloudcomputing","2021-06-21",8
 "ltc eth","2021-06-21",8
 "machinelearning bigdata","2021-06-21",8
 "ml iot","2021-06-21",8
+"mlm usd","2021-07-04",8
 "nft rpa","2021-06-21",8
+"passiveincome ","2021-07-04",8
 "paul tudor","2021-06-14",8
 "resources infinitecoin","2021-06-13",8
 "robotics crypto","2021-06-21",8
@@ -253,8 +265,11 @@
 "safemoon shibainu","2021-06-14",8
 "safesol safemoon","2021-06-14",8
 "sale fintech","2021-06-21",8
+"special version","2021-07-04",8
+"stay online","2021-07-04",8
 "strategic investors","2021-06-13",8
 "talk coinmarketcap","2021-06-13",8
+"time passiveincome","2021-07-04",8
 "top altcoin","2021-06-13",8
 "trading amp","2021-06-03",8
 "tudor jones","2021-06-14",8
@@ -450,6 +465,7 @@
 "buys 13","2021-06-21",5
 "cease amp","2021-06-16",5
 "channel arynews","2021-06-28",5
+"code ir10","2021-07-04",5
 "corp boss","2021-06-16",5
 "corruption ","2021-06-16",5
 "crypto crypto","2021-06-06",5
@@ -468,6 +484,7 @@
 "el salvador","2021-07-01",5
 "elon musk","2021-06-09",5
 "elon musk","2021-06-15",5
+"enjoy 10","2021-07-04",5
 "eth airdrop","2021-06-16",5
 "eth dogecoin","2021-06-06",5
 "eth eth","2021-06-06",5
@@ -482,8 +499,11 @@
 "fox corp","2021-06-16",5
 "freeze cryptocurrencies","2021-06-13",5
 "garlinghouse laughs","2021-05-27",5
+"gift gifts","2021-07-04",5
 "giftideas shop","2021-06-30",5
+"giftideas shop","2021-07-04",5
 "gifts giftideas","2021-06-13",5
+"gifts giftideas","2021-07-04",5
 "happened votegoestowaqarzaka","2021-06-28",5
 "hecker ","2021-06-16",5
 "hold 36","2021-06-30",5
@@ -503,6 +523,7 @@
 "ortcoin ort","2021-06-29",5
 "past decade","2021-06-07",5
 "poor african","2021-06-16",5
+"popcorn enjoy","2021-07-04",5
 "price model","2021-07-01",5
 "project goals","2021-06-18",5
 "red candle","2021-07-01",5
@@ -510,7 +531,9 @@
 "releases tape","2021-06-16",5
 "satellite news","2021-06-28",5
 "shop shopping","2021-06-30",5
+"shop shopping","2021-07-04",5
 "shopping affiliatemarketing","2021-06-30",5
+"shopping affiliatemarketing","2021-07-04",5
 "similar times","2021-06-05",5
 "similar times","2021-06-25",5
 "sound money","2021-05-31",5
@@ -617,6 +640,7 @@
 "crypto trading","2021-06-03",4
 "cryto airdrop","2021-06-21",4
 "deal gift","2021-06-12",4
+"deal gift","2021-07-04",4
 "death cross","2021-06-16",4
 "death cross","2021-06-20",4
 "decade don","2021-06-25",4
@@ -627,6 +651,7 @@
 "doge 105","2021-06-17",4
 "doge team","2021-06-17",4
 "dogecoin deal","2021-06-12",4
+"dogecoin deal","2021-07-04",4
 "dogecoin ethereum","2021-06-18",4
 "dogecoin ethereum","2021-06-27",4
 "drug don","2021-05-31",4
@@ -689,6 +714,7 @@
 "huge profits","2021-06-25",4
 "human history","2021-06-18",4
 "ico eth","2021-06-17",4
+"independence day","2021-07-04",4
 "installation 100","2021-06-18",4
 "instant amazing","2021-06-17",4
 "investment round","2021-06-04",4
@@ -783,6 +809,7 @@
 "smart contracts","2021-06-20",4
 "smart people","2021-06-12",4
 "socialmedia tumblr","2021-06-30",4
+"socialmedia tumblr","2021-07-04",4
 "souvenir giftyou","2021-05-30",4
 "sportspicks gamblingtwitter","2021-05-31",4
 "sportspicks gamblingtwitter","2021-06-04",4
@@ -802,6 +829,7 @@
 "transparent road","2021-05-28",4
 "trump save","2021-06-12",4
 "tumblr dogecoin","2021-06-30",4
+"tumblr dogecoin","2021-07-04",4
 "unalienable amp","2021-06-18",4
 "usd profits","2021-06-11",4
 "viral meme","2021-06-26",4
@@ -872,6 +900,7 @@
 "alienworldsmining blockchain","2021-06-25",3
 "alienworldsnft alienworldsgame","2021-06-25",3
 "allah kane","2021-06-25",3
+"altcoin cryptonews","2021-07-04",3
 "altcoin defi","2021-06-07",3
 "amazing doge","2021-06-18",3
 "amazing project","2021-05-28",3
@@ -916,6 +945,7 @@
 "bitcoinsportsbetting betting","2021-06-09",3
 "blockchain crypto","2021-05-26",3
 "blockchain cryptonews","2021-05-28",3
+"blockchain cryptotrading","2021-07-04",3
 "blockchain defi","2021-06-16",3
 "blockchain tokensale","2021-06-07",3
 "bloomberg's mike","2021-05-25",3
@@ -957,6 +987,7 @@
 "cards shares","2021-05-25",3
 "central bank","2021-05-26",3
 "central bank","2021-06-16",3
+"central banks","2021-07-04",3
 "ceo mary","2021-06-16",3
 "chain death","2021-06-28",3
 "chart pattern","2021-06-21",3
@@ -987,6 +1018,7 @@
 "crypto bdf","2021-06-28",3
 "crypto binance","2021-05-29",3
 "crypto binance","2021-06-29",3
+"crypto binance","2021-07-04",3
 "crypto crackdown","2021-06-24",3
 "crypto crypto","2021-05-27",3
 "crypto crypto","2021-06-02",3
@@ -1000,6 +1032,7 @@
 "crypto tracker","2021-06-24",3
 "cryptocurrencies fintech","2021-05-29",3
 "cryptomarket data","2021-07-01",3
+"cryptotrading investing","2021-07-04",3
 "current formation","2021-06-07",3
 "customer demand","2021-06-16",3
 "daily sentiment","2021-06-07",3
@@ -1138,6 +1171,7 @@
 "gt gt","2021-06-11",3
 "happy father","2021-06-20",3
 "happy father's","2021-06-20",3
+"happy independence","2021-07-04",3
 "hash rate","2021-06-28",3
 "heavy check","2021-06-03",3
 "heco hecochain","2021-06-21",3
@@ -1267,6 +1301,7 @@
 "position size","2021-06-25",3
 "powerful latoken","2021-06-15",3
 "premium stays","2021-06-07",3
+"presale blockchain","2021-07-04",3
 "president nayib","2021-06-23",3
 "president proposes","2021-06-06",3
 "pretty bullish","2021-06-15",3
@@ -1367,6 +1402,7 @@
 "tips seriouslyi","2021-06-07",3
 "tokensale airdrop","2021-06-07",3
 "tony hawk","2021-06-05",3
+"top 5","2021-07-04",3
 "top recommended","2021-05-30",3
 "top recommended","2021-06-13",3
 "toronto blue","2021-06-16",3
@@ -1374,6 +1410,7 @@
 "trade tokens","2021-06-10",3
 "trade tokens","2021-06-15",3
 "traders panic","2021-06-06",3
+"trading altcoin","2021-07-04",3
 "trading amp","2021-06-01",3
 "trading blockchain","2021-05-28",3
 "trading bots","2021-05-28",3
@@ -1412,6 +1449,7 @@
 "zignaly crypto","2021-05-28",3
 " 1","2021-06-02",2
 " 1","2021-06-04",2
+" 1","2021-07-04",2
 " 150m","2021-06-21",2
 " 25","2021-06-12",2
 " bilpcoin","2021-06-21",2
@@ -1432,6 +1470,7 @@
 " micro","2021-06-06",2
 " micro","2021-06-09",2
 " news","2021-06-13",2
+" range","2021-07-04",2
 " rich","2021-07-02",2
 " top","2021-06-20",2
 "000 instant","2021-06-24",2
@@ -1506,6 +1545,7 @@
 "30 decline","2021-06-24",2
 "30 profit","2021-06-03",2
 "30 worth","2021-06-25",2
+"30k 38k","2021-07-04",2
 "30k level","2021-06-28",2
 "31k retest","2021-07-01",2
 "32 laps","2021-05-31",2
@@ -1515,6 +1555,7 @@
 "370 billion","2021-06-16",2
 "39 73","2021-05-27",2
 "3rd parties","2021-06-01",2
+"4 blockchain","2021-07-04",2
 "4 todayas","2021-06-01",2
 "400 million","2021-06-07",2
 "400 million","2021-06-08",2
@@ -1589,6 +1630,7 @@
 "airdrop sir","2021-06-29",2
 "airdropinspector polychainprotocol","2021-06-17",2
 "airdrops airdropdetective","2021-05-28",2
+"airdrops airdropdetective","2021-07-04",2
 "airdrops airdropinspector","2021-06-17",2
 "airdrops binance","2021-06-27",2
 "alien technology","2021-06-17",2
@@ -1698,6 +1740,7 @@
 "betting sportspicks","2021-06-18",2
 "bex blockchain","2021-06-23",2
 "bex blockchain","2021-06-29",2
+"bid4bit 4","2021-07-04",2
 "biggest risks","2021-07-01",2
 "billion people","2021-06-04",2
 "billion people","2021-06-22",2
@@ -1716,6 +1759,7 @@
 "binance pancakeswap","2021-06-04",2
 "binance restrictions","2021-06-28",2
 "binance shibabsc","2021-06-01",2
+"binance tron","2021-07-04",2
 "binancesmartchain binance","2021-06-02",2
 "binancesmartchain binance","2021-06-04",2
 "binancesmartchain binance","2021-06-05",2
@@ -1913,6 +1957,7 @@
 "clients access","2021-06-02",2
 "climate climate","2021-06-03",2
 "close bellow","2021-07-01",2
+"close daily","2021-07-04",2
 "close eye","2021-06-28",2
 "co2 footprint","2021-06-24",2
 "coal dwfe","2021-05-27",2
@@ -1942,6 +1987,7 @@
 "conference herald","2021-06-07",2
 "considered china's","2021-06-21",2
 "consistent honest","2021-06-14",2
+"consolidated inside","2021-07-04",2
 "continues amid","2021-06-21",2
 "contradiction amp","2021-06-18",2
 "convenience store","2021-05-28",2
@@ -2007,6 +2053,7 @@
 "crypto exchange","2021-06-27",2
 "crypto exchange","2021-06-30",2
 "crypto exchange","2021-07-02",2
+"crypto exchange","2021-07-04",2
 "crypto firms","2021-06-07",2
 "crypto garbage","2021-06-16",2
 "crypto green","2021-07-01",2
@@ -2069,6 +2116,7 @@
 "dad author","2021-07-02",2
 "dad poor","2021-07-02",2
 "daily 9","2021-06-16",2
+"daily active","2021-07-04",2
 "daily basis","2021-06-03",2
 "daily close","2021-06-22",2
 "daily directly","2021-06-01",2
@@ -2360,6 +2408,7 @@
 "fees amp","2021-06-01",2
 "fiat amp","2021-06-25",2
 "fiat currencies","2021-06-03",2
+"fiat currencies","2021-07-04",2
 "fiat financial","2021-05-25",2
 "fiat money","2021-06-11",2
 "finance esg","2021-06-08",2
@@ -2430,6 +2479,7 @@
 "future coinswitch","2021-06-21",2
 "future focus","2021-06-16",2
 "future price","2021-06-20",2
+"futures visit","2021-07-04",2
 "g7 inks","2021-06-07",2
 "gaining access","2021-06-08",2
 "gains tax","2021-06-10",2
@@ -2505,6 +2555,7 @@
 "gold hedge","2021-05-30",2
 "gold sell","2021-06-15",2
 "golden opportunity","2021-06-07",2
+"golden rangeeach","2021-07-04",2
 "google launches","2021-06-23",2
 "gorilla strong","2021-06-16",2
 "government wallet","2021-06-25",2
@@ -2527,6 +2578,7 @@
 "hacking computerhacking","2021-05-31",2
 "hakuna matata","2021-05-31",2
 "handles fast","2021-06-22",2
+"happy 4th","2021-07-04",2
 "hashrate plummets","2021-06-21",2
 "hashtag coinswitchturns4","2021-06-01",2
 "held straight","2021-06-23",2
@@ -2567,6 +2619,7 @@
 "ico investment","2021-06-13",2
 "ico investment","2021-06-20",2
 "ico investment","2021-06-25",2
+"icp aave","2021-07-04",2
 "ieo blockchain","2021-05-26",2
 "ieo blockchain","2021-05-28",2
 "ieo blockchain","2021-05-29",2
@@ -2581,6 +2634,7 @@
 "infinitely divisible","2021-06-26",2
 "inflation fears","2021-06-21",2
 "inflation time","2021-06-15",2
+"inflationary fiat","2021-07-04",2
 "influencer whale","2021-06-04",2
 "info forex","2021-05-27",2
 "info site","2021-06-18",2
@@ -2649,6 +2703,7 @@
 "latoken latokenapp","2021-06-11",2
 "latokenapp earnonlatoken","2021-06-09",2
 "latokenapp earnonlatoken","2021-06-11",2
+"layer 2","2021-07-04",2
 "lead david","2021-06-21",2
 "leads crypto","2021-06-15",2
 "league final","2021-05-26",2
@@ -2681,6 +2736,7 @@
 "location join","2021-06-18",2
 "location join","2021-06-30",2
 "location join","2021-07-02",2
+"location join","2021-07-04",2
 "longed 2","2021-05-26",2
 "longed 2","2021-06-01",2
 "longed 3","2021-05-26",2
@@ -2699,6 +2755,8 @@
 "lowest level","2021-06-28",2
 "lucky people","2021-05-28",2
 "lucky winners","2021-06-01",2
+"macro uptrend","2021-07-04",2
+"macro uptrends","2021-07-04",2
 "mainnet pump","2021-06-30",2
 "mainstream media","2021-05-25",2
 "major banking","2021-06-02",2
@@ -2790,7 +2848,9 @@
 "negative roi","2021-06-15",2
 "negative suggests","2021-06-06",2
 "net worth","2021-06-13",2
+"neutral news","2021-07-04",2
 "news direct","2021-06-01",2
+"news visit","2021-07-04",2
 "nft bnb","2021-06-22",2
 "nft defi","2021-06-23",2
 "nft global","2021-07-01",2
@@ -2827,6 +2887,7 @@
 "nifty sensex","2021-07-01",2
 "nigerian central","2021-06-16",2
 "norwegian government","2021-06-21",2
+"nowfollowing tweets","2021-07-04",2
 "npr el","2021-06-06",2
 "numerous times","2021-05-29",2
 "nzc nzcpresale","2021-06-14",2
@@ -2908,6 +2969,7 @@
 "playing coinhuntworld","2021-06-18",2
 "playing coinhuntworld","2021-06-30",2
 "playing coinhuntworld","2021-07-02",2
+"playing coinhuntworld","2021-07-04",2
 "pm cdtnew","2021-06-25",2
 "polkadot blockchain","2021-06-03",2
 "polkadot defi","2021-06-02",2
@@ -2982,6 +3044,8 @@
 "project yieldfarming","2021-06-25",2
 "projected airdrop","2021-05-28",2
 "projectmocktailswap mok","2021-06-18",2
+"property rights","2021-07-04",2
+"provide evidence","2021-07-04",2
 "pufferswap defi","2021-06-21",2
 "purchases sinc","2021-06-04",2
 "purchasing power","2021-05-25",2
@@ -2994,6 +3058,7 @@
 "racist racist","2021-06-03",2
 "raees cajee","2021-06-24",2
 "raised money","2021-06-24",2
+"rangeeach time","2021-07-04",2
 "ransom payment","2021-06-08",2
 "ransomware hackers","2021-06-08",2
 "raspberry pi","2021-06-16",2
@@ -3039,6 +3104,7 @@
 "reputable gaming","2021-06-04",2
 "reserve ","2021-06-05",2
 "resistance 31k","2021-07-01",2
+"resistance zone","2021-07-04",2
 "retail investors","2021-06-20",2
 "revenue share","2021-06-11",2
 "revenue share","2021-06-12",2
@@ -3205,6 +3271,7 @@
 "straight upodds","2021-06-18",2
 "strong project","2021-06-24",2
 "strong projectthanks","2021-06-21",2
+"strong resistance","2021-07-04",2
 "stupid people","2021-06-29",2
 "stupid shit","2021-06-13",2
 "successfully mocktailswap","2021-06-18",2
@@ -3268,10 +3335,12 @@
 "trademoneta crypto","2021-06-18",2
 "traders eye","2021-06-21",2
 "traders trading","2021-07-01",2
+"trading bag","2021-07-04",2
 "trading blockchain","2021-06-25",2
 "trading bot","2021-06-03",2
 "trading bots","2021-06-25",2
 "trading challenge","2021-06-03",2
+"trading daytrading","2021-07-04",2
 "trading mining","2021-06-03",2
 "trading orforex","2021-06-13",2
 "trading platform","2021-06-03",2
@@ -3291,6 +3360,7 @@
 "trend line","2021-06-16",2
 "trending crypto","2021-06-25",2
 "trending finance","2021-05-25",2
+"tron cryptocurrencies","2021-07-04",2
 "tsla pump","2021-06-05",2
 "tudor jones","2021-06-15",2
 "tumblr affiliatemarketing","2021-06-11",2
@@ -3434,6 +3504,7 @@
 " 2","2021-06-02",1
 " 2","2021-06-09",1
 " 2","2021-06-17",1
+" 2","2021-07-04",1
 " 200","2021-06-14",1
 " 2021","2021-06-26",1
 " 2021","2021-06-30",1
@@ -3441,6 +3512,8 @@
 " 278","2021-06-26",1
 " 3000","2021-06-12",1
 " 31","2021-06-26",1
+" 313","2021-07-04",1
+" 35","2021-07-04",1
 " 37","2021-06-02",1
 " 39","2021-05-27",1
 " 4","2021-06-30",1
@@ -3451,6 +3524,7 @@
 " 6","2021-06-16",1
 " 7","2021-06-23",1
 " 71","2021-06-23",1
+" abbate","2021-07-04",1
 " action","2021-06-30",1
 " add","2021-06-29",1
 " airdrop","2021-06-24",1
@@ -3589,6 +3663,7 @@
 " ltc","2021-06-24",1
 " major","2021-06-04",1
 " memecoin","2021-06-27",1
+" mentioned","2021-07-04",1
 " mercopress","2021-06-10",1
 " mexico","2021-06-09",1
 " miami","2021-05-27",1
@@ -3653,6 +3728,7 @@
 " tether's","2021-06-21",1
 " trading","2021-06-28",1
 " traveling","2021-06-02",1
+" trustnodes","2021-07-04",1
 " trx","2021-06-24",1
 " turkovac","2021-06-23",1
 " tyler","2021-06-21",1
@@ -3744,6 +3820,7 @@
 "09 51","2021-06-25",1
 "0doubt xrp","2021-06-01",1
 "0x0573b0c4895f41027a43739106fadad73257a8bc yieldfarming","2021-06-06",1
+"0x0f142e7a0d2835bc5f45255b4fa3281340bd1f5d yieldfarming","2021-07-04",1
 "0x2446a20866b24b57c614965c7d60ef5340c994bf bsc","2021-06-12",1
 "0x2a4aa1cf1cae14426724b1d959d5b96d7c478b5d yieldfarming","2021-06-18",1
 "0x32c09b7b5ab664b7cb4409b6e1f2fe61ac957b5bbitcoin memecoins","2021-06-10",1
@@ -3805,6 +3882,7 @@
 "1 capital","2021-06-10",1
 "1 civilization","2021-06-13",1
 "1 click","2021-06-13",1
+"1 complete","2021-07-04",1
 "1 convert","2021-06-04",1
 "1 core","2021-05-29",1
 "1 corelation","2021-07-02",1
@@ -3831,6 +3909,7 @@
 "1 human","2021-06-24",1
 "1 introducing","2021-06-16",1
 "1 jeju","2021-06-01",1
+"1 kuningi","2021-07-04",1
 "1 legal","2021-06-12",1
 "1 lost","2021-06-28",1
 "1 luckily","2021-06-03",1
@@ -3866,6 +3945,7 @@
 "1 rest","2021-06-26",1
 "1 retest","2021-05-30",1
 "1 sat","2021-07-02",1
+"1 satoshi","2021-07-04",1
 "1 scam","2021-06-07",1
 "1 scams","2021-06-20",1
 "1 sect","2021-05-30",1
@@ -3876,6 +3956,7 @@
 "1 super","2021-06-21",1
 "1 thread","2021-06-06",1
 "1 trillion","2021-05-29",1
+"1 ux","2021-07-04",1
 "1 visit","2021-05-29",1
 "1 vote","2021-06-01",1
 "1 week","2021-06-02",1
@@ -3921,6 +4002,7 @@
 "10 lucky","2021-06-02",1
 "10 lucky","2021-06-05",1
 "10 lucky","2021-06-17",1
+"10 lumber","2021-07-04",1
 "10 million","2021-06-01",1
 "10 million","2021-06-27",1
 "10 million","2021-07-02",1
@@ -3947,12 +4029,16 @@
 "100 1k","2021-05-27",1
 "100 1k","2021-06-15",1
 "100 200","2021-06-27",1
+"100 200","2021-07-04",1
 "100 200k","2021-06-21",1
 "100 24h","2021-06-07",1
 "100 advised","2021-06-12",1
 "100 agree","2021-06-07",1
 "100 availablediamond","2021-06-27",1
+"100 bagger","2021-07-04",1
 "100 bill","2021-06-30",1
+"100 complete","2021-07-04",1
+"100 correct","2021-07-04",1
 "100 decentralized","2021-06-25",1
 "100 deposit","2021-06-21",1
 "100 deposit","2021-07-02",1
@@ -4019,6 +4105,7 @@
 "100k usdbitcoin","2021-06-27",1
 "100m people","2021-06-02",1
 "100m people","2021-06-04",1
+"100m satoshis","2021-07-04",1
 "100m subdivision","2021-06-14",1
 "100t ","2021-06-25",1
 "100x bigger","2021-06-27",1
@@ -4108,6 +4195,7 @@
 "13333 shib","2021-06-14",1
 "13pm link","2021-06-15",1
 "14 10","2021-06-24",1
+"14 21","2021-07-04",1
 "14 contributed","2021-06-16",1
 "14 days","2021-07-02",1
 "1400 384","2021-05-28",1
@@ -4174,6 +4262,7 @@
 "180 rugspulls","2021-06-20",1
 "1800 blocks","2021-06-17",1
 "1820 sat","2021-06-22",1
+"18626914 1","2021-07-04",1
 "1886 ethereum","2021-06-30",1
 "18th amp","2021-06-10",1
 "19 06","2021-07-02",1
@@ -4209,6 +4298,7 @@
 "1m 21t","2021-06-25",1
 "1m ago","2021-06-26",1
 "1m candles","2021-06-09",1
+"1m dogecoin","2021-07-04",1
 "1m holding","2021-06-23",1
 "1m shares","2021-06-23",1
 "1me8rc2wnywn5f1qedg7hit4sd9ptqfqdybitcoin2021 dodgecoin","2021-06-03",1
@@ -4261,6 +4351,7 @@
 "2 entries","2021-06-22",1
 "2 ethereum","2021-06-02",1
 "2 ethereum","2021-06-26",1
+"2 ethereum","2021-07-04",1
 "2 extremes","2021-05-28",1
 "2 feet","2021-05-30",1
 "2 food","2021-06-25",1
@@ -4291,6 +4382,7 @@
 "2 retweet","2021-06-24",1
 "2 secs","2021-06-07",1
 "2 simply","2021-06-17",1
+"2 solutions","2021-07-04",1
 "2 transport","2021-06-02",1
 "2 ultimately","2021-06-24",1
 "2 utk","2021-05-25",1
@@ -4311,6 +4403,7 @@
 "20 bill","2021-06-12",1
 "20 day","2021-06-21",1
 "20 essentially","2021-05-27",1
+"20 lakh","2021-07-04",1
 "20 polygon","2021-06-14",1
 "20 polygon","2021-06-17",1
 "20 pump","2021-06-13",1
@@ -4327,6 +4420,7 @@
 "20 trade","2021-06-16",1
 "20 trade","2021-06-17",1
 "20 trade","2021-06-18",1
+"20 trading","2021-07-04",1
 "20 trillion","2021-05-25",1
 "20 wma","2021-05-31",1
 "20 worth","2021-05-26",1
@@ -4338,6 +4432,7 @@
 "200 500","2021-06-27",1
 "200 annually","2021-06-30",1
 "200 cagr","2021-06-01",1
+"200 close","2021-07-04",1
 "200 day","2021-05-28",1
 "200 day","2021-06-10",1
 "200 day","2021-06-16",1
@@ -4573,9 +4668,11 @@
 "241 million","2021-06-10",1
 "241 mn","2021-06-10",1
 "243 5","2021-07-02",1
+"243 5","2021-07-04",1
 "24h waves","2021-06-07",1
 "24hr change","2021-06-02",1
 "24hr change","2021-06-26",1
+"24hr change","2021-07-04",1
 "24hr energy","2021-06-20",1
 "24hrs 60seconds","2021-06-29",1
 "24hrs defying","2021-05-28",1
@@ -4605,6 +4702,7 @@
 "25 days","2021-06-16",1
 "25 days","2021-06-20",1
 "25 million","2021-06-06",1
+"25 minutes","2021-07-04",1
 "25 worth","2021-06-09",1
 "25 worth","2021-06-12",1
 "25 worth","2021-06-13",1
@@ -4632,6 +4730,7 @@
 "28 currencies","2021-06-27",1
 "28 utc","2021-05-30",1
 "280t global","2021-06-25",1
+"281 trillion","2021-07-04",1
 "28800 level","2021-06-11",1
 "288k levels","2021-06-28",1
 "288k surely","2021-06-12",1
@@ -4705,6 +4804,7 @@
 "3 dex","2021-07-01",1
 "3 digital","2021-06-28",1
 "3 drones","2021-06-15",1
+"3 ema","2021-07-04",1
 "3 examples","2021-06-27",1
 "3 fans","2021-06-24",1
 "3 fin","2021-06-29",1
@@ -4739,6 +4839,7 @@
 "3 techniques","2021-06-14",1
 "3 tests","2021-06-25",1
 "3 tether","2021-06-26",1
+"3 tether","2021-07-04",1
 "3 top","2021-06-27",1
 "3 top","2021-07-01",1
 "3 upcoming","2021-06-28",1
@@ -4760,15 +4861,18 @@
 "30 bonus","2021-06-02",1
 "30 bullish","2021-06-25",1
 "30 chance","2021-06-04",1
+"30 countries","2021-07-04",1
 "30 crypto","2021-06-26",1
 "30 days","2021-06-05",1
 "30 days","2021-06-17",1
 "30 eth","2021-05-28",1
+"30 gold","2021-07-04",1
 "30 hours","2021-07-01",1
 "30 lower","2021-05-28",1
 "30 million","2021-06-06",1
 "30 million","2021-06-22",1
 "30 million","2021-06-30",1
+"30 million","2021-07-04",1
 "30 months","2021-06-02",1
 "30 somethings","2021-06-21",1
 "30 tesla","2021-06-24",1
@@ -4809,9 +4913,11 @@
 "30years ago","2021-06-25",1
 "31 ","2021-06-18",1
 "31 900","2021-06-08",1
+"31 trades","2021-07-04",1
 "31k entry","2021-05-29",1
 "31k usd","2021-06-23",1
 "31may21 1","2021-05-31",1
+"31st 2008","2021-07-04",1
 "32 32","2021-06-25",1
 "32 34dyor","2021-05-26",1
 "320 billion","2021-06-04",1
@@ -4859,10 +4965,12 @@
 "37000 bids","2021-06-18",1
 "37300 ranges","2021-06-16",1
 "377k worth","2021-06-21",1
+"37hhh4refbmebynpaabh5acumgka2sjpkb wishes","2021-07-04",1
 "37k amid","2021-06-18",1
 "38 43location","2021-06-25",1
 "38k swiftly","2021-06-28",1
 "39 disinformation","2021-06-18",1
+"39 million","2021-07-04",1
 "39 trademoneta","2021-06-18",1
 "39 validators","2021-06-24",1
 "39 yr","2021-06-09",1
@@ -4906,6 +5014,7 @@
 "4 bc","2021-06-28",1
 "4 billion","2021-06-10",1
 "4 binance","2021-06-26",1
+"4 binance","2021-07-04",1
 "4 blockchain","2021-06-22",1
 "4 blockchain","2021-06-25",1
 "4 cents","2021-06-21",1
@@ -5004,6 +5113,7 @@
 "4hmy prediction","2021-06-18",1
 "4hr candled","2021-05-28",1
 "4hr chart","2021-06-16",1
+"4th happy","2021-07-04",1
 "4thofjulyweekend blockchain","2021-07-02",1
 "4x 64k","2021-06-28",1
 "4x4 vihicledrill","2021-06-16",1
@@ -5014,16 +5124,20 @@
 "5 43","2021-06-11",1
 "5 50","2021-06-15",1
 "5 allocation","2021-06-14",1
+"5 altcoins","2021-07-04",1
 "5 billion","2021-05-28",1
 "5 billion","2021-05-29",1
 "5 billion","2021-06-22",1
 "5 business","2021-06-01",1
 "5 cardano","2021-06-02",1
 "5 cardano","2021-06-26",1
+"5 cardano","2021-07-04",1
 "5 cards","2021-06-01",1
 "5 crypto","2021-05-29",1
 "5 crypto","2021-06-02",1
 "5 crypto","2021-06-26",1
+"5 crypto","2021-07-04",1
+"5 cryptocurrencies","2021-07-04",1
 "5 day","2021-05-30",1
 "5 days","2021-05-30",1
 "5 days","2021-06-25",1
@@ -5032,6 +5146,7 @@
 "5 eth","2021-06-27",1
 "5 fear","2021-06-04",1
 "5 free","2021-06-30",1
+"5 futures","2021-07-04",1
 "5 giveaway","2021-05-26",1
 "5 global","2021-06-25",1
 "5 letter","2021-06-24",1
@@ -5042,6 +5157,7 @@
 "5 mining","2021-06-25",1
 "5 minplatform","2021-06-28",1
 "5 minute","2021-07-02",1
+"5 minute","2021-07-04",1
 "5 minutes","2021-06-04",1
 "5 move","2021-06-25",1
 "5 people","2021-06-17",1
@@ -5063,6 +5179,7 @@
 "5 usdc","2021-06-16",1
 "5 waves","2021-06-23",1
 "5 weeks","2021-06-13",1
+"50 100","2021-07-04",1
 "50 50ing","2021-06-20",1
 "50 60","2021-07-02",1
 "50 90","2021-05-31",1
@@ -5102,6 +5219,7 @@
 "500 million","2021-06-21",1
 "500 reaches","2021-06-14",1
 "500 wallet","2021-06-21",1
+"5000 average","2021-07-04",1
 "5000 copycats","2021-06-23",1
 "5000 doesn","2021-05-31",1
 "50000 600002","2021-05-30",1
@@ -5227,6 +5345,7 @@
 "7 15pm","2021-05-29",1
 "7 2021","2021-06-07",1
 "7 4","2021-06-28",1
+"7 5","2021-07-04",1
 "7 8k","2021-05-29",1
 "7 annually","2021-05-29",1
 "7 banks","2021-06-13",1
@@ -5264,6 +5383,7 @@
 "75 sold","2021-06-11",1
 "7500 worth","2021-06-09",1
 "765 billion","2021-06-15",1
+"789 million","2021-07-04",1
 "7pcs left","2021-06-25",1
 "7th 2021","2021-06-08",1
 "7th largest","2021-05-25",1
@@ -5318,6 +5438,7 @@
 "90 draw","2021-06-22",1
 "90 percent","2021-06-13",1
 "90 percent","2021-06-18",1
+"90 pips","2021-07-04",1
 "90 power","2021-06-11",1
 "900k doge","2021-06-26",1
 "90d token","2021-06-22",1
@@ -5390,10 +5511,12 @@
 "absolutely unbelievable","2021-05-26",1
 "absolutely wreck","2021-06-15",1
 "absorbed sellers","2021-06-18",1
+"absorbing barrier","2021-07-04",1
 "absord excess","2021-06-20",1
 "abstractions live","2021-06-13",1
 "acab georgefloyd","2021-06-14",1
 "academic research","2021-06-23",1
+"academic research","2021-07-04",1
 "accelerate learning","2021-06-16",1
 "accelerate sustainable","2021-05-25",1
 "accelerating watch","2021-06-01",1
@@ -5423,6 +5546,7 @@
 "accidentally bought","2021-06-27",1
 "accommodations 1","2021-05-31",1
 "accord walks","2021-06-27",1
+"account amp","2021-07-04",1
 "account ban","2021-06-07",1
 "account binance","2021-06-29",1
 "account bitcoin's","2021-06-07",1
@@ -5433,10 +5557,12 @@
 "account kim","2021-06-14",1
 "account matters","2021-06-17",1
 "account owner","2021-06-21",1
+"account purely","2021-07-04",1
 "account register","2021-06-18",1
 "account replying","2021-06-11",1
 "account sounds","2021-06-21",1
 "account stop","2021-06-10",1
+"account surprise","2021-07-04",1
 "account talking","2021-06-13",1
 "accountability fairness","2021-05-26",1
 "accountant majority","2021-06-23",1
@@ -5474,6 +5600,7 @@
 "achieved prior","2021-06-24",1
 "achieves major","2021-06-25",1
 "achieving financial","2021-06-24",1
+"achieving material","2021-07-04",1
 "achieving monetary","2021-06-26",1
 "achieving real","2021-05-29",1
 "acid raid","2021-06-12",1
@@ -5498,10 +5625,13 @@
 "actions force","2021-06-26",1
 "actions investing","2021-06-03",1
 "activation set","2021-06-12",1
+"active addresses","2021-07-04",1
 "active channels","2021-06-01",1
 "active communityinvestment","2021-06-12",1
 "active halving","2021-06-30",1
 "active managers","2021-05-29",1
+"active participantsblockchain","2021-07-04",1
+"active team","2021-07-04",1
 "actively developed","2021-06-27",1
 "actively leave","2021-06-18",1
 "actively trading","2021-07-01",1
@@ -5599,6 +5729,7 @@
 "additional rules","2021-05-25",1
 "additional verification","2021-06-27",1
 "additions dogecoin","2021-06-25",1
+"address 0x0f142e7a0d2835bc5f45255b4fa3281340bd1f5d","2021-07-04",1
 "address 0x4fb99838ba99c81fa927ab13aeb7dec3b578d0b9pufferswap","2021-06-22",1
 "address 0x7987ce76345f6c6511e6fad3f7713b179217d969","2021-06-18",1
 "address 0x86852bd76b8a7dcba9e0bdb79fa15d6b0a10a1b6","2021-06-14",1
@@ -5640,6 +5771,7 @@
 "adoption continues","2021-06-30",1
 "adoption curve","2021-06-23",1
 "adoption cycle","2021-06-24",1
+"adoption derivatives","2021-07-04",1
 "adoption increases","2021-06-03",1
 "adoption leaves","2021-06-16",1
 "adoption rate","2021-06-20",1
@@ -5651,6 +5783,7 @@
 "adoption sleep","2021-06-22",1
 "adoption yield","2021-06-05",1
 "adrop avg","2021-06-22",1
+"ads earn","2021-07-04",1
 "ads minijobs","2021-06-28",1
 "adult citizens","2021-06-25",1
 "adult entertainment","2021-05-26",1
@@ -5756,6 +5889,7 @@
 "affiliateprogram affiliates","2021-06-18",1
 "affiliates affiliateprogram","2021-07-02",1
 "affiliates earn","2021-06-18",1
+"affluent countries","2021-07-04",1
 "afford bnb","2021-06-09",1
 "affordable investment","2021-06-18",1
 "affordable solar","2021-05-26",1
@@ -5843,6 +5977,7 @@
 "airdrop airdrops","2021-06-18",1
 "airdrop airdrops","2021-06-26",1
 "airdrop airdrops","2021-06-28",1
+"airdrop airdrops","2021-07-04",1
 "airdrop altseason","2021-05-29",1
 "airdrop apollo11","2021-06-22",1
 "airdrop bdf","2021-06-28",1
@@ -5853,6 +5988,7 @@
 "airdrop binance","2021-06-18",1
 "airdrop binance","2021-06-26",1
 "airdrop binance","2021-06-30",1
+"airdrop binance","2021-07-04",1
 "airdrop bnb","2021-05-29",1
 "airdrop bnb","2021-06-21",1
 "airdrop bounty","2021-05-27",1
@@ -5940,6 +6076,7 @@
 "airplane amp","2021-06-04",1
 "airports mines","2021-06-13",1
 "airsave travel","2021-05-25",1
+"aisa kuch","2021-07-04",1
 "aitrading chartpattern","2021-06-02",1
 "aitrading chartpattern","2021-06-04",1
 "ajax feyenoord","2021-06-15",1
@@ -5973,6 +6110,7 @@
 "algo algorand","2021-06-18",1
 "algo polygon","2021-06-18",1
 "algo solana","2021-06-23",1
+"algo stables","2021-07-04",1
 "algo trading","2021-05-30",1
 "algo tron","2021-05-29",1
 "algorand algo","2021-06-18",1
@@ -6043,6 +6181,7 @@
 "altcoin defi","2021-06-15",1
 "altcoin defi","2021-06-28",1
 "altcoin defi","2021-06-29",1
+"altcoin defi","2021-07-04",1
 "altcoin defiyieldprotokol","2021-06-23",1
 "altcoin dogcoin","2021-06-12",1
 "altcoin dogecoin","2021-06-11",1
@@ -6080,6 +6219,7 @@
 "altcoins graves","2021-05-27",1
 "altcoins lots","2021-05-31",1
 "altcoins market","2021-06-22",1
+"altcoins predicted","2021-07-04",1
 "altcoins pump","2021-06-21",1
 "altcoins recover","2021-06-10",1
 "altcoins remain","2021-06-24",1
@@ -6113,6 +6253,7 @@
 "alwayscryptocurrency crypto","2021-06-08",1
 "alyse stanley","2021-06-11",1
 "ama congratulations","2021-06-18",1
+"ama didi","2021-07-04",1
 "ama session","2021-06-18",1
 "amazing ","2021-05-28",1
 "amazing ","2021-05-29",1
@@ -6147,8 +6288,10 @@
 "amazing project","2021-06-21",1
 "amazing project","2021-06-25",1
 "amazing project","2021-06-29",1
+"amazing project","2021-07-04",1
 "amazing projecti","2021-06-21",1
 "amazing projectmocktailswap","2021-06-18",1
+"amazing signals","2021-07-04",1
 "amazing symbol","2021-05-29",1
 "amazing tale","2021-05-27",1
 "amazing team","2021-06-15",1
@@ -6189,6 +6332,7 @@
 "amc nio","2021-06-02",1
 "amc robinhood","2021-06-02",1
 "amc robinhood","2021-06-03",1
+"amc telcoin","2021-07-04",1
 "amcsqueeze amcarmy","2021-06-02",1
 "amd producing","2021-05-27",1
 "america 3gd","2021-06-11",1
@@ -6199,6 +6343,7 @@
 "american authoritarian","2021-06-11",1
 "american bank","2021-06-14",1
 "american bank","2021-06-30",1
+"american beasts","2021-07-04",1
 "american businessman","2021-05-27",1
 "american citizens","2021-06-11",1
 "american citizenship","2021-06-22",1
@@ -6242,10 +6387,12 @@
 "amount trade","2021-05-29",1
 "amp ","2021-06-20",1
 "amp 0","2021-06-30",1
+"amp 0","2021-07-04",1
 "amp 100","2021-06-14",1
 "amp 214","2021-06-23",1
 "amp 24hr","2021-06-02",1
 "amp 24hr","2021-06-26",1
+"amp 24hr","2021-07-04",1
 "amp 30k","2021-06-21",1
 "amp 39","2021-05-31",1
 "amp 39","2021-06-14",1
@@ -6256,6 +6403,7 @@
 "amp 8217","2021-06-23",1
 "amp 96","2021-06-21",1
 "amp absorbed","2021-06-24",1
+"amp affluent","2021-07-04",1
 "amp affordable","2021-05-26",1
 "amp altsfollow","2021-06-08",1
 "amp amp","2021-06-20",1
@@ -6319,6 +6467,7 @@
 "amp development","2021-06-25",1
 "amp developments","2021-06-27",1
 "amp digital","2021-06-11",1
+"amp disciplined","2021-07-04",1
 "amp distressed","2021-06-04",1
 "amp doge","2021-05-31",1
 "amp doge","2021-06-27",1
@@ -6355,6 +6504,7 @@
 "amp game","2021-06-07",1
 "amp game","2021-06-13",1
 "amp gents","2021-06-13",1
+"amp goldmr","2021-07-04",1
 "amp governance","2021-05-26",1
 "amp grinding","2021-06-23",1
 "amp guidelines","2021-06-10",1
@@ -6377,6 +6527,7 @@
 "amp investor","2021-05-29",1
 "amp investors","2021-06-06",1
 "amp ious","2021-06-21",1
+"amp irrevocable","2021-07-04",1
 "amp ivory","2021-05-26",1
 "amp kavango","2021-06-21",1
 "amp kimkardashian","2021-06-15",1
@@ -6396,6 +6547,7 @@
 "amp love","2021-06-05",1
 "amp lust","2021-06-13",1
 "amp mandel","2021-06-12",1
+"amp markets","2021-07-04",1
 "amp math","2021-06-14",1
 "amp mccarthyism","2021-06-25",1
 "amp microstrategy","2021-06-21",1
@@ -6408,6 +6560,7 @@
 "amp myth","2021-06-28",1
 "amp naysayers","2021-06-07",1
 "amp network","2021-06-12",1
+"amp nfts","2021-07-04",1
 "amp p500","2021-06-03",1
 "amp p500","2021-06-15",1
 "amp passing","2021-06-25",1
@@ -6439,6 +6592,7 @@
 "amp run","2021-06-21",1
 "amp running","2021-05-30",1
 "amp sacrifice","2021-06-26",1
+"amp sadly","2021-07-04",1
 "amp salty","2021-06-21",1
 "amp satoshi","2021-06-11",1
 "amp save","2021-06-21",1
@@ -6452,12 +6606,14 @@
 "amp shoulders","2021-06-02",1
 "amp shoulders","2021-06-21",1
 "amp sign","2021-06-12",1
+"amp silver","2021-07-04",1
 "amp sov","2021-05-25",1
 "amp sov","2021-06-02",1
 "amp spoofing","2021-06-04",1
 "amp sportsbook","2021-06-30",1
 "amp start","2021-06-02",1
 "amp start","2021-06-26",1
+"amp store","2021-07-04",1
 "amp strength","2021-06-28",1
 "amp strong","2021-06-24",1
 "amp targets","2021-05-30",1
@@ -6480,6 +6636,7 @@
 "amp trading","2021-05-26",1
 "amp traducers","2021-06-16",1
 "amp transactions","2021-06-25",1
+"amp trend","2021-07-04",1
 "amp tsunami","2021-06-17",1
 "amp txlege","2021-06-29",1
 "amp undoubtedly","2021-06-17",1
@@ -6529,9 +6686,11 @@
 "analyst learn","2021-06-22",1
 "analyst paints","2021-05-26",1
 "analyst titan","2021-06-05",1
+"analyst unveils","2021-07-04",1
 "analyst warren","2021-06-04",1
 "analystcalls earningsseason","2021-06-15",1
 "analystcalls ty","2021-06-14",1
+"analysts recommend","2021-07-04",1
 "analytical corporate","2021-06-14",1
 "analytics firm","2021-06-15",1
 "analytics firm","2021-06-21",1
@@ -6549,6 +6708,7 @@
 "android telegram","2021-06-09",1
 "angel investingenjoy","2021-05-27",1
 "angel investment","2021-06-16",1
+"angidlaleli nje","2021-07-04",1
 "angry carter","2021-06-11",1
 "angry mob","2021-06-15",1
 "angry scared","2021-06-21",1
@@ -6576,6 +6736,7 @@
 "annoying strawman","2021-06-27",1
 "annual return","2021-06-17",1
 "annual returns","2021-06-30",1
+"annual subscription","2021-07-04",1
 "annualized greenhouse","2021-05-25",1
 "anon account","2021-06-29",1
 "anonymous donation","2021-06-20",1
@@ -6635,6 +6796,7 @@
 "apparently people","2021-06-22",1
 "appealing concept","2021-06-05",1
 "appears poised","2021-06-22",1
+"appears solid","2021-07-04",1
 "appease gullible","2021-06-08",1
 "appetite bitcoin's","2021-06-22",1
 "apple 1","2021-06-28",1
@@ -6715,7 +6877,10 @@
 "arcgis wherenext","2021-06-23",1
 "arch nemesis","2021-05-29",1
 "archegos explosion","2021-06-17",1
+"archival nodes","2021-07-04",1
 "archive newsletter","2021-06-25",1
+"ardor breaks","2021-07-04",1
+"ardr faced","2021-07-04",1
 "arent yall","2021-05-29",1
 "argentina ","2021-06-04",1
 "argentina dante","2021-06-26",1
@@ -6746,6 +6911,7 @@
 "arrested news","2021-05-28",1
 "arrests 1","2021-06-10",1
 "arriving safely","2021-06-27",1
+"arrogant amp","2021-07-04",1
 "arrr story","2021-06-14",1
 "art 7","2021-06-10",1
 "art ai","2021-06-07",1
@@ -6797,6 +6963,7 @@
 "asic mining","2021-06-27",1
 "asics 1cpuonevote","2021-06-27",1
 "ass devs","2021-05-29",1
+"ass hats","2021-07-04",1
 "ass hypocrites","2021-06-14",1
 "ass mdx","2021-06-30",1
 "ass shit","2021-05-30",1
@@ -6881,6 +7048,7 @@
 "atleast ","2021-06-24",1
 "atm machine","2021-06-11",1
 "atm machines","2021-06-21",1
+"atm study","2021-07-04",1
 "atms arrive","2021-06-02",1
 "atom cosmossafemoon","2021-05-31",1
 "atom defi","2021-06-02",1
@@ -6904,6 +7072,7 @@
 "attack institutional","2021-06-16",1
 "attack level","2021-06-10",1
 "attack vector","2021-06-16",1
+"attack vectorbelievable","2021-07-04",1
 "attack vectors","2021-06-23",1
 "attacking bitcoiners","2021-06-13",1
 "attacks paid","2021-06-03",1
@@ -6965,6 +7134,7 @@
 "authorities shutting","2021-06-08",1
 "authority demanding","2021-05-26",1
 "authority issuing","2021-06-22",1
+"authority victim","2021-07-04",1
 "authority ye","2021-07-01",1
 "authors professors","2021-07-02",1
 "autism run","2021-06-27",1
@@ -6981,6 +7151,7 @@
 "automatedtrading freebitcoin","2021-06-01",1
 "automatedtrading freebitcoin","2021-06-03",1
 "automatic creation","2021-06-14",1
+"automatic fight","2021-07-04",1
 "automatic greeting","2021-06-01",1
 "automatic trading","2021-05-31",1
 "automatically everytwo","2021-06-07",1
@@ -7007,12 +7178,14 @@
 "average buy","2021-06-16",1
 "average buy","2021-06-26",1
 "average buy","2021-06-30",1
+"average buy","2021-07-04",1
 "average cb","2021-06-21",1
 "average cross","2021-06-13",1
 "average daily","2021-06-07",1
 "average daily","2021-06-09",1
 "average expects","2021-06-30",1
 "average grid","2021-06-18",1
+"average homes","2021-07-04",1
 "average investors","2021-05-26",1
 "average joe","2021-07-01",1
 "average junk","2021-06-16",1
@@ -7037,6 +7210,7 @@
 "avoid amp","2021-06-26",1
 "avoid holding","2021-06-20",1
 "avoid leverage","2021-06-02",1
+"avoid mortgage","2021-07-04",1
 "avoid rekt","2021-06-11",1
 "avoid tesla","2021-06-01",1
 "avoid trading","2021-05-30",1
@@ -7045,6 +7219,7 @@
 "awaited developments","2021-05-31",1
 "awards winning","2021-06-10",1
 "awareness vegan","2021-06-02",1
+"awesome article","2021-07-04",1
 "awesome bnb","2021-06-05",1
 "awesome bro","2021-06-18",1
 "awesome chat","2021-06-03",1
@@ -7111,8 +7286,10 @@
 "bad green","2021-06-25",1
 "bad guy","2021-06-01",1
 "bad idea","2021-07-02",1
+"bad idea","2021-07-04",1
 "bad inflation","2021-06-27",1
 "bad investment","2021-05-30",1
+"bad investment","2021-07-04",1
 "bad juju","2021-06-02",1
 "bad lightning","2021-06-12",1
 "bad ma'am","2021-06-05",1
@@ -7121,6 +7298,7 @@
 "bad mouthed","2021-06-04",1
 "bad news","2021-06-02",1
 "bad news","2021-06-10",1
+"bad news","2021-07-04",1
 "bad newschina","2021-06-25",1
 "bad orange","2021-06-25",1
 "bad people","2021-06-25",1
@@ -7137,6 +7315,7 @@
 "bag binancesmartchain","2021-06-27",1
 "bag due","2021-06-20",1
 "bag holder","2021-06-15",1
+"bag holder","2021-07-04",1
 "bagged central","2021-06-30",1
 "bagging loads","2021-05-28",1
 "bagging project","2021-05-28",1
@@ -7148,10 +7327,12 @@
 "bakkt users","2021-06-25",1
 "bal band","2021-06-14",1
 "balance 30d","2021-06-17",1
+"balance continues","2021-07-04",1
 "balance sheet","2021-05-28",1
 "balance sheet","2021-06-03",1
 "balance sheet","2021-06-04",1
 "balance sheet","2021-06-16",1
+"balance sheet","2021-07-04",1
 "balance sheets","2021-06-05",1
 "balance sheets","2021-06-09",1
 "balance sheets","2021-06-13",1
@@ -7186,6 +7367,7 @@
 "bank account","2021-06-20",1
 "bank account","2021-06-22",1
 "bank account","2021-06-27",1
+"bank account","2021-07-04",1
 "bank accounts","2021-06-30",1
 "bank accountstron","2021-06-22",1
 "bank aipichain","2021-05-27",1
@@ -7244,6 +7426,7 @@
 "banking system","2021-06-11",1
 "banking system","2021-06-12",1
 "banking system","2021-06-27",1
+"banking system","2021-07-04",1
 "banking systems","2021-06-26",1
 "banking taxes","2021-06-05",1
 "banking world","2021-06-07",1
@@ -7480,6 +7663,7 @@
 "bears remain","2021-05-27",1
 "beartrap folkslot","2021-05-29",1
 "beat dunkin","2021-06-27",1
+"beat expectations","2021-07-04",1
 "beatthesec xrparmy","2021-06-26",1
 "beautiful american","2021-06-30",1
 "beautiful anchoring","2021-06-15",1
@@ -7526,6 +7710,7 @@
 "behavioral economics","2021-06-05",1
 "behaviors tied","2021-06-13",1
 "behold lol","2021-06-01",1
+"beijing consensus","2021-07-04",1
 "beijing cracks","2021-05-25",1
 "beijing intensified","2021-05-26",1
 "beijing offer","2021-06-18",1
@@ -7554,6 +7739,7 @@
 "benefit society","2021-06-25",1
 "benefited greatly","2021-05-28",1
 "benefits 1","2021-06-12",1
+"benefits low","2021-07-04",1
 "benefits trading","2021-06-06",1
 "bengal tiger","2021-06-17",1
 "benjamin cowen","2021-06-12",1
@@ -7598,15 +7784,18 @@
 "bex blockchain","2021-06-25",1
 "bex blockchain","2021-06-26",1
 "bex blockchain","2021-07-02",1
+"bex blockchain","2021-07-04",1
 "bfms recent","2021-05-30",1
 "bg reacts","2021-06-21",1
 "bhi khel","2021-06-30",1
 "bhi waqt","2021-05-25",1
+"bi3 security","2021-07-04",1
 "bias sec","2021-06-22",1
 "biased article","2021-06-30",1
 "biased interference","2021-06-05",1
 "bibi stop","2021-05-25",1
 "bible college","2021-06-11",1
+"bible dyor","2021-07-04",1
 "bicoincrash manipulated","2021-06-20",1
 "bid4bit 4","2021-06-22",1
 "bid4bit 4","2021-06-25",1
@@ -7634,6 +7823,7 @@
 "bigger family","2021-06-25",1
 "bigger government","2021-06-07",1
 "bigger growth","2021-06-13",1
+"bigger loss","2021-07-04",1
 "bigger picture","2021-06-05",1
 "bigger potential","2021-06-22",1
 "bigger rally","2021-06-05",1
@@ -7674,6 +7864,7 @@
 "biggest realized","2021-06-29",1
 "biggest risk","2021-06-12",1
 "biggest scam","2021-06-12",1
+"biggest signs","2021-07-04",1
 "biggest source","2021-06-05",1
 "biggest source","2021-06-14",1
 "biggest upgrade","2021-06-12",1
@@ -7756,6 +7947,7 @@
 "binance bnb","2021-06-26",1
 "binance bnb","2021-07-01",1
 "binance bnb","2021-07-02",1
+"binance bnb","2021-07-04",1
 "binance bnbgood","2021-06-23",1
 "binance bsc","2021-05-25",1
 "binance bsc","2021-05-30",1
@@ -7763,6 +7955,7 @@
 "binance card","2021-06-26",1
 "binance cardano","2021-06-27",1
 "binance coin","2021-06-26",1
+"binance coin","2021-07-04",1
 "binance coinbase","2021-06-29",1
 "binance crypto","2021-05-25",1
 "binance crypto","2021-05-27",1
@@ -7778,6 +7971,7 @@
 "binance crypto","2021-06-15",1
 "binance crypto","2021-06-18",1
 "binance crypto","2021-06-20",1
+"binance crypto","2021-07-04",1
 "binance cryptos","2021-06-25",1
 "binance cvd","2021-06-30",1
 "binance defi","2021-05-27",1
@@ -7814,11 +8008,13 @@
 "binance smart","2021-06-10",1
 "binance smart","2021-06-21",1
 "binance smart","2021-06-26",1
+"binance smart","2021-07-04",1
 "binance spot","2021-06-17",1
 "binance tron","2021-05-27",1
 "binance tron","2021-06-25",1
 "binance tsla","2021-06-09",1
 "binance verge","2021-07-01",1
+"binance wkimcnl","2021-07-04",1
 "binance xep","2021-05-26",1
 "binance xtz","2021-06-02",1
 "binance xtz","2021-06-08",1
@@ -7841,6 +8037,7 @@
 "binancesmartchain bsc","2021-06-26",1
 "binancesmartchain bsc","2021-06-27",1
 "binancesmartchain bsc","2021-06-30",1
+"binancesmartchain bsc","2021-07-04",1
 "binancesmartchain bscgems","2021-06-18",1
 "binancesmartchain bscgems","2021-06-28",1
 "binancesmartchain bscmy","2021-06-13",1
@@ -7863,12 +8060,15 @@
 "binancesmartchain safemoon","2021-06-18",1
 "binanceus account","2021-06-14",1
 "binary digit","2021-06-28",1
+"binary forexmarket","2021-07-04",1
 "binary option","2021-06-05",1
 "binary option","2021-06-25",1
 "binary options","2021-06-02",1
 "binary options","2021-06-03",1
+"binary trader","2021-07-04",1
 "binary trading","2021-06-03",1
 "binary tree","2021-06-22",1
+"binaryoption visit","2021-07-04",1
 "binaryoptions investing","2021-06-10",1
 "bintex futures","2021-05-29",1
 "bintex motivation","2021-05-29",1
@@ -7882,7 +8082,12 @@
 "birth certificate","2021-06-07",1
 "birthday crypto","2021-06-28",1
 "birthday kane","2021-06-21",1
+"birthdaygirl deal","2021-07-04",1
+"birthdaygirl dogecoin","2021-07-04",1
 "birthdaygirl gift","2021-06-01",1
+"birthdaygirl gift","2021-07-04",1
+"birthdaygirl socialmedia","2021-07-04",1
+"birthdaygirl tumblr","2021-07-04",1
 "birthdays birthdayweekend","2021-05-28",1
 "birthdayweekend affiliatemarketing","2021-06-01",1
 "birthdayweekend birthdayparty","2021-05-28",1
@@ -7905,6 +8110,7 @@
 "bit liquidgold","2021-06-10",1
 "bit outdated","2021-06-21",1
 "bit outta","2021-06-23",1
+"bit torrents","2021-07-04",1
 "bit tricky","2021-06-25",1
 "bitbox keepkey","2021-06-14",1
 "bitboynews eth","2021-06-27",1
@@ -7918,6 +8124,7 @@
 "bitcoin's community","2021-06-06",1
 "bitcoin's difficulty","2021-06-22",1
 "bitcoin's direction","2021-06-07",1
+"bitcoin's dominance","2021-07-04",1
 "bitcoin's energy","2021-06-14",1
 "bitcoin's energy","2021-07-01",1
 "bitcoin's environmental","2021-07-02",1
@@ -8012,6 +8219,7 @@
 "bitcoincash trader","2021-05-27",1
 "bitcoinconference cnbc","2021-06-04",1
 "bitcoinconference lfg","2021-06-06",1
+"bitcoincope harder","2021-07-04",1
 "bitcoincrash bitcoinoops","2021-06-20",1
 "bitcoincrash cryptotrading","2021-06-26",1
 "bitcoincreditcard cryptocurrencies","2021-05-26",1
@@ -8106,6 +8314,7 @@
 "bitcoins lmao","2021-05-29",1
 "bitcoins mine","2021-06-24",1
 "bitcoins ripple","2021-06-04",1
+"bitcoins success","2021-07-04",1
 "bitcoinsastrology btccastrology","2021-06-12",1
 "bitcoinscams court","2021-06-05",1
 "bitcoinsome bitcoiners","2021-06-03",1
@@ -8175,8 +8384,10 @@
 "black market","2021-05-26",1
 "black market","2021-05-30",1
 "black market","2021-06-10",1
+"black market","2021-07-04",1
 "black markets","2021-06-05",1
 "black money","2021-06-21",1
+"black paper","2021-07-04",1
 "black path","2021-06-09",1
 "black people","2021-06-12",1
 "black people","2021-06-17",1
@@ -8190,6 +8401,7 @@
 "blackjack roulette","2021-07-02",1
 "blacklivesmatter newyorkcity","2021-05-29",1
 "blacklivesmatter saytheirnames","2021-06-14",1
+"blackwealth moneymotivated","2021-07-04",1
 "blast straight","2021-06-10",1
 "blast windows","2021-06-27",1
 "blatant lies","2021-06-09",1
@@ -8219,6 +8431,7 @@
 "block reward","2021-06-13",1
 "block satoshi","2021-06-22",1
 "block size","2021-05-30",1
+"block sizes","2021-07-04",1
 "block thes","2021-06-07",1
 "block time","2021-05-25",1
 "block times","2021-06-14",1
@@ -8340,6 +8553,7 @@
 "blockchain poker","2021-06-15",1
 "blockchain prevails","2021-06-02",1
 "blockchain project","2021-06-09",1
+"blockchain projects","2021-07-04",1
 "blockchain protocol","2021-07-02",1
 "blockchain qash","2021-06-28",1
 "blockchain read","2021-06-21",1
@@ -8360,6 +8574,7 @@
 "blockchain technology","2021-06-22",1
 "blockchain technology","2021-06-23",1
 "blockchain technology","2021-06-28",1
+"blockchain technology","2021-07-04",1
 "blockchain token","2021-05-30",1
 "blockchain token","2021-06-02",1
 "blockchain token","2021-06-15",1
@@ -8372,6 +8587,8 @@
 "blockchain usa","2021-06-25",1
 "blockchain worldwide","2021-06-10",1
 "blockchain worldwide","2021-06-13",1
+"blockchain yaaaaaaaaaay","2021-07-04",1
+"blockchain zil","2021-07-04",1
 "blockchaincertification blockchaincertified","2021-06-18",1
 "blockchaingame airdrop","2021-06-17",1
 "blockchainnews bitcoinnews","2021-06-28",1
@@ -8427,6 +8644,7 @@
 "blow everyone's","2021-06-13",1
 "blow past","2021-05-31",1
 "blow people's","2021-06-08",1
+"blowing stuff","2021-07-04",1
 "blsp cashapp","2021-05-26",1
 "blue chips","2021-06-17",1
 "blue idea","2021-06-21",1
@@ -8441,6 +8659,7 @@
 "blue vault","2021-06-28",1
 "blue vault","2021-06-30",1
 "blue vault","2021-07-02",1
+"blue vault","2021-07-04",1
 "bluetire windows11","2021-06-26",1
 "blurt sereypoker","2021-06-14",1
 "bmax icoannoucement","2021-06-17",1
@@ -8467,6 +8686,7 @@
 "bnb binance","2021-06-15",1
 "bnb binance","2021-06-25",1
 "bnb binance","2021-06-27",1
+"bnb binance","2021-07-04",1
 "bnb binancesmartchain","2021-06-24",1
 "bnb blockchain","2021-05-29",1
 "bnb blockchain","2021-05-30",1
@@ -8506,6 +8726,7 @@
 "bnb eth","2021-06-25",1
 "bnb ethereum","2021-06-27",1
 "bnb excellent","2021-05-30",1
+"bnb fintech","2021-07-04",1
 "bnb ftm","2021-06-29",1
 "bnb heal","2021-06-18",1
 "bnb heal","2021-06-21",1
@@ -8561,6 +8782,7 @@
 "bonds estate","2021-06-11",1
 "bonds gold","2021-05-30",1
 "bonds gold","2021-06-26",1
+"bonds yield","2021-07-04",1
 "bonfire10 discount","2021-06-26",1
 "bonus 10","2021-06-22",1
 "bonus earn","2021-06-22",1
@@ -8589,6 +8811,7 @@
 "boomer wrong","2021-06-07",1
 "boomers bought","2021-06-21",1
 "boomers transfer","2021-06-25",1
+"booming crypto","2021-07-04",1
 "booming defi","2021-06-03",1
 "booming gt","2021-05-26",1
 "booming gt","2021-06-08",1
@@ -8622,6 +8845,7 @@
 "boss larry","2021-05-31",1
 "boss told","2021-06-20",1
 "bossairdrops sapa","2021-06-30",1
+"bossdivas wealth4everybody","2021-07-04",1
 "bostroms paperclip","2021-06-28",1
 "bot farms","2021-06-18",1
 "bot tradingbot","2021-06-01",1
@@ -8779,6 +9003,7 @@
 "breakout ","2021-06-09",1
 "breakout continuation","2021-06-22",1
 "breakout level","2021-05-31",1
+"breakoutbitcoin ethereum","2021-07-04",1
 "breakouts ","2021-05-30",1
 "breakouts ","2021-05-31",1
 "breakouts ","2021-06-06",1
@@ -8845,6 +9070,7 @@
 "bro lean","2021-06-17",1
 "bro poly","2021-05-27",1
 "bro stop","2021-06-01",1
+"broad crypto","2021-07-04",1
 "broad encompassing","2021-06-10",1
 "broaden access","2021-05-30",1
 "broadening wedge","2021-05-31",1
@@ -8854,6 +9080,7 @@
 "broke 35","2021-06-25",1
 "broke level","2021-06-18",1
 "broken blockchain","2021-06-12",1
+"broken economies","2021-07-04",1
 "broken english","2021-05-27",1
 "broken intraday","2021-05-29",1
 "broken kindergartens","2021-06-16",1
@@ -8867,12 +9094,15 @@
 "broken price","2021-06-16",1
 "broken rsi","2021-06-20",1
 "broken system","2021-05-29",1
+"broker ff","2021-07-04",1
+"broker visit","2021-07-04",1
 "bromocktailswap mok","2021-06-18",1
 "brooks excluding","2021-05-28",1
 "brother enjoy","2021-05-28",1
 "brother owns","2021-06-16",1
 "brothers disappear","2021-06-25",1
 "brothers vanish","2021-06-24",1
+"brothersthe dog","2021-07-04",1
 "brought 1st","2021-06-21",1
 "brown's yt","2021-06-12",1
 "brown people","2021-05-30",1
@@ -8896,6 +9126,7 @@
 "bsc address","2021-06-18",1
 "bsc address","2021-06-22",1
 "bsc address","2021-06-24",1
+"bsc address","2021-07-04",1
 "bsc airdrop","2021-05-26",1
 "bsc airdrop","2021-05-30",1
 "bsc airdrop","2021-06-06",1
@@ -8931,6 +9162,7 @@
 "bsc bnb","2021-06-22",1
 "bsc bnb","2021-06-27",1
 "bsc bnb","2021-06-29",1
+"bsc bnb","2021-07-04",1
 "bsc bscgem","2021-05-25",1
 "bsc bscgem","2021-05-26",1
 "bsc bscgem","2021-06-30",1
@@ -9007,6 +9239,7 @@
 "bsv excellent","2021-06-01",1
 "bsv leaders","2021-06-20",1
 "bsv represents","2021-05-28",1
+"bsv started","2021-07-04",1
 "bsvbtc isnt","2021-06-13",1
 "btc's censorship","2021-06-12",1
 "btc's chain","2021-06-28",1
@@ -9075,6 +9308,7 @@
 "budget 6tt","2021-05-27",1
 "budget proposal","2021-05-28",1
 "budgetsec expected","2021-06-12",1
+"buffettism ppl","2021-07-04",1
 "bugg con","2021-07-02",1
 "buglemiami miami","2021-05-29",1
 "buglemiami miamiweather","2021-05-27",1
@@ -9096,6 +9330,7 @@
 "building effective","2021-06-25",1
 "building finance","2021-06-16",1
 "building l2","2021-06-02",1
+"building painting","2021-07-04",1
 "building tree","2021-06-12",1
 "building wealth","2021-06-08",1
 "bukele's decision","2021-06-18",1
@@ -9181,11 +9416,13 @@
 "bulls fighting","2021-06-22",1
 "bulls ignore","2021-06-23",1
 "bulls probe","2021-06-29",1
+"bulls secure","2021-07-04",1
 "bullshit news","2021-05-27",1
 "bullshit news","2021-05-29",1
 "bullshit tesla","2021-05-28",1
 "bumpy summer","2021-05-25",1
 "bunnysugar nardo","2021-06-01",1
+"buoyed stock","2021-07-04",1
 "burency burency","2021-06-20",1
 "burency buy","2021-05-29",1
 "burency buy","2021-06-29",1
@@ -9233,6 +9470,7 @@
 "business entrepreneur","2021-06-28",1
 "business executives","2021-06-23",1
 "business fintech","2021-06-11",1
+"business foreignexchange","2021-07-04",1
 "business gamblingtwitter","2021-06-05",1
 "business hurdles","2021-05-25",1
 "business infosec","2021-06-07",1
@@ -9310,6 +9548,7 @@
 "buy 1","2021-06-01",1
 "buy 1","2021-06-21",1
 "buy 1","2021-06-28",1
+"buy 1","2021-07-04",1
 "buy 10","2021-06-22",1
 "buy 100","2021-06-26",1
 "buy 14","2021-06-06",1
@@ -9382,6 +9621,7 @@
 "buy millions","2021-06-13",1
 "buy miniscule","2021-06-14",1
 "buy moving","2021-06-13",1
+"buy nft","2021-07-04",1
 "buy oil","2021-06-15",1
 "buy options","2021-06-20",1
 "buy positions","2021-06-26",1
@@ -9390,6 +9630,7 @@
 "buy price","2021-06-16",1
 "buy price","2021-06-26",1
 "buy price","2021-06-30",1
+"buy price","2021-07-04",1
 "buy ps","2021-06-28",1
 "buy real","2021-06-01",1
 "buy real","2021-06-16",1
@@ -9398,6 +9639,7 @@
 "buy securing","2021-05-29",1
 "buy sell","2021-05-29",1
 "buy sell","2021-06-09",1
+"buy sell","2021-07-04",1
 "buy shares","2021-05-30",1
 "buy shiba","2021-05-29",1
 "buy shit","2021-06-28",1
@@ -9573,6 +9815,7 @@
 "cantillionaire doesn","2021-06-07",1
 "cap 1","2021-06-02",1
 "cap 1","2021-06-26",1
+"cap 1","2021-07-04",1
 "cap 670","2021-05-30",1
 "cap assets","2021-06-20",1
 "cap coin","2021-06-25",1
@@ -9693,6 +9936,7 @@
 "card fast","2021-06-29",1
 "card fast","2021-06-30",1
 "card fast","2021-07-01",1
+"card fast","2021-07-04",1
 "card fraud","2021-07-02",1
 "card learn","2021-06-28",1
 "card loans","2021-06-16",1
@@ -9703,11 +9947,13 @@
 "card support","2021-06-01",1
 "cardano ","2021-06-02",1
 "cardano ","2021-06-26",1
+"cardano ","2021-07-04",1
 "cardano ada","2021-05-25",1
 "cardano ada","2021-06-09",1
 "cardano ada","2021-06-29",1
 "cardano algorand","2021-06-26",1
 "cardano based","2021-06-26",1
+"cardano binance","2021-07-04",1
 "cardano bsc","2021-05-26",1
 "cardano cardanocommunity","2021-05-26",1
 "cardano continues","2021-06-25",1
@@ -9896,6 +10142,7 @@
 "censorship resistant","2021-06-24",1
 "censorship resistant","2021-06-29",1
 "censorship resistant","2021-07-01",1
+"censorship resistant","2021-07-04",1
 "cent 3","2021-06-21",1
 "centers yield","2021-06-07",1
 "central america","2021-06-08",1
@@ -10047,6 +10294,7 @@
 "chainlink ada","2021-05-26",1
 "chainlink amp","2021-06-02",1
 "chainlink wkhs","2021-05-26",1
+"chains obsolete","2021-07-04",1
 "chains pretty","2021-05-26",1
 "chains tribes","2021-06-30",1
 "chair jay","2021-05-30",1
@@ -10067,6 +10315,7 @@
 "change hunger","2021-06-28",1
 "change improvement","2021-05-28",1
 "change key","2021-06-14",1
+"change passwords","2021-07-04",1
 "change past","2021-06-24",1
 "change records","2021-06-13",1
 "change staying","2021-06-10",1
@@ -10079,6 +10328,7 @@
 "changer imo","2021-06-13",1
 "changing invention","2021-06-22",1
 "changing lives","2021-06-16",1
+"changing opportunity","2021-07-04",1
 "changing technology","2021-06-20",1
 "channel binancefuturessc","2021-06-22",1
 "channel fees","2021-06-08",1
@@ -10171,6 +10421,7 @@
 "cheques worth","2021-05-29",1
 "chesschamps hands","2021-06-28",1
 "chf accepted","2021-05-25",1
+"chfjpy 46242","2021-07-04",1
 "chia mining","2021-05-26",1
 "chicken coops","2021-06-24",1
 "chicoms control","2021-06-21",1
@@ -10233,6 +10484,7 @@
 "china cracks","2021-06-22",1
 "china cracks","2021-06-23",1
 "china crypto","2021-06-21",1
+"china crypto","2021-07-04",1
 "china dumps","2021-05-29",1
 "china exchange","2021-06-30",1
 "china fuck","2021-06-21",1
@@ -10290,6 +10542,7 @@
 "choices btfd","2021-05-31",1
 "choices business","2021-06-01",1
 "choose wisely","2021-06-24",1
+"choosing colleagues","2021-07-04",1
 "chop 43","2021-06-25",1
 "chop seasonbitcoin","2021-06-13",1
 "chopping heads","2021-07-01",1
@@ -10342,8 +10595,10 @@
 "city promo","2021-05-29",1
 "city stated","2021-06-24",1
 "civil liberties","2021-07-02",1
+"civil rights","2021-07-04",1
 "civil shredding","2021-06-11",1
 "civil unlike","2021-06-06",1
+"civil waramerican","2021-07-04",1
 "civilization trade","2021-06-13",1
 "cking assholes","2021-06-25",1
 "claim 200","2021-06-08",1
@@ -10400,6 +10655,7 @@
 "clicks backup","2021-06-13",1
 "clientonboarding kyc","2021-05-25",1
 "clients express","2021-06-06",1
+"clients family","2021-07-04",1
 "clients flee","2021-06-24",1
 "clients holding","2021-06-04",1
 "climate accord","2021-06-27",1
@@ -10536,6 +10792,7 @@
 "code dingotango","2021-05-29",1
 "code dingotango","2021-06-13",1
 "code drnw5zi","2021-06-21",1
+"code exploit","2021-07-04",1
 "code horlaitan01","2021-05-26",1
 "code ir10","2021-05-28",1
 "code ir10","2021-06-01",1
@@ -10574,6 +10831,7 @@
 "coin ","2021-06-07",1
 "coin ","2021-06-26",1
 "coin ","2021-06-30",1
+"coin ","2021-07-04",1
 "coin 2024","2021-06-16",1
 "coin amp","2021-06-24",1
 "coin attached","2021-06-05",1
@@ -10625,6 +10883,7 @@
 "coinbase bittrex","2021-06-09",1
 "coinbase cards","2021-06-01",1
 "coinbase cofounder","2021-06-20",1
+"coinbase commerce","2021-07-04",1
 "coinbase cryptocurrencies","2021-06-04",1
 "coinbase dogecoin","2021-07-01",1
 "coinbase global","2021-06-22",1
@@ -10641,6 +10900,7 @@
 "coinbase spy","2021-06-21",1
 "coinbase usdt","2021-06-24",1
 "coinbase wallet","2021-06-04",1
+"coincheck helps","2021-07-04",1
 "coincidence doesn","2021-06-06",1
 "coindcx dudes","2021-06-05",1
 "coindesk coindesk","2021-06-01",1
@@ -10693,6 +10953,7 @@
 "cold storage","2021-06-11",1
 "cold storage","2021-06-25",1
 "cold storage9","2021-06-18",1
+"cold wallet","2021-07-04",1
 "cold war","2021-06-02",1
 "cold war","2021-06-28",1
 "cold water","2021-06-18",1
@@ -10790,6 +11051,7 @@
 "commercial soft","2021-06-04",1
 "commission sec","2021-05-29",1
 "commission sec","2021-06-20",1
+"commissioner hester","2021-07-04",1
 "commissioner warns","2021-06-20",1
 "commissions special","2021-06-22",1
 "commit suicide","2021-06-11",1
@@ -10854,6 +11116,7 @@
 "companies bank","2021-06-30",1
 "companies countries","2021-06-27",1
 "companies el","2021-06-21",1
+"companies hedge","2021-07-04",1
 "companies hospitals","2021-06-13",1
 "companies hypocrisy","2021-06-13",1
 "companies inclining","2021-06-05",1
@@ -10867,6 +11130,7 @@
 "company includes","2021-05-29",1
 "company intends","2021-06-17",1
 "company loss","2021-06-16",1
+"company policy","2021-07-04",1
 "company progress","2021-06-13",1
 "company promises","2021-06-28",1
 "company purchased","2021-06-21",1
@@ -10891,6 +11155,7 @@
 "complaints reviewbetter","2021-06-24",1
 "complete active","2021-06-12",1
 "complete admiration","2021-06-06",1
+"complete amount","2021-07-04",1
 "complete ban","2021-06-28",1
 "complete control","2021-06-13",1
 "complete fucking","2021-05-26",1
@@ -10899,6 +11164,7 @@
 "complete packageexclusive","2021-06-10",1
 "complete picture","2021-05-27",1
 "complete sense","2021-05-28",1
+"complete success","2021-07-04",1
 "complete tasks","2021-06-09",1
 "complete waste","2021-06-05",1
 "completed double","2021-06-26",1
@@ -10920,10 +11186,13 @@
 "completely secured","2021-06-15",1
 "completely virtual","2021-06-06",1
 "completely virtual","2021-06-09",1
+"completely wrong","2021-07-04",1
 "completes 500","2021-06-14",1
 "completing tasks","2021-06-07",1
 "completion amp","2021-06-10",1
+"completion certificate","2021-07-04",1
 "completion participate","2021-06-25",1
+"complex function","2021-07-04",1
 "complex logic","2021-06-12",1
 "complex scripts","2021-05-29",1
 "complex systems","2021-06-17",1
@@ -10989,6 +11258,7 @@
 "concerns pertaining","2021-05-29",1
 "concerns volatility","2021-06-26",1
 "concludes 1","2021-06-05",1
+"conclusions lol","2021-07-04",1
 "concrete data","2021-06-04",1
 "condescending attitudes","2021-06-23",1
 "conditions fees","2021-06-17",1
@@ -11080,6 +11350,7 @@
 "constantly stacking","2021-06-08",1
 "constantly watching","2021-06-25",1
 "constitution law","2021-06-09",1
+"constitutional charter","2021-07-04",1
 "constitutions heading","2021-06-12",1
 "consultancy domainname","2021-06-24",1
 "consulting business","2021-06-25",1
@@ -11260,6 +11531,7 @@
 "correction hanke","2021-06-22",1
 "correction happened","2021-06-04",1
 "correction season","2021-06-20",1
+"correction trend","2021-07-04",1
 "correction wave","2021-06-27",1
 "corrections stemming","2021-06-26",1
 "correctly hype","2021-05-31",1
@@ -11309,6 +11581,7 @@
 "coti mxc","2021-06-11",1
 "council digitalassets","2021-05-25",1
 "count gt","2021-05-25",1
+"count investments","2021-07-04",1
 "counter 1","2021-06-08",1
 "counter culture","2021-06-05",1
 "counter indicator","2021-06-16",1
@@ -11342,6 +11615,7 @@
 "countries understand","2021-06-28",1
 "countries waiting","2021-07-01",1
 "countries worldwide","2021-06-30",1
+"countries worldwide","2021-07-04",1
 "countrieswill ban","2021-06-28",1
 "country's national","2021-06-09",1
 "country ","2021-06-09",1
@@ -11363,12 +11637,14 @@
 "country pushing","2021-05-28",1
 "country recognized","2021-06-13",1
 "country whilst","2021-06-23",1
+"country youre","2021-07-04",1
 "couple bots","2021-06-10",1
 "couple breaking","2021-06-04",1
 "couple days","2021-06-08",1
 "couple days","2021-06-21",1
 "couple months","2021-05-27",1
 "couple weeks","2021-06-21",1
+"coupon code","2021-07-04",1
 "coupons list","2021-06-01",1
 "coupons list","2021-06-30",1
 "courses enter","2021-06-03",1
@@ -11539,6 +11815,7 @@
 "credit card","2021-06-29",1
 "credit card","2021-06-30",1
 "credit card","2021-07-01",1
+"credit card","2021-07-04",1
 "credit cards","2021-05-29",1
 "credit cards","2021-06-09",1
 "credit cards","2021-06-14",1
@@ -11629,6 +11906,8 @@
 "crucial barrier","2021-06-20",1
 "crucial distribution","2021-06-22",1
 "crucial feature","2021-06-14",1
+"crucial support","2021-07-04",1
+"crudeoil chfjpy","2021-07-04",1
 "cruel greedy","2021-06-22",1
 "cruel monster","2021-06-06",1
 "crummy brain","2021-06-25",1
@@ -11676,6 +11955,7 @@
 "crypto ada","2021-06-18",1
 "crypto adoption","2021-05-27",1
 "crypto adoption","2021-05-31",1
+"crypto adoption","2021-07-04",1
 "crypto advertising","2021-06-09",1
 "crypto advice","2021-05-26",1
 "crypto ai","2021-06-07",1
@@ -11692,6 +11972,7 @@
 "crypto altcoin","2021-06-18",1
 "crypto altcoin","2021-06-28",1
 "crypto alternatives","2021-06-21",1
+"crypto alts","2021-07-04",1
 "crypto amp","2021-05-25",1
 "crypto amp","2021-06-09",1
 "crypto amp","2021-06-10",1
@@ -11699,6 +11980,7 @@
 "crypto amp","2021-06-21",1
 "crypto amp","2021-06-23",1
 "crypto amp","2021-06-30",1
+"crypto amp","2021-07-04",1
 "crypto analysis","2021-06-02",1
 "crypto analysis","2021-06-20",1
 "crypto analyst","2021-06-17",1
@@ -11844,6 +12126,7 @@
 "crypto cryptonews","2021-06-22",1
 "crypto cryptonews","2021-06-25",1
 "crypto cryptonews","2021-06-30",1
+"crypto cryptonews","2021-07-04",1
 "crypto cryptonewseconomic","2021-06-25",1
 "crypto cryptotrade","2021-07-01",1
 "crypto cryptotrading","2021-06-02",1
@@ -11870,6 +12153,7 @@
 "crypto currency","2021-06-21",1
 "crypto currency","2021-06-26",1
 "crypto currency","2021-06-27",1
+"crypto currency","2021-07-04",1
 "crypto customers","2021-06-07",1
 "crypto cycles","2021-06-08",1
 "crypto cynics","2021-06-24",1
@@ -11956,6 +12240,7 @@
 "crypto exchanges","2021-06-08",1
 "crypto exchanges","2021-06-24",1
 "crypto exchanges","2021-06-27",1
+"crypto exodus","2021-07-04",1
 "crypto experience","2021-06-21",1
 "crypto expert","2021-06-13",1
 "crypto exposure","2021-06-10",1
@@ -12067,6 +12352,7 @@
 "crypto markets","2021-06-24",1
 "crypto markets","2021-06-26",1
 "crypto markets","2021-07-01",1
+"crypto markets","2021-07-04",1
 "crypto mastercard","2021-06-01",1
 "crypto means","2021-06-15",1
 "crypto megatoken","2021-06-05",1
@@ -12141,6 +12427,7 @@
 "crypto prices","2021-06-24",1
 "crypto prices","2021-06-26",1
 "crypto prices","2021-07-01",1
+"crypto prices","2021-07-04",1
 "crypto project","2021-06-07",1
 "crypto projects","2021-06-27",1
 "crypto proof","2021-06-08",1
@@ -12195,6 +12482,7 @@
 "crypto space","2021-06-22",1
 "crypto space","2021-06-23",1
 "crypto space","2021-06-28",1
+"crypto space","2021-07-04",1
 "crypto specifically","2021-06-21",1
 "crypto splitting","2021-07-01",1
 "crypto start","2021-07-01",1
@@ -12322,6 +12610,7 @@
 "cryptocurency altcoin","2021-06-20",1
 "cryptocurency bsc","2021-06-26",1
 "cryptocurency crypto","2021-06-02",1
+"cryptocurency crypto","2021-07-04",1
 "cryptocurency cryptocrash","2021-06-27",1
 "cryptocurency cryptocurrencies","2021-06-08",1
 "cryptocurency cryptonews","2021-06-21",1
@@ -12474,12 +12763,14 @@
 "cryptonews etherium","2021-06-13",1
 "cryptonews etherium","2021-06-30",1
 "cryptonews forex","2021-06-26",1
+"cryptonews globalnews","2021-07-04",1
 "cryptonews hodltoearn","2021-06-21",1
 "cryptonews investing","2021-06-26",1
 "cryptonews litecoin","2021-06-01",1
 "cryptonews motivation","2021-05-26",1
 "cryptonews qash","2021-06-23",1
 "cryptonews xrp","2021-06-03",1
+"cryptonews xrp","2021-07-04",1
 "cryptonewszec ecc","2021-05-29",1
 "cryptonomicon amp","2021-06-11",1
 "cryptonote cryptography","2021-06-21",1
@@ -12512,6 +12803,7 @@
 "cryptotabbitcoin crypto","2021-06-10",1
 "cryptothe team","2021-06-07",1
 "cryptotrade cryptonews","2021-06-21",1
+"cryptotrader crypto","2021-07-04",1
 "cryptotrading ","2021-06-30",1
 "cryptotrading 1000xcoin","2021-06-21",1
 "cryptotrading altcoin","2021-06-23",1
@@ -12591,6 +12883,7 @@
 "cuban's rug","2021-06-20",1
 "cuban commends","2021-06-20",1
 "cuban disparage","2021-06-07",1
+"cuban updates","2021-07-04",1
 "cube plasticbasedunderlying","2021-06-08",1
 "cubesat nodes","2021-06-05",1
 "cuck stock","2021-05-30",1
@@ -12872,6 +13165,7 @@
 "daily green","2021-06-17",1
 "daily hammer","2021-06-22",1
 "daily hodl","2021-06-28",1
+"daily hodlxrp","2021-07-04",1
 "daily naked","2021-05-28",1
 "daily payouts","2021-05-31",1
 "daily payouts","2021-06-27",1
@@ -12917,6 +13211,7 @@
 "dao token","2021-06-24",1
 "dapp's ico's","2021-05-30",1
 "dapp centre","2021-06-02",1
+"dapper labscrypto","2021-07-04",1
 "dapps directly","2021-05-25",1
 "dapps nfts","2021-06-25",1
 "dark money","2021-06-14",1
@@ -13000,6 +13295,7 @@
 "day ema","2021-05-30",1
 "day eth","2021-06-26",1
 "day expenses","2021-06-22",1
+"day friendly","2021-07-04",1
 "day hungry","2021-06-18",1
 "day job","2021-06-15",1
 "day learning","2021-06-15",1
@@ -13052,8 +13348,13 @@
 "days shatters","2021-06-26",1
 "days weeks","2021-06-22",1
 "daytrade bolsadevalores","2021-07-01",1
+"daytrade swingtrade","2021-07-04",1
 "daytrader entrepreneur","2021-06-29",1
 "daytrading crypto","2021-06-07",1
+"daytrading finance","2021-07-04",1
+"daytrading futures","2021-07-04",1
+"daytrading money","2021-07-04",1
+"daytrading visit","2021-07-04",1
 "dc pols","2021-06-16",1
 "dca holding","2021-06-08",1
 "dca plan","2021-06-23",1
@@ -13085,6 +13386,7 @@
 "dead tech","2021-05-29",1
 "deadly shooting","2021-06-11",1
 "deal birthdaygirl","2021-06-01",1
+"deal birthdaygirl","2021-07-04",1
 "deal breaker","2021-06-25",1
 "deal gift","2021-05-28",1
 "deal gift","2021-06-07",1
@@ -13139,10 +13441,12 @@
 "debt crises","2021-06-01",1
 "debt crises","2021-06-02",1
 "debt fuels","2021-06-25",1
+"debt happy","2021-07-04",1
 "debt instrument","2021-06-18",1
 "debt offering","2021-06-07",1
 "debt printing","2021-06-06",1
 "debt repayments","2021-06-21",1
+"debt slavery","2021-07-04",1
 "debt slaves","2021-06-13",1
 "debt trap","2021-07-01",1
 "debts public","2021-06-04",1
@@ -13165,6 +13469,7 @@
 "decent hedge","2021-05-25",1
 "decent overview","2021-06-09",1
 "decent round","2021-06-18",1
+"decent skill","2021-07-04",1
 "decent spanish","2021-06-25",1
 "decent support","2021-06-27",1
 "decent upside","2021-06-20",1
@@ -13176,6 +13481,7 @@
 "decentralised finance","2021-06-16",1
 "decentralised global","2021-06-11",1
 "decentralised monetory","2021-06-02",1
+"decentralised stablecoins","2021-07-04",1
 "decentralised travel","2021-05-25",1
 "decentralization bitcoini","2021-06-25",1
 "decentralization crypto","2021-06-15",1
@@ -13264,6 +13570,7 @@
 "deep btd","2021-05-28",1
 "deep cold","2021-06-08",1
 "deep correction","2021-06-26",1
+"deep correction","2021-07-04",1
 "deep dive","2021-05-25",1
 "deep dive","2021-06-18",1
 "deep dive","2021-06-21",1
@@ -13278,17 +13585,20 @@
 "defacing money","2021-06-26",1
 "default global","2021-06-26",1
 "default node","2021-06-28",1
+"defaults gt","2021-07-04",1
 "defended ","2021-06-09",1
 "defense broken","2021-06-20",1
 "defense contractors","2021-05-31",1
 "deferred payment","2021-05-26",1
 "defi ","2021-06-24",1
+"defi 2","2021-07-04",1
 "defi airdrop","2021-06-08",1
 "defi airdrop","2021-07-01",1
 "defi airdropstario","2021-06-20",1
 "defi altcoins","2021-06-18",1
 "defi ammob","2021-06-28",1
 "defi amp","2021-05-31",1
+"defi amp","2021-07-04",1
 "defi applications","2021-06-08",1
 "defi based","2021-06-12",1
 "defi binance","2021-06-18",1
@@ -13323,6 +13633,7 @@
 "defi cryptocurrencies","2021-06-23",1
 "defi cryptotrading","2021-05-29",1
 "defi dao","2021-06-05",1
+"defi daytrade","2021-07-04",1
 "defi dex","2021-05-26",1
 "defi dex","2021-05-27",1
 "defi dex","2021-05-29",1
@@ -13398,6 +13709,7 @@
 "defifarms airdropdetective","2021-06-26",1
 "defigiveaway bsc","2021-06-29",1
 "definews hiveswap","2021-06-28",1
+"definitive conclusions","2021-07-04",1
 "definitive weekend","2021-06-18",1
 "defipulseindex metaverseindex","2021-06-30",1
 "defisavings defisavingsaccount","2021-05-29",1
@@ -13428,6 +13740,7 @@
 "dell tech","2021-06-08",1
 "delphi labs","2021-06-14",1
 "delta concerns","2021-06-26",1
+"delta variant","2021-07-04",1
 "deltavariant yks2021","2021-06-26",1
 "demage control","2021-06-28",1
 "demand ","2021-06-24",1
@@ -13543,6 +13856,7 @@
 "dev trinary","2021-06-27",1
 "devaluating usd","2021-06-28",1
 "devaluation relative","2021-06-21",1
+"devaluing xcademy","2021-07-04",1
 "devastating market","2021-07-01",1
 "devastation apple","2021-06-21",1
 "devasted plan","2021-05-30",1
@@ -13555,6 +13869,7 @@
 "developed slowly","2021-06-30",1
 "developer explains","2021-06-28",1
 "developer mdm","2021-06-08",1
+"developer network","2021-07-04",1
 "developers amp","2021-06-18",1
 "developers building","2021-06-02",1
 "developers community","2021-06-23",1
@@ -13631,6 +13946,7 @@
 "dickcoin happy","2021-06-11",1
 "dictator friendly","2021-06-06",1
 "dictatorship ","2021-05-29",1
+"didi taihuttu","2021-07-04",1
 "die dogecoin","2021-06-21",1
 "die faster","2021-06-28",1
 "die slowly","2021-06-22",1
@@ -13657,6 +13973,7 @@
 "difficulty adjusts","2021-06-29",1
 "difficulty dropping","2021-06-23",1
 "difficulty increases","2021-06-07",1
+"difficulty rate","2021-07-04",1
 "digestible set","2021-06-13",1
 "digger gwn","2021-06-13",1
 "digging deep","2021-06-09",1
@@ -13710,6 +14027,7 @@
 "digital currencies","2021-06-18",1
 "digital currencies","2021-06-22",1
 "digital currencies","2021-07-02",1
+"digital currencies","2021-07-04",1
 "digital currency","2021-06-01",1
 "digital currency","2021-06-03",1
 "digital currency","2021-06-06",1
@@ -13725,6 +14043,7 @@
 "digital gold","2021-06-08",1
 "digital gold","2021-06-09",1
 "digital gold","2021-06-26",1
+"digital gold","2021-07-04",1
 "digital identity","2021-06-16",1
 "digital investment","2021-06-21",1
 "digital log","2021-07-01",1
@@ -13735,6 +14054,7 @@
 "digital medium","2021-06-15",1
 "digital money","2021-06-10",1
 "digital money","2021-06-18",1
+"digital money","2021-07-04",1
 "digital pound","2021-06-20",1
 "digital property","2021-05-30",1
 "digital property","2021-07-01",1
@@ -13773,12 +14093,14 @@
 "digitized id","2021-06-28",1
 "dii buying","2021-06-26",1
 "diluting stock","2021-06-15",1
+"diminishing returns","2021-07-04",1
 "dimons bonuses","2021-05-26",1
 "dinar iq","2021-06-11",1
 "dink doink","2021-07-01",1
 "dinner saif","2021-06-08",1
 "dino juice","2021-06-12",1
 "dinor av","2021-06-13",1
+"dinosaur's bad","2021-07-04",1
 "dip ah","2021-06-20",1
 "dip bc","2021-06-25",1
 "dip beneath","2021-06-23",1
@@ -13832,6 +14154,7 @@
 "dirty tether","2021-06-13",1
 "disability rating","2021-06-23",1
 "disabled withdrawing","2021-06-09",1
+"disagree altcoins","2021-07-04",1
 "disagree liz","2021-06-11",1
 "disagree microsoft","2021-05-25",1
 "disagree tom","2021-05-28",1
@@ -13846,6 +14169,7 @@
 "discord 10","2021-06-01",1
 "discord binancesmartchain","2021-05-27",1
 "discord channel","2021-06-15",1
+"discord link","2021-07-04",1
 "discord messages","2021-06-16",1
 "discord supporter","2021-06-07",1
 "discord supporter","2021-06-08",1
@@ -13882,6 +14206,7 @@
 "discussing bitcoin's","2021-05-26",1
 "discussing data","2021-06-23",1
 "discussing private","2021-05-28",1
+"discussion 2","2021-07-04",1
 "discussion day","2021-06-15",1
 "disease continues","2021-06-23",1
 "disgusting insult","2021-06-08",1
@@ -13947,6 +14272,7 @@
 "dm link","2021-06-30",1
 "dm locked","2021-05-25",1
 "dms 50","2021-06-20",1
+"dnm black","2021-07-04",1
 "docile silent","2021-06-08",1
 "documentary film","2021-06-02",1
 "documentation craig","2021-06-28",1
@@ -13957,6 +14283,7 @@
 "doesnt exclude","2021-05-26",1
 "doesnt matter","2021-06-06",1
 "dog coins","2021-06-07",1
+"dog days","2021-07-04",1
 "dog money","2021-06-10",1
 "dog suffers","2021-06-20",1
 "dogcoin memecoin","2021-06-12",1
@@ -14060,6 +14387,7 @@
 "doge wsb","2021-06-25",1
 "doge xrp","2021-06-02",1
 "doge xrp","2021-06-26",1
+"doge xrp","2021-07-04",1
 "dogearmy doge4tesla","2021-06-12",1
 "dogearmy dogecoin","2021-05-27",1
 "dogearmy dogecoin","2021-06-01",1
@@ -14067,6 +14395,7 @@
 "dogearmy dogecoin","2021-06-24",1
 "dogearmy dogecoin","2021-06-27",1
 "dogearmy dogecoinrise","2021-05-26",1
+"dogearmy dogefather","2021-07-04",1
 "dogearmy ripple","2021-06-18",1
 "dogearmy ripple","2021-06-30",1
 "dogearmy safemoon","2021-06-10",1
@@ -14094,9 +14423,11 @@
 "dogecoin altcoin","2021-07-02",1
 "dogecoin altcoins","2021-06-04",1
 "dogecoin amc","2021-06-02",1
+"dogecoin amc","2021-07-04",1
 "dogecoin amp","2021-06-29",1
 "dogecoin army","2021-06-16",1
 "dogecoin bch","2021-06-24",1
+"dogecoin birthdaygirl","2021-07-04",1
 "dogecoin bitcoincash","2021-06-25",1
 "dogecoin bitcoingold","2021-07-01",1
 "dogecoin bro","2021-06-23",1
@@ -14221,6 +14552,7 @@
 "dogefamily play","2021-07-01",1
 "dogefather cryptonews","2021-06-21",1
 "dogefather dogecoin","2021-06-21",1
+"dogefather dogecointo1dollar","2021-07-04",1
 "dogekiller shib","2021-06-12",1
 "dogelord crypto","2021-06-02",1
 "dogelord cryptoapparel","2021-06-02",1
@@ -14284,6 +14616,7 @@
 "dominance chart","2021-06-11",1
 "dominance continues","2021-06-14",1
 "dominance continues","2021-06-25",1
+"dominance history","2021-07-04",1
 "dominance increased","2021-06-25",1
 "dominance increasing","2021-06-22",1
 "dominance makes","2021-06-14",1
@@ -14400,6 +14733,7 @@
 "doyourownresearch crypto","2021-06-13",1
 "dozen separate","2021-06-17",1
 "dph bitcoin2021","2021-06-05",1
+"dr adam","2021-07-04",1
 "dr dlt","2021-06-16",1
 "dr maria","2021-06-13",1
 "draba airdropstario","2021-06-20",1
@@ -14414,6 +14748,8 @@
 "dramatic lol","2021-06-22",1
 "dramatic rise","2021-05-27",1
 "draw 13333","2021-06-14",1
+"draw definitive","2021-07-04",1
+"draw huge","2021-07-04",1
 "draws attention","2021-06-07",1
 "dream succeed","2021-06-12",1
 "dreams achieve","2021-06-11",1
@@ -14423,6 +14759,7 @@
 "dripped ","2021-05-25",1
 "drive 100x","2021-06-27",1
 "drive adoption","2021-06-23",1
+"drive drunk","2021-07-04",1
 "drive family","2021-06-14",1
 "drive innovation","2021-06-22",1
 "driven assets","2021-05-28",1
@@ -14548,6 +14885,7 @@
 "dynamic war","2021-06-25",1
 "dynamically priced","2021-06-27",1
 "dynamics abdp","2021-06-21",1
+"dyor hedge","2021-07-04",1
 "dystopian move","2021-06-25",1
 "eager amp","2021-06-25",1
 "eager enterprise","2021-06-10",1
@@ -14601,6 +14939,7 @@
 "earn half","2021-05-26",1
 "earn huge","2021-06-07",1
 "earn learn","2021-06-29",1
+"earn litecoin","2021-07-04",1
 "earn massively","2021-05-26",1
 "earn massively","2021-06-03",1
 "earn money","2021-05-26",1
@@ -14613,6 +14952,8 @@
 "earn money","2021-06-26",1
 "earn money","2021-06-27",1
 "earn money","2021-06-29",1
+"earn money","2021-07-04",1
+"earn network","2021-07-04",1
 "earn price","2021-06-07",1
 "earn proteafire","2021-06-02",1
 "earn proteafire","2021-06-05",1
@@ -14627,10 +14968,12 @@
 "earncontact fridaymorning","2021-06-25",1
 "earncrypto quickcash","2021-06-03",1
 "earncryptocurrency bsc","2021-06-22",1
+"earned 20","2021-07-04",1
 "earned decentralized","2021-06-20",1
 "earned free","2021-05-26",1
 "earned free","2021-05-28",1
 "earned free","2021-06-02",1
+"earned free","2021-07-04",1
 "earned money","2021-06-03",1
 "earned money","2021-06-12",1
 "earned money","2021-06-26",1
@@ -14702,6 +15045,7 @@
 "easy trackeable","2021-06-29",1
 "easy worknftcommunity","2021-07-01",1
 "easymoney surveys","2021-06-03",1
+"eating insects","2021-07-04",1
 "eating remittances","2021-06-14",1
 "eaton cardone","2021-05-28",1
 "ebang international","2021-06-01",1
@@ -14709,6 +15053,7 @@
 "ebay viac","2021-06-11",1
 "ebc2021 summary","2021-06-01",1
 "ebitda coz","2021-06-16",1
+"ecb special","2021-07-04",1
 "ecc reddit","2021-05-29",1
 "eccentric billionaire's","2021-06-04",1
 "eccentricity omfif","2021-06-16",1
@@ -14738,6 +15083,7 @@
 "economic crime","2021-06-25",1
 "economic crisis","2021-06-21",1
 "economic crisis","2021-07-02",1
+"economic development","2021-07-04",1
 "economic embargo","2021-06-04",1
 "economic events","2021-06-05",1
 "economic financial","2021-06-26",1
@@ -14755,6 +15101,7 @@
 "economic woe","2021-06-16",1
 "economically convenient","2021-06-14",1
 "economics blockchain","2021-06-18",1
+"economics gold","2021-07-04",1
 "economics liberty","2021-06-09",1
 "economics nobel","2021-06-17",1
 "economics study","2021-06-05",1
@@ -14794,6 +15141,7 @@
 "edt 2100","2021-06-29",1
 "educate peace","2021-05-30",1
 "educate people","2021-06-17",1
+"educated investors","2021-07-04",1
 "educated nascent","2021-06-21",1
 "educated people","2021-06-12",1
 "educated pov","2021-06-05",1
@@ -14801,6 +15149,7 @@
 "educating people","2021-06-30",1
 "education amp","2021-06-13",1
 "education health","2021-06-11",1
+"eduze kwakho","2021-07-04",1
 "eerie similarities","2021-06-01",1
 "effective blockchain","2021-06-16",1
 "effective business","2021-06-24",1
@@ -14851,6 +15200,7 @@
 "el salvador","2021-05-26",1
 "el salvador","2021-06-27",1
 "el salvador","2021-06-28",1
+"el salvador","2021-07-04",1
 "el salvador's","2021-06-11",1
 "el salvador's","2021-06-12",1
 "el salvador's","2021-06-14",1
@@ -14975,6 +15325,7 @@
 "elsalvador president","2021-06-06",1
 "elsalvador talk","2021-06-06",1
 "em warm","2021-05-25",1
+"ema 50","2021-07-04",1
 "ema cross","2021-06-15",1
 "emailmarketing digitalmarkting","2021-06-29",1
 "emax anymore","2021-05-31",1
@@ -14995,6 +15346,7 @@
 "emerging economies","2021-06-12",1
 "emerging economy","2021-06-15",1
 "emerging form","2021-06-23",1
+"emerging geopolitical","2021-07-04",1
 "emerging market","2021-06-20",1
 "emerging markets","2021-06-20",1
 "emerging speculative","2021-05-25",1
@@ -15017,6 +15369,7 @@
 "empire strikes","2021-06-25",1
 "empirical evidence","2021-06-20",1
 "employee card","2021-06-16",1
+"employee contravened","2021-07-04",1
 "employees helping","2021-06-05",1
 "employment component","2021-06-01",1
 "employment real","2021-06-16",1
@@ -15031,6 +15384,7 @@
 "en 2010","2021-06-11",1
 "en la","2021-06-11",1
 "en masses","2021-06-05",1
+"enable humanity","2021-07-04",1
 "enable people","2021-06-29",1
 "enable smart","2021-06-10",1
 "enable smart","2021-07-01",1
@@ -15046,10 +15400,12 @@
 "enabling potentially","2021-06-11",1
 "enacting wtf","2021-05-29",1
 "encourage artists","2021-06-30",1
+"end2 financial","2021-07-04",1
 "endless airdrop","2021-06-01",1
 "endless fiat","2021-05-30",1
 "endless inflation","2021-06-07",1
 "endless money","2021-06-26",1
+"endless taxation","2021-07-04",1
 "endless vulnerabilities","2021-06-13",1
 "endlessly fighting","2021-06-29",1
 "endorsing cryptocurrencies","2021-06-01",1
@@ -15074,6 +15430,7 @@
 "energy consumption","2021-06-26",1
 "energy consumption","2021-06-28",1
 "energy consumption","2021-06-29",1
+"energy consumption","2021-07-04",1
 "energy correctly","2021-05-31",1
 "energy costs","2021-06-29",1
 "energy credits","2021-05-25",1
@@ -15097,6 +15454,7 @@
 "energy fud","2021-05-31",1
 "energy fud","2021-06-07",1
 "energy fud","2021-06-17",1
+"energy fud","2021-07-04",1
 "energy global","2021-07-02",1
 "energy green","2021-05-25",1
 "energy grid","2021-06-09",1
@@ -15122,6 +15480,7 @@
 "energy sources","2021-06-10",1
 "energy spending","2021-05-25",1
 "energy stay","2021-06-30",1
+"energy supplies","2021-07-04",1
 "energy technology","2021-06-30",1
 "energy transition","2021-06-05",1
 "energy transparency","2021-05-25",1
@@ -15131,6 +15490,7 @@
 "energy wasting","2021-06-18",1
 "energy writing","2021-05-31",1
 "enforced esg","2021-05-26",1
+"enforcement authority","2021-07-04",1
 "enforces protection","2021-06-02",1
 "eng ren","2021-06-11",1
 "engagement affiliatemarketing","2021-07-02",1
@@ -15218,6 +15578,7 @@
 "entire grayscale","2021-05-31",1
 "entire history","2021-06-20",1
 "entire history","2021-06-25",1
+"entire human","2021-07-04",1
 "entire idea","2021-06-21",1
 "entire idea","2021-06-26",1
 "entire industry","2021-06-25",1
@@ -15356,6 +15717,7 @@
 "erc721 bnb","2021-06-25",1
 "ergo nate","2021-05-25",1
 "erik bethel","2021-06-03",1
+"erroneously classifies","2021-07-04",1
 "error knut","2021-06-26",1
 "es development","2021-06-16",1
 "es dollar","2021-06-16",1
@@ -15416,6 +15778,7 @@
 "estate taxes","2021-07-02",1
 "estate tokens","2021-06-01",1
 "este super","2021-06-08",1
+"estimate 99","2021-07-04",1
 "estimated 24","2021-06-30",1
 "estimated 5","2021-05-29",1
 "estimated 6","2021-06-26",1
@@ -15580,6 +15943,8 @@
 "eth total","2021-06-17",1
 "eth tropes","2021-05-26",1
 "eth trx","2021-06-30",1
+"eth uni","2021-07-04",1
+"eth uniswap","2021-07-04",1
 "eth usdtwith","2021-06-08",1
 "eth users","2021-06-08",1
 "eth xau","2021-06-10",1
@@ -15611,6 +15976,7 @@
 "eth xrp","2021-06-29",1
 "eth xrp","2021-06-30",1
 "eth xrp","2021-07-01",1
+"eth xrp","2021-07-04",1
 "eth yeh","2021-05-28",1
 "eth yesterday","2021-05-28",1
 "ether ","2021-06-26",1
@@ -15619,10 +15985,12 @@
 "ether ethereum","2021-06-29",1
 "ether litecoin","2021-06-03",1
 "ether major","2021-06-28",1
+"ether surpasses","2021-07-04",1
 "ethere ico","2021-06-14",1
 "ethereum's model","2021-06-03",1
 "ethereum ","2021-05-30",1
 "ethereum ","2021-06-02",1
+"ethereum ","2021-07-04",1
 "ethereum 2","2021-05-27",1
 "ethereum 2","2021-05-31",1
 "ethereum 200","2021-06-08",1
@@ -15642,6 +16010,7 @@
 "ethereum amp","2021-06-04",1
 "ethereum amp","2021-06-05",1
 "ethereum amp","2021-06-17",1
+"ethereum analysis","2021-07-04",1
 "ethereum ankr","2021-07-02",1
 "ethereum antifud","2021-06-10",1
 "ethereum antifud","2021-06-14",1
@@ -15665,6 +16034,7 @@
 "ethereum bnb","2021-06-25",1
 "ethereum bnb","2021-06-26",1
 "ethereum bnb","2021-06-27",1
+"ethereum bnb","2021-07-04",1
 "ethereum bsc","2021-06-27",1
 "ethereum btm","2021-06-05",1
 "ethereum bugs","2021-06-07",1
@@ -15745,6 +16115,7 @@
 "ethereum eth","2021-06-24",1
 "ethereum eth","2021-06-27",1
 "ethereum eth","2021-06-29",1
+"ethereum eth","2021-07-04",1
 "ethereum ether","2021-06-04",1
 "ethereum etps","2021-06-13",1
 "ethereum exchange","2021-05-28",1
@@ -15797,6 +16168,7 @@
 "ethereum taxes","2021-05-28",1
 "ethereum tc","2021-06-14",1
 "ethereum tokenomics","2021-06-08",1
+"ethereum traffic","2021-07-04",1
 "ethereum tron","2021-06-04",1
 "ethereum tumble","2021-06-25",1
 "ethereum usdc","2021-06-18",1
@@ -15813,6 +16185,7 @@
 "ethereum xrp","2021-06-24",1
 "ethereum xrp","2021-06-25",1
 "ethereum xrp","2021-07-02",1
+"ethereum xrp","2021-07-04",1
 "ethereum xrpcommunity","2021-06-20",1
 "ethereumeth eth","2021-06-16",1
 "ethereumeth eth","2021-06-18",1
@@ -15915,6 +16288,8 @@
 "evolving crypto","2021-06-30",1
 "evropa moral","2021-06-05",1
 "ewaste environmentaljustice","2021-06-27",1
+"exact company","2021-07-04",1
+"exact countries","2021-07-04",1
 "exact low","2021-06-23",1
 "exact opposite","2021-06-13",1
 "exact opposite","2021-06-22",1
@@ -15973,6 +16348,7 @@
 "exchange mt","2021-06-07",1
 "exchange platform","2021-06-26",1
 "exchange protocol","2021-06-26",1
+"exchange raises","2021-07-04",1
 "exchange rate","2021-06-06",1
 "exchange rate","2021-06-09",1
 "exchange rate","2021-06-11",1
@@ -16013,6 +16389,7 @@
 "exciting experience","2021-06-11",1
 "exciting experience","2021-06-21",1
 "exciting experience","2021-06-25",1
+"exciting experience","2021-07-04",1
 "exciting idea","2021-06-25",1
 "exciting introduced","2021-05-28",1
 "exciting min","2021-06-01",1
@@ -16027,6 +16404,7 @@
 "exclusive hottestcryptostore","2021-06-02",1
 "exclusive toxic","2021-06-11",1
 "excusebitcoin tesla","2021-06-07",1
+"executed 31","2021-07-04",1
 "executes largest","2021-06-26",1
 "executing proof","2021-06-21",1
 "executive chair","2021-06-10",1
@@ -16115,6 +16493,7 @@
 "experts break","2021-06-01",1
 "expext strong","2021-06-08",1
 "expiration date","2021-06-26",1
+"expires 7","2021-07-04",1
 "explain eth","2021-07-01",1
 "explain pls","2021-06-21",1
 "explaining crypto","2021-05-25",1
@@ -16122,6 +16501,8 @@
 "explode criminality","2021-05-25",1
 "exploited perpetually","2021-06-18",1
 "explore xtz","2021-06-29",1
+"exploring methods","2021-07-04",1
+"explosions happen","2021-07-04",1
 "exponential appreciation","2021-06-02",1
 "exponentially amp","2021-05-30",1
 "exponentially appreciating","2021-06-03",1
@@ -16153,6 +16534,7 @@
 "extraordinary project","2021-06-02",1
 "extraordinary project","2021-06-18",1
 "extraordinary properties","2021-06-28",1
+"extraordinary times","2021-07-04",1
 "extravagant experiment","2021-06-25",1
 "extreme excess","2021-06-21",1
 "extreme fear","2021-05-30",1
@@ -16166,8 +16548,10 @@
 "extreme violence","2021-06-09",1
 "extreme volatility","2021-06-06",1
 "extremely bullish","2021-06-02",1
+"extremely bullish","2021-07-04",1
 "extremely careful","2021-06-25",1
 "extremely challenging","2021-06-10",1
+"extremely complex","2021-07-04",1
 "extremely depressed","2021-06-12",1
 "extremely durable","2021-06-28",1
 "extremely easy","2021-06-28",1
@@ -16246,6 +16630,7 @@
 "fake ass","2021-06-18",1
 "fake ass","2021-06-30",1
 "fake bots","2021-06-17",1
+"fake change","2021-07-04",1
 "fake company","2021-06-20",1
 "fake dump","2021-05-29",1
 "fake fad","2021-06-27",1
@@ -16254,6 +16639,7 @@
 "fake imo","2021-06-24",1
 "fake news","2021-05-25",1
 "fake news","2021-06-27",1
+"fake news","2021-07-04",1
 "fake paper","2021-06-20",1
 "fake scam","2021-06-01",1
 "fake stimulus","2021-06-23",1
@@ -16263,6 +16649,7 @@
 "fall 2021bet","2021-06-21",1
 "fall deep","2021-06-12",1
 "fall directly","2021-07-01",1
+"fall gt","2021-07-04",1
 "fall tech","2021-05-28",1
 "falling asleep","2021-06-04",1
 "falling asleep","2021-06-26",1
@@ -16290,7 +16677,9 @@
 "families accepts","2021-06-25",1
 "families amp","2021-06-18",1
 "family ","2021-05-28",1
+"family 37hhh4refbmebynpaabh5acumgka2sjpkb","2021-07-04",1
 "family business","2021-06-06",1
+"family dad","2021-07-04",1
 "family enjoy","2021-05-31",1
 "family excavate","2021-06-14",1
 "family investment","2021-06-23",1
@@ -16375,6 +16764,7 @@
 "fast crypto","2021-06-29",1
 "fast crypto","2021-06-30",1
 "fast crypto","2021-07-01",1
+"fast crypto","2021-07-04",1
 "fast decentralized","2021-06-15",1
 "fast distributed","2021-06-09",1
 "fast enormous","2021-06-18",1
@@ -16447,6 +16837,7 @@
 "favorite crypto","2021-06-16",1
 "favorite cryptocurrencies","2021-06-07",1
 "favorite games","2021-06-18",1
+"favorite holiday","2021-07-04",1
 "favorite language","2021-06-01",1
 "favorite lineswould","2021-06-08",1
 "favorite paid","2021-06-01",1
@@ -16468,6 +16859,7 @@
 "fax machine","2021-05-28",1
 "fb nio","2021-06-13",1
 "fbb fbbcapitalpartners","2021-06-03",1
+"fbi declined","2021-07-04",1
 "fbi impounded","2021-06-20",1
 "fbi seizing","2021-06-08",1
 "fcking beautiful","2021-06-09",1
@@ -16520,6 +16912,7 @@
 "federal reserve","2021-06-16",1
 "federal reserve","2021-06-22",1
 "federal reserve","2021-07-01",1
+"federal reserve","2021-07-04",1
 "federal spending","2021-05-28",1
 "fedmeeting vix16","2021-06-15",1
 "feds solved","2021-06-08",1
@@ -16595,6 +16988,9 @@
 "fewer resources","2021-06-10",1
 "fewer understand","2021-06-02",1
 "fewer wealthier","2021-06-16",1
+"ff binaryoption","2021-07-04",1
+"ff business","2021-07-04",1
+"ff invest","2021-07-04",1
 "ffler fdp","2021-07-01",1
 "ffs wealthsimple","2021-06-21",1
 "fiancial rock","2021-06-23",1
@@ -16635,6 +17031,7 @@
 "fiat legal","2021-06-04",1
 "fiat maximalists","2021-05-30",1
 "fiat mentality","2021-06-01",1
+"fiat mining","2021-07-04",1
 "fiat money","2021-05-26",1
 "fiat money","2021-05-27",1
 "fiat money","2021-05-28",1
@@ -16643,6 +17040,7 @@
 "fiat money","2021-06-18",1
 "fiat money","2021-06-28",1
 "fiat money","2021-06-29",1
+"fiat money","2021-07-04",1
 "fiat officials","2021-07-02",1
 "fiat online","2021-06-01",1
 "fiat online","2021-06-30",1
@@ -16678,6 +17076,7 @@
 "fields distributed","2021-06-28",1
 "fifa world","2021-06-12",1
 "fight club","2021-06-21",1
+"fight response","2021-07-04",1
 "figure corrected","2021-06-21",1
 "fil dot","2021-06-24",1
 "filecoin price","2021-05-25",1
@@ -16740,6 +17139,7 @@
 "finance forex","2021-06-21",1
 "finance forex","2021-06-27",1
 "finance forex","2021-06-28",1
+"finance fx","2021-07-04",1
 "finance investment","2021-05-30",1
 "finance minister","2021-06-07",1
 "finance money","2021-05-30",1
@@ -16807,10 +17207,12 @@
 "financial freedoms","2021-06-07",1
 "financial future","2021-06-27",1
 "financial giants","2021-05-30",1
+"financial history","2021-07-04",1
 "financial inclusion","2021-06-07",1
 "financial inclusivity","2021-05-30",1
 "financial independence","2021-05-30",1
 "financial independence","2021-07-02",1
+"financial independence","2021-07-04",1
 "financial industry","2021-06-01",1
 "financial infrastructure","2021-06-24",1
 "financial institutions","2021-05-25",1
@@ -16843,6 +17245,7 @@
 "financial system","2021-06-30",1
 "financial system","2021-07-01",1
 "financial systems","2021-06-06",1
+"financial systems","2021-07-04",1
 "financial takes","2021-06-21",1
 "financial virus","2021-06-25",1
 "financial watchdog","2021-05-31",1
@@ -16897,6 +17300,7 @@
 "fintech money","2021-06-22",1
 "fintech p2pexchange","2021-06-25",1
 "fintech project","2021-07-02",1
+"fintech rt","2021-07-04",1
 "fintech tech","2021-06-29",1
 "fintech technology","2021-06-06",1
 "fintech technology","2021-06-23",1
@@ -16963,6 +17367,7 @@
 "flashbot powered","2021-05-27",1
 "flat ahead","2021-05-27",1
 "flat crime","2021-06-04",1
+"flat global","2021-07-04",1
 "flat tax","2021-06-23",1
 "flat wednesday","2021-06-23",1
 "flattax irs","2021-06-23",1
@@ -17059,6 +17464,7 @@
 "fomo tether","2021-05-27",1
 "food branding","2021-05-26",1
 "food chain","2021-06-01",1
+"food costs","2021-07-04",1
 "food dazz","2021-05-28",1
 "food delivery","2021-06-28",1
 "food god","2021-05-28",1
@@ -17101,6 +17507,7 @@
 "forces existing","2021-06-23",1
 "forcing manipulating","2021-06-04",1
 "ford's market","2021-06-26",1
+"ford shares","2021-07-04",1
 "forecast prices","2021-06-22",1
 "forecast prices","2021-06-30",1
 "forecasted support","2021-06-18",1
@@ -17109,6 +17516,7 @@
 "foreign currency","2021-06-13",1
 "foreign investments","2021-06-18",1
 "foreign policy","2021-06-14",1
+"foreignexchange visit","2021-07-04",1
 "foremost authority","2021-06-27",1
 "foremost stop","2021-06-04",1
 "foreseeable future","2021-06-09",1
@@ -17132,6 +17540,7 @@
 "forex forextrader","2021-06-29",1
 "forex forextraders","2021-06-20",1
 "forex forextrading","2021-07-01",1
+"forex fx","2021-07-04",1
 "forex investing","2021-05-30",1
 "forex investment","2021-06-04",1
 "forex investment","2021-06-07",1
@@ -17145,6 +17554,7 @@
 "forex portal","2021-06-03",1
 "forex trader","2021-05-25",1
 "forex trader","2021-06-14",1
+"forex trading","2021-07-04",1
 "forex xrp","2021-06-22",1
 "forexbrasil mercadofinanceiro","2021-07-01",1
 "forexcanada forexhongkong","2021-06-20",1
@@ -17158,7 +17568,9 @@
 "forexmalaysia forexusa","2021-06-20",1
 "forexmarket binaryoptions","2021-06-10",1
 "forexmarket forexinvestment","2021-06-20",1
+"forexmarket visit","2021-07-04",1
 "forexprofit fx","2021-06-15",1
+"forexsignals futures","2021-07-04",1
 "forexsignals signals","2021-06-15",1
 "forexsignals zentrader","2021-06-28",1
 "forextrader entrepreneur","2021-05-27",1
@@ -17168,9 +17580,13 @@
 "forextrader hfx","2021-06-08",1
 "forextrader invest","2021-06-29",1
 "forextrader investor","2021-06-29",1
+"forextrader update","2021-07-04",1
 "forextraders forexmarket","2021-06-20",1
+"forextrading binary","2021-07-04",1
 "forextrading forexconsultorexpertbr","2021-07-01",1
 "forextrading forexsignals","2021-06-15",1
+"forextrading news","2021-07-04",1
+"forextrading visit","2021-07-04",1
 "forexusa forexlondon","2021-06-20",1
 "forget 1","2021-05-29",1
 "forget amazing","2021-05-30",1
@@ -17193,6 +17609,7 @@
 "formed maintaining","2021-06-26",1
 "formidable mode","2021-06-25",1
 "forms crypto","2021-06-02",1
+"forms ocrowd","2021-07-04",1
 "forsee plebs","2021-06-17",1
 "forthe biggest","2021-06-26",1
 "forthepeople trump","2021-05-26",1
@@ -17269,6 +17686,7 @@
 "free blockchain","2021-06-26",1
 "free cash","2021-05-28",1
 "free cash","2021-06-02",1
+"free cash","2021-07-04",1
 "free chip","2021-06-30",1
 "free choice","2021-06-25",1
 "free citizen","2021-06-27",1
@@ -17284,6 +17702,7 @@
 "free cybertruck","2021-06-06",1
 "free daily","2021-07-01",1
 "free demo","2021-06-26",1
+"free discord","2021-07-04",1
 "free doge","2021-06-08",1
 "free doge","2021-06-26",1
 "free electricity","2021-07-01",1
@@ -17326,6 +17745,8 @@
 "free money","2021-06-08",1
 "free money","2021-06-13",1
 "free money","2021-06-27",1
+"free money","2021-07-04",1
+"free mook","2021-07-04",1
 "free newsletter","2021-06-21",1
 "free nytimesvsgoogle","2021-06-06",1
 "free online","2021-06-28",1
@@ -17386,6 +17807,7 @@
 "freedom greatreset","2021-06-25",1
 "freedom gt","2021-06-20",1
 "freedom money","2021-06-21",1
+"freedom money","2021-07-04",1
 "freedom pontecfinancials","2021-06-11",1
 "freedom power","2021-06-22",1
 "freedom pump","2021-07-02",1
@@ -17425,6 +17847,7 @@
 "fresh bottle","2021-06-11",1
 "fresh breath","2021-06-28",1
 "fresh ethereum","2021-06-10",1
+"fresh gpu's","2021-07-04",1
 "fresh increase","2021-06-25",1
 "fresh mindset","2021-06-09",1
 "fresh perspective","2021-06-11",1
@@ -17468,10 +17891,12 @@
 "friendly policy","2021-06-25",1
 "friendly projects","2021-05-26",1
 "friendly reminder","2021-06-08",1
+"friendly reminder","2021-07-04",1
 "friendly sidechains","2021-05-26",1
 "friendly solution","2021-06-28",1
 "friendly tokens","2021-05-26",1
 "friendly xrpcommunity","2021-06-04",1
+"friends advised","2021-07-04",1
 "friends don","2021-06-05",1
 "friends gt","2021-05-25",1
 "friends start","2021-06-04",1
@@ -17484,6 +17909,7 @@
 "friendswhere friends","2021-05-25",1
 "fringe asset","2021-05-26",1
 "fringe elements","2021-06-11",1
+"front end2","2021-07-04",1
 "front foot","2021-06-29",1
 "front row","2021-05-31",1
 "front runner","2021-06-24",1
@@ -17492,6 +17918,7 @@
 "front running","2021-06-18",1
 "front running","2021-06-22",1
 "front tooth","2021-06-15",1
+"frosty tho","2021-07-04",1
 "fruitcake contest","2021-06-08",1
 "fsd beta","2021-06-22",1
 "fsp scene","2021-06-29",1
@@ -17702,21 +18129,26 @@
 "future project","2021-05-28",1
 "future proof","2021-05-31",1
 "future proof","2021-06-09",1
+"future recommend","2021-07-04",1
 "future soft","2021-06-08",1
 "future soft","2021-06-11",1
 "future soku","2021-05-29",1
 "future solarwindtoken","2021-06-22",1
 "future stake","2021-06-18",1
+"future standard","2021-07-04",1
+"future technology","2021-07-04",1
 "future thinking","2021-06-13",1
 "future valorization","2021-06-25",1
 "future valuation","2021-06-21",1
 "future wise","2021-06-09",1
 "futurebit apollo","2021-06-20",1
+"futures binary","2021-07-04",1
 "futures china","2021-06-21",1
 "futures contracts","2021-06-27",1
 "futures crypto","2021-06-11",1
 "futures damien","2021-06-18",1
 "futures feels","2021-06-20",1
+"futures forex","2021-07-04",1
 "futures mbt","2021-06-27",1
 "futures mocktailfinance","2021-06-05",1
 "futures mutual","2021-06-22",1
@@ -17735,11 +18167,14 @@
 "futurov bsc","2021-06-08",1
 "futurov bsc","2021-06-14",1
 "futurov bsc","2021-06-21",1
+"fvcking ride","2021-07-04",1
 "fx ","2021-06-30",1
 "fx forexlifestyle","2021-05-29",1
 "fx gbpusd","2021-06-15",1
+"fx gold","2021-07-04",1
 "fx news","2021-05-27",1
 "fx trading","2021-05-28",1
+"fx visit","2021-07-04",1
 "fyi china","2021-06-25",1
 "fyi eventually","2021-06-09",1
 "fyp nftart","2021-06-29",1
@@ -17838,6 +18273,7 @@
 "gaming platform","2021-06-22",1
 "gaming platform","2021-06-25",1
 "gaming platform","2021-07-01",1
+"gaming platform","2021-07-04",1
 "gangs hang","2021-07-02",1
 "gap chasers","2021-06-15",1
 "garbage elon","2021-06-18",1
@@ -17903,13 +18339,17 @@
 "generation plant","2021-06-20",1
 "generation project","2021-06-12",1
 "generation social","2021-07-01",1
+"generational life","2021-07-04",1
 "generational wealth","2021-05-28",1
 "generationalwealth coming","2021-06-20",1
 "generationrestoration exo","2021-06-05",1
+"generations financial","2021-07-04",1
 "generator hack","2021-06-16",1
 "generously rewarded","2021-07-02",1
 "genesis block","2021-06-26",1
+"genesis block","2021-07-04",1
 "genesis blockduring","2021-05-25",1
+"genesis lulz","2021-07-04",1
 "geneva politicobtc","2021-06-16",1
 "genius messiah","2021-06-05",1
 "genius team","2021-06-20",1
@@ -17920,11 +18360,13 @@
 "genuine concerns","2021-06-16",1
 "genuine thread","2021-06-11",1
 "genuinely afraid","2021-05-31",1
+"genuinely curious","2021-07-04",1
 "genuinely feel","2021-06-21",1
 "geographic location","2021-06-20",1
 "geographically diverse","2021-06-24",1
 "geometric coin","2021-06-24",1
 "geometric coin","2021-06-26",1
+"geopolitical reality","2021-07-04",1
 "george washington","2021-06-17",1
 "georgefloyd derekchauvin","2021-06-14",1
 "geothermal energy","2021-06-09",1
@@ -18078,6 +18520,7 @@
 "glass cheers","2021-06-11",1
 "glassnode fear","2021-05-29",1
 "glizzyverse storylineglizzy","2021-07-02",1
+"global addition","2021-07-04",1
 "global adoption","2021-06-25",1
 "global army","2021-06-02",1
 "global asset","2021-06-24",1
@@ -18087,6 +18530,7 @@
 "global carbon","2021-06-12",1
 "global computer","2021-06-01",1
 "global currency","2021-06-26",1
+"global debt","2021-07-04",1
 "global decentralized","2021-06-25",1
 "global distribution","2021-06-22",1
 "global economic","2021-05-26",1
@@ -18194,6 +18638,7 @@
 "gold buys","2021-06-18",1
 "gold catching","2021-06-18",1
 "gold continues","2021-06-02",1
+"gold crudeoil","2021-07-04",1
 "gold cryptoglobe","2021-06-07",1
 "gold derives","2021-06-25",1
 "gold didn","2021-06-24",1
@@ -18230,6 +18675,7 @@
 "gold standard","2021-06-05",1
 "gold standard","2021-06-10",1
 "gold standard","2021-06-21",1
+"gold standard","2021-07-04",1
 "gold stocks","2021-06-03",1
 "gold supply","2021-06-25",1
 "gold supply","2021-06-27",1
@@ -18244,6 +18690,7 @@
 "golden opportunity","2021-06-18",1
 "golden pocket","2021-06-23",1
 "golden ratio","2021-06-04",1
+"golden ration","2021-07-04",1
 "golden ticket","2021-06-26",1
 "goldfish surely","2021-06-08",1
 "goldish foil","2021-05-30",1
@@ -18254,6 +18701,7 @@
 "goldman sachs","2021-05-30",1
 "goldman sachs","2021-06-01",1
 "goldman sachs","2021-06-21",1
+"goldmr market","2021-07-04",1
 "goldstein principles","2021-06-01",1
 "goma pre","2021-06-12",1
 "gon realize","2021-06-04",1
@@ -18311,6 +18759,7 @@
 "governance token","2021-06-26",1
 "governing council","2021-06-25",1
 "government's crackdown","2021-06-01",1
+"government's worst","2021-07-04",1
 "government adopts","2021-06-25",1
 "government announced","2021-05-28",1
 "government confiscated","2021-06-29",1
@@ -18324,6 +18773,7 @@
 "government deciding","2021-05-26",1
 "government defaces","2021-06-26",1
 "government financial","2021-06-04",1
+"government gotbitcoin","2021-07-04",1
 "government hates","2021-06-28",1
 "government indirectly","2021-06-21",1
 "government literally","2021-06-25",1
@@ -18339,6 +18789,7 @@
 "government sanctioned","2021-06-06",1
 "government sanctioned","2021-06-09",1
 "government separation","2021-06-07",1
+"government specially","2021-07-04",1
 "government successfully","2021-06-08",1
 "government system","2021-06-24",1
 "government wastes","2021-06-26",1
@@ -18527,18 +18978,21 @@
 "gt 2m","2021-06-09",1
 "gt 37","2021-06-30",1
 "gt 50","2021-06-20",1
+"gt 50","2021-07-04",1
 "gt 500b","2021-06-24",1
 "gt 6","2021-06-14",1
 "gt 60","2021-05-28",1
 "gt 75","2021-06-21",1
 "gt biden","2021-06-16",1
 "gt bottom","2021-06-17",1
+"gt cb","2021-07-04",1
 "gt china","2021-06-20",1
 "gt countries","2021-06-09",1
 "gt crypto","2021-06-24",1
 "gt crypto","2021-06-25",1
 "gt cryptotrading","2021-06-26",1
 "gt dai","2021-06-04",1
+"gt debts","2021-07-04",1
 "gt dogecoin","2021-06-22",1
 "gt elon","2021-06-09",1
 "gt faucets","2021-06-13",1
@@ -18572,6 +19026,7 @@
 "guard met","2021-06-13",1
 "guess gold","2021-07-01",1
 "guess governments","2021-05-28",1
+"guest michael","2021-07-04",1
 "guests leaves","2021-06-22",1
 "guggenheim's scott","2021-05-25",1
 "guggenheim cio","2021-06-01",1
@@ -18586,6 +19041,7 @@
 "gun runners","2021-05-25",1
 "gung ho","2021-06-05",1
 "gung ho","2021-06-14",1
+"gunshots easiest","2021-07-04",1
 "guriji generation","2021-07-02",1
 "gusd usdc","2021-05-27",1
 "gustatory aesthetic","2021-06-25",1
@@ -18593,6 +19049,7 @@
 "gut feeling","2021-06-11",1
 "guten tag","2021-06-06",1
 "gutter cats","2021-06-12",1
+"guy admitted","2021-07-04",1
 "guy ethereum","2021-06-04",1
 "guy explained","2021-06-02",1
 "guy fixing","2021-05-25",1
@@ -18664,6 +19121,7 @@
 "halts sales","2021-06-24",1
 "halving mechanism","2021-06-27",1
 "halvings mining","2021-06-28",1
+"hamburgers amp","2021-07-04",1
 "hammer candle","2021-06-22",1
 "hammering digital","2021-05-26",1
 "hammers amp","2021-06-17",1
@@ -18710,6 +19168,7 @@
 "happy 150th","2021-05-26",1
 "happy 50th","2021-06-29",1
 "happy birthday","2021-06-21",1
+"happy birthday","2021-07-04",1
 "happy clapping","2021-06-04",1
 "happy customers","2021-06-01",1
 "happy days","2021-06-16",1
@@ -18721,6 +19180,7 @@
 "happy moment","2021-06-21",1
 "happy monday","2021-06-28",1
 "happy pride","2021-06-11",1
+"happy sale","2021-07-04",1
 "happy saturday","2021-06-12",1
 "happy screwing","2021-06-13",1
 "happy solarcity","2021-06-14",1
@@ -18823,6 +19283,7 @@
 "haters amp","2021-06-07",1
 "haters lie","2021-06-01",1
 "hating hex","2021-05-28",1
+"hats follow","2021-07-04",1
 "haven gold","2021-06-28",1
 "havent looked","2021-06-08",1
 "hawataki mpesa","2021-06-26",1
@@ -18860,6 +19321,7 @@
 "heal healertoken","2021-06-21",1
 "heal healertoken","2021-06-25",1
 "healingcurrently hodling","2021-06-02",1
+"health amp","2021-07-04",1
 "health care","2021-06-14",1
 "health healthy","2021-06-11",1
 "health inspiration","2021-06-15",1
@@ -18899,6 +19361,7 @@
 "heavy salt","2021-06-25",1
 "heavy toll","2021-06-01",1
 "heck lied","2021-05-31",1
+"heck yeah","2021-07-04",1
 "hecker ","2021-06-20",1
 "hedera hashgraph","2021-07-02",1
 "hedge fund","2021-06-23",1
@@ -18906,6 +19369,7 @@
 "hedge fund","2021-07-01",1
 "hedge funds","2021-06-22",1
 "hedge funds","2021-07-02",1
+"hedge funds","2021-07-04",1
 "hedge role","2021-06-21",1
 "hedge watch","2021-06-17",1
 "hedgefunds invest","2021-06-07",1
@@ -18944,6 +19408,7 @@
 "helps crypto","2021-06-02",1
 "helps crypto","2021-06-07",1
 "helps crypto","2021-06-20",1
+"helps cryptokitties","2021-07-04",1
 "helps fud","2021-06-08",1
 "helps push","2021-06-10",1
 "helps spread","2021-06-20",1
@@ -18954,6 +19419,7 @@
 "heroes involved","2021-06-09",1
 "hes coming","2021-06-12",1
 "hesitate ufi","2021-06-01",1
+"hester peirce","2021-07-04",1
 "hester pierce","2021-06-15",1
 "hex content","2021-05-29",1
 "hex doesn","2021-05-28",1
@@ -19005,6 +19471,7 @@
 "highly competitive","2021-06-29",1
 "highly correlated","2021-06-02",1
 "highly durable","2021-06-25",1
+"highly educated","2021-07-04",1
 "highly engaged","2021-05-25",1
 "highly liquid","2021-06-20",1
 "highly qualified","2021-06-17",1
@@ -19032,6 +19499,7 @@
 "hilarious lol","2021-06-04",1
 "hill wont","2021-06-20",1
 "hindsight bias","2021-06-20",1
+"hindsight gt","2021-07-04",1
 "hint crypto","2021-06-06",1
 "hint hint","2021-06-06",1
 "hiphop digitalmarketing","2021-06-04",1
@@ -19040,6 +19508,7 @@
 "hiring crypto","2021-05-29",1
 "historic crash","2021-06-14",1
 "historic day","2021-06-06",1
+"historic drop","2021-07-04",1
 "historic moment","2021-06-24",1
 "historic red","2021-06-14",1
 "historical data","2021-05-26",1
@@ -19071,6 +19540,7 @@
 "hit 40k","2021-06-14",1
 "hit 50k","2021-06-16",1
 "hit 7","2021-06-05",1
+"hit 90","2021-07-04",1
 "hit amid","2021-06-05",1
 "hit belarus","2021-05-26",1
 "hit bell","2021-05-31",1
@@ -19164,6 +19634,7 @@
 "hodling glizzycoin","2021-07-02",1
 "hodlinglife buythedip","2021-06-20",1
 "hodltoearn fair","2021-06-21",1
+"hodlxrp ltc","2021-07-04",1
 "hold 28kif","2021-06-08",1
 "hold 30","2021-07-01",1
 "hold 30k","2021-06-08",1
@@ -19226,6 +19697,7 @@
 "holdings tesla","2021-06-16",1
 "holdings tesla","2021-06-26",1
 "holdings tesla","2021-06-30",1
+"holdings tesla","2021-07-04",1
 "holdingsripple xrp","2021-06-23",1
 "holds 33","2021-06-20",1
 "holds gains","2021-05-25",1
@@ -19237,6 +19709,8 @@
 "holiday trade","2021-05-31",1
 "holly willoughby","2021-06-29",1
 "holo siagitlan","2021-06-03",1
+"holochain cryptonews","2021-07-04",1
+"holomonday hot","2021-07-04",1
 "holy ground","2021-06-04",1
 "holy hell","2021-06-12",1
 "holy shit","2021-07-02",1
@@ -19245,6 +19719,7 @@
 "home blockchain","2021-06-27",1
 "home due","2021-05-28",1
 "home land","2021-06-30",1
+"home matters","2021-07-04",1
 "home ownership","2021-06-12",1
 "home till","2021-07-02",1
 "homedepot bestbuy","2021-06-12",1
@@ -19254,6 +19729,7 @@
 "homes toys","2021-06-13",1
 "homesense fleury","2021-06-12",1
 "homewhatsapp 14024074443","2021-06-13",1
+"hone hell","2021-07-04",1
 "honest 100","2021-06-18",1
 "honest amp","2021-06-14",1
 "honest argument","2021-06-10",1
@@ -19265,6 +19741,7 @@
 "honestly starting","2021-06-22",1
 "hong kong","2021-06-09",1
 "hongkong defi","2021-06-26",1
+"hooray fresh","2021-07-04",1
 "hope amp","2021-06-11",1
 "hope ark","2021-06-09",1
 "hope dissipate","2021-06-17",1
@@ -19284,6 +19761,7 @@
 "horoscope repost","2021-06-12",1
 "horoscopes ","2021-06-12",1
 "horowitz launches","2021-06-25",1
+"horrendously illogical","2021-07-04",1
 "horrible doge","2021-06-22",1
 "horrible form","2021-05-28",1
 "horrible people","2021-06-29",1
@@ -19308,12 +19786,14 @@
 "hot garbage","2021-06-18",1
 "hot girl","2021-06-16",1
 "hot green","2021-06-11",1
+"hot holochain","2021-07-04",1
 "hot hot","2021-06-04",1
 "hot money","2021-06-16",1
 "hot tip","2021-06-10",1
 "hot transparent","2021-06-12",1
 "hot wallet","2021-05-30",1
 "hot wallet","2021-06-16",1
+"hot wallet","2021-07-04",1
 "hot wheels","2021-06-30",1
 "hotbit bscgem","2021-05-27",1
 "hour cointiply","2021-06-08",1
@@ -19384,6 +19864,7 @@
 "huge 38","2021-06-11",1
 "huge amount","2021-06-22",1
 "huge amounts","2021-06-05",1
+"huge amounts","2021-07-04",1
 "huge bag","2021-06-01",1
 "huge bags","2021-06-13",1
 "huge benefit","2021-05-28",1
@@ -19401,6 +19882,7 @@
 "huge dip","2021-06-28",1
 "huge discount","2021-06-15",1
 "huge disincentive","2021-06-21",1
+"huge dog","2021-07-04",1
 "huge dogecoin","2021-05-30",1
 "huge dump","2021-06-08",1
 "huge energy","2021-06-26",1
@@ -19435,6 +19917,7 @@
 "huge rally","2021-06-18",1
 "huge ransoms","2021-06-13",1
 "huge rejection","2021-06-22",1
+"huge respect","2021-07-04",1
 "huge revenue","2021-06-13",1
 "huge risk","2021-06-08",1
 "huge run","2021-05-28",1
@@ -19449,6 +19932,7 @@
 "huge sums","2021-06-24",1
 "huge supporter","2021-06-10",1
 "huge surprise","2021-06-20",1
+"huge team","2021-07-04",1
 "huge tolls","2021-06-28",1
 "huge traffic","2021-06-13",1
 "huge turnoff","2021-06-22",1
@@ -19457,24 +19941,30 @@
 "huge volatility","2021-06-26",1
 "huge volume","2021-06-22",1
 "huge wick","2021-06-22",1
+"huge zilliqa","2021-07-04",1
 "hugely correlated","2021-05-30",1
 "hugely impressed","2021-05-25",1
 "hugely influential","2021-05-25",1
 "huggy bear'honey","2021-06-01",1
 "human ","2021-06-11",1
 "human 1","2021-07-02",1
+"human 1","2021-07-04",1
 "human action","2021-06-21",1
 "human body","2021-07-01",1
+"human civilization","2021-07-04",1
 "human emotions","2021-06-08",1
+"human flourishing","2021-07-04",1
 "human freedom","2021-05-30",1
 "human freedom","2021-06-25",1
 "human history","2021-06-04",1
+"human history","2021-07-04",1
 "human invention","2021-06-22",1
 "human liberty","2021-06-25",1
 "human mind","2021-05-28",1
 "human population","2021-06-03",1
 "human potential","2021-05-26",1
 "human race","2021-06-25",1
+"human race","2021-07-04",1
 "human rights","2021-06-06",1
 "human rights","2021-06-18",1
 "human rights","2021-06-24",1
@@ -19485,6 +19975,7 @@
 "humanity odd","2021-06-25",1
 "humanity repeated","2021-06-01",1
 "humanity time","2021-06-29",1
+"humanrights humanityfirst","2021-07-04",1
 "humbl humblfinancial","2021-05-28",1
 "humbl humblfinancial","2021-06-09",1
 "humble build","2021-06-17",1
@@ -19596,6 +20087,7 @@
 "iea data","2021-07-02",1
 "ieo blockchain","2021-05-27",1
 "ifyou manipulate","2021-06-15",1
+"ig free","2021-07-04",1
 "ig post","2021-06-18",1
 "ignorant conversations","2021-06-13",1
 "ignore denmark","2021-05-27",1
@@ -19624,6 +20116,7 @@
 "illicit money","2021-06-10",1
 "illiquid assets","2021-06-08",1
 "illiterates internet","2021-06-09",1
+"illogical black","2021-07-04",1
 "illuminati confirmed","2021-06-27",1
 "ilovestocks investing","2021-06-22",1
 "im beginning","2021-06-25",1
@@ -19642,6 +20135,7 @@
 "ima start","2021-06-21",1
 "imageelon musk","2021-06-04",1
 "images ark","2021-06-23",1
+"imaginary currency","2021-07-04",1
 "imagine 1","2021-06-04",1
 "imagine 10","2021-06-28",1
 "imagine 100","2021-06-06",1
@@ -19692,6 +20186,8 @@
 "implied future","2021-06-20",1
 "implied tesla","2021-06-02",1
 "implies st","2021-06-25",1
+"implying causality","2021-07-04",1
+"import oil","2021-07-04",1
 "importantly property","2021-06-14",1
 "importantly stick","2021-06-28",1
 "imposed transparency","2021-06-21",1
@@ -19782,6 +20278,7 @@
 "incredible story","2021-06-30",1
 "incredible technology","2021-06-12",1
 "incredible thread","2021-06-21",1
+"incredible tool","2021-07-04",1
 "incredible venture","2021-05-27",1
 "incredible wealth","2021-06-05",1
 "incredibly digestible","2021-06-13",1
@@ -19805,6 +20302,7 @@
 "index linked","2021-06-10",1
 "index perpetuals","2021-06-21",1
 "indexed data","2021-06-05",1
+"indexing node","2021-07-04",1
 "india's crypto","2021-06-23",1
 "india ban","2021-06-10",1
 "india converted","2021-06-28",1
@@ -19828,9 +20326,11 @@
 "indicators amp","2021-06-17",1
 "indicators matter","2021-06-02",1
 "indicators stay","2021-06-28",1
+"indicators stealth4julytraders","2021-07-04",1
 "indirectly owns","2021-06-21",1
 "individual arrested","2021-05-30",1
 "individual choice","2021-05-28",1
+"individual criminals","2021-07-04",1
 "individual greed","2021-06-25",1
 "individual mind","2021-06-21",1
 "individual miner","2021-05-31",1
@@ -19890,6 +20390,7 @@
 "inflation accelerating","2021-06-29",1
 "inflation amp","2021-06-11",1
 "inflation bites","2021-05-25",1
+"inflation bug","2021-07-04",1
 "inflation buy","2021-06-14",1
 "inflation covid","2021-06-26",1
 "inflation created","2021-05-28",1
@@ -19934,6 +20435,7 @@
 "info site","2021-06-24",1
 "info strictly","2021-06-11",1
 "info strictly","2021-06-13",1
+"info systems","2021-07-04",1
 "informal payment","2021-06-28",1
 "informants aka","2021-06-27",1
 "information alternatives","2021-06-18",1
@@ -19953,6 +20455,7 @@
 "infrastructure invest","2021-06-22",1
 "infrastructure limitations","2021-06-20",1
 "infrastructure reshuffling","2021-06-24",1
+"infringe seniorage","2021-07-04",1
 "infringes individual","2021-05-28",1
 "ing authoritarian","2021-06-02",1
 "ingia jav","2021-06-26",1
@@ -20024,8 +20527,10 @@
 "insane world","2021-06-17",1
 "insanely dumb","2021-06-17",1
 "insanity pretty","2021-05-29",1
+"insects caught","2021-07-04",1
 "insecure eth","2021-06-10",1
 "insecure eth","2021-06-13",1
+"insert 100","2021-07-04",1
 "inshaallahqnt xrp","2021-06-30",1
 "inside sold","2021-06-18",1
 "insider's guide","2021-05-30",1
@@ -20043,6 +20548,7 @@
 "install 30","2021-06-22",1
 "install cryptotab","2021-07-01",1
 "install doge","2021-07-02",1
+"installation 100","2021-07-04",1
 "installed lightning","2021-06-20",1
 "instant amazing","2021-06-11",1
 "instant amazing","2021-06-12",1
@@ -20071,6 +20577,7 @@
 "institutional investors","2021-06-20",1
 "institutional investors","2021-07-02",1
 "institutional involvement","2021-06-18",1
+"institutional mass","2021-07-04",1
 "institutional money","2021-05-25",1
 "institutional support","2021-06-27",1
 "institutions acquiring","2021-06-16",1
@@ -20099,6 +20606,7 @@
 "integration supports","2021-06-14",1
 "integrity cost","2021-06-09",1
 "intellectual property","2021-05-25",1
+"intellectually curious","2021-07-04",1
 "intellectually weak","2021-06-12",1
 "intellectualy honest","2021-06-10",1
 "intelligence art","2021-06-07",1
@@ -20140,6 +20648,7 @@
 "international monetary","2021-06-21",1
 "international remittance","2021-06-25",1
 "international settlements","2021-06-10",1
+"international settlements","2021-07-04",1
 "internet 1","2021-06-02",1
 "internet 2","2021-06-02",1
 "internet 3","2021-06-02",1
@@ -20158,8 +20667,10 @@
 "internet economy","2021-07-01",1
 "internet etf","2021-06-23",1
 "internet fax","2021-05-28",1
+"internet filled","2021-07-04",1
 "internet frauster","2021-05-28",1
 "internet identity","2021-06-07",1
+"internet impossible","2021-07-04",1
 "internet isnt","2021-06-08",1
 "internet isps","2021-06-04",1
 "internet layer","2021-06-15",1
@@ -20225,6 +20736,7 @@
 "invest trading","2021-06-07",1
 "invest trading","2021-07-01",1
 "invest trading","2021-07-02",1
+"invest visit","2021-07-04",1
 "investable asset","2021-06-18",1
 "investall owned","2021-07-01",1
 "invested 100","2021-06-05",1
@@ -20243,6 +20755,7 @@
 "investing finance","2021-06-04",1
 "investing finance","2021-06-07",1
 "investing financialfreedom","2021-05-30",1
+"investing forextrading","2021-07-04",1
 "investing gameplaninvesting","2021-05-28",1
 "investing imma","2021-06-11",1
 "investing investment","2021-06-29",1
@@ -20255,8 +20768,10 @@
 "investing money","2021-06-26",1
 "investing money","2021-06-28",1
 "investing money","2021-07-02",1
+"investing real","2021-07-04",1
 "investing realestatenotes","2021-06-29",1
 "investing realestatenotes","2021-06-30",1
+"investing sp","2021-07-04",1
 "investing stocks","2021-05-30",1
 "investing strategy","2021-05-30",1
 "investing swingtrading","2021-06-21",1
@@ -20268,9 +20783,11 @@
 "investing usa","2021-05-26",1
 "investing visit","2021-06-01",1
 "investing visit","2021-06-10",1
+"investing wealth","2021-07-04",1
 "investingstockmarket 100daysofcode","2021-06-26",1
 "investment 121103100","2021-06-26",1
 "investment 142995086","2021-06-16",1
+"investment 18626914","2021-07-04",1
 "investment 4763571","2021-06-30",1
 "investment 70569900","2021-06-04",1
 "investment absolutely","2021-06-25",1
@@ -20342,6 +20859,7 @@
 "investments finance","2021-05-30",1
 "investments investment","2021-06-06",1
 "investments lending","2021-06-11",1
+"investments pretty","2021-07-04",1
 "investments suffer","2021-06-11",1
 "investments targeted","2021-06-07",1
 "investmentstrategy personalsaving","2021-06-29",1
@@ -20381,6 +20899,7 @@
 "investors jumping","2021-06-22",1
 "investors mad","2021-06-05",1
 "investors marketing","2021-06-05",1
+"investors miner","2021-07-04",1
 "investors news","2021-07-02",1
 "investors people","2021-05-31",1
 "investors pivot","2021-06-25",1
@@ -20445,6 +20964,7 @@
 "iraq lemme","2021-06-07",1
 "iraq usd","2021-06-11",1
 "iraqi citizen","2021-06-11",1
+"ircg running","2021-07-04",1
 "irchat blockchain","2021-06-12",1
 "irish whiskey","2021-07-02",1
 "ironically prove","2021-06-21",1
@@ -20459,6 +20979,7 @@
 "irreversible validity","2021-06-23",1
 "irreversibly altered","2021-06-27",1
 "irreversibly public","2021-06-05",1
+"irrevocable property","2021-07-04",1
 "isak olamide","2021-06-18",1
 "ish returns","2021-06-20",1
 "ish support","2021-06-26",1
@@ -20668,6 +21189,7 @@
 "july 4th","2021-06-30",1
 "july 4th","2021-07-02",1
 "july current","2021-06-21",1
+"july fireworks","2021-07-04",1
 "july nfa","2021-06-28",1
 "jump start","2021-06-25",1
 "jump training","2021-06-12",1
@@ -20730,6 +21252,7 @@
 "june15th terrifictuesdy","2021-06-15",1
 "june1st naijacryptotrader","2021-06-01",1
 "june4coup pence","2021-06-04",1
+"junior mining","2021-07-04",1
 "junk accounts","2021-06-02",1
 "junk bond","2021-06-16",1
 "junkcoin crypto","2021-06-05",1
@@ -20751,6 +21274,7 @@
 "kar jaate","2021-05-25",1
 "kardashev scale","2021-06-13",1
 "kardashian promotes","2021-06-14",1
+"kardeshev type","2021-07-04",1
 "karen coin","2021-06-25",1
 "karencoin karenarmy","2021-06-25",1
 "kashmea wahi","2021-05-28",1
@@ -20913,9 +21437,11 @@
 "ksm xrp","2021-06-21",1
 "ksm xrp","2021-06-25",1
 "ku 1","2021-06-13",1
+"kuch nahi","2021-07-04",1
 "kucoin futures","2021-06-13",1
 "kudos venezuela","2021-06-24",1
 "kumo twist","2021-07-02",1
+"kuningi nje","2021-07-04",1
 "kusama based","2021-05-29",1
 "kusama based","2021-06-03",1
 "kusama based","2021-06-27",1
@@ -20956,6 +21482,7 @@
 "lab leak","2021-05-28",1
 "lab tests","2021-06-16",1
 "labour costs","2021-06-23",1
+"labscrypto dogecoin","2021-07-04",1
 "lack assets","2021-05-28",1
 "lack credit","2021-06-22",1
 "lack substance","2021-06-17",1
@@ -20966,6 +21493,7 @@
 "lag price","2021-06-11",1
 "lagging indicator","2021-06-14",1
 "lagoswhatsapp 08119038620grealish","2021-06-25",1
+"lakh rupees","2021-07-04",1
 "laksmi lksmi","2021-06-22",1
 "lambo sportsbetlambo","2021-06-04",1
 "lambo sportsbetlambo","2021-06-05",1
@@ -21084,12 +21612,14 @@
 "laundered millions","2021-05-29",1
 "laundering capitol","2021-06-11",1
 "laundering fud","2021-06-07",1
+"laundry tonight","2021-07-04",1
 "laureate robert","2021-05-25",1
 "lavish lifestyles","2021-05-31",1
 "law ","2021-06-14",1
 "law breakingnews","2021-06-09",1
 "law chose","2021-06-16",1
 "law counterfeit","2021-06-25",1
+"law enforcement","2021-07-04",1
 "law read","2021-06-27",1
 "law regulating","2021-06-09",1
 "law unitedstates","2021-06-05",1
@@ -21100,6 +21630,7 @@
 "layer 0","2021-05-25",1
 "layer 1","2021-06-17",1
 "layer 1","2021-06-25",1
+"layer 1","2021-07-04",1
 "layer 2","2021-05-27",1
 "layer 2","2021-06-02",1
 "layer application","2021-06-24",1
@@ -21111,6 +21642,7 @@
 "layer2 solution","2021-06-25",1
 "layered bids","2021-05-28",1
 "layered money","2021-06-24",1
+"layers developer","2021-07-04",1
 "lazy algos","2021-05-25",1
 "lby coin","2021-05-25",1
 "lby libonomy","2021-05-28",1
@@ -21196,6 +21728,7 @@
 "lee aaron","2021-06-05",1
 "left bridgewater","2021-06-02",1
 "left click","2021-06-25",1
+"left holding","2021-07-04",1
 "leftist sjw","2021-06-02",1
 "leg agreement","2021-06-13",1
 "legacy banking","2021-06-22",1
@@ -21266,11 +21799,13 @@
 "lending join","2021-06-12",1
 "lending model","2021-05-27",1
 "lending platform","2021-05-27",1
+"lending platforms","2021-07-04",1
 "lending trading","2021-05-26",1
 "lending trading","2021-05-31",1
 "leo ","2021-06-30",1
 "leo unaeza","2021-06-26",1
 "leopold mozart","2021-06-29",1
+"lesser money","2021-07-04",1
 "lesson 01","2021-06-27",1
 "lessons quickly","2021-06-17",1
 "letter brand","2021-06-24",1
@@ -21339,9 +21874,11 @@
 "libonomy interoperable","2021-06-28",1
 "libor rigging","2021-05-28",1
 "library worker","2021-06-02",1
+"license tells","2021-07-04",1
 "licensed banks","2021-06-12",1
 "licensed digital","2021-06-21",1
 "liegitimizing crypto","2021-06-16",1
+"life changing","2021-07-04",1
 "life entrepreneurship","2021-06-04",1
 "life flexif","2021-06-05",1
 "life forever","2021-06-24",1
@@ -21361,6 +21898,7 @@
 "life tokens","2021-07-02",1
 "lifecoinmarketcap crypto","2021-06-24",1
 "lifelong dream","2021-07-02",1
+"lifelong task","2021-07-04",1
 "lifesagarden redefiart","2021-06-04",1
 "lifestyle entrepreneur","2021-05-26",1
 "lifestyle residualincome","2021-05-26",1
@@ -21402,6 +21940,7 @@
 "lightning network","2021-06-30",1
 "lightning network","2021-07-01",1
 "lightning node","2021-07-02",1
+"lightning node","2021-07-04",1
 "lightning protocol","2021-06-12",1
 "lightning strike","2021-06-07",1
 "lightning technology","2021-06-09",1
@@ -21414,6 +21953,7 @@
 "lightningnetwork coincidence","2021-06-06",1
 "lightningnetwork crypto","2021-06-24",1
 "lightningnetwork send","2021-07-02",1
+"lightningnetwork send","2021-07-04",1
 "lights camera","2021-06-18",1
 "lights flying","2021-06-13",1
 "likeminded professionals","2021-06-07",1
@@ -21537,6 +22077,7 @@
 "litecoin ethereum","2021-06-10",1
 "litecoin ethereum","2021-06-21",1
 "litecoin giveaway","2021-06-29",1
+"litecoin holders","2021-07-04",1
 "litecoin infinitecoin","2021-06-16",1
 "litecoin june1st","2021-06-01",1
 "litecoin ltc","2021-06-22",1
@@ -21544,7 +22085,9 @@
 "litecoin monerofollow","2021-06-23",1
 "litecoin scripts","2021-05-29",1
 "litecoin tron","2021-07-01",1
+"litecoin tron","2021-07-04",1
 "litecoinnews xrp","2021-07-01",1
+"literal building","2021-07-04",1
 "literal millions","2021-06-13",1
 "literal worst","2021-06-30",1
 "literally boil","2021-06-02",1
@@ -21553,6 +22096,7 @@
 "literally falling","2021-06-03",1
 "literally feeless","2021-06-21",1
 "literally held","2021-06-30",1
+"literally impossible","2021-07-04",1
 "literally mining","2021-06-10",1
 "literally pay","2021-05-25",1
 "literally plotted","2021-07-02",1
@@ -21589,6 +22133,7 @@
 "live life","2021-06-25",1
 "live market","2021-06-17",1
 "live price","2021-06-22",1
+"live quietly","2021-07-04",1
 "live reward","2021-06-03",1
 "live reward","2021-06-04",1
 "live shot","2021-05-26",1
@@ -21607,6 +22152,7 @@
 "live streaming","2021-06-09",1
 "live top","2021-06-02",1
 "live top","2021-06-26",1
+"live top","2021-07-04",1
 "live topics","2021-06-02",1
 "live topics","2021-06-16",1
 "live view","2021-06-22",1
@@ -21618,6 +22164,7 @@
 "livestream day","2021-06-04",1
 "living anymore","2021-06-28",1
 "living bible","2021-06-20",1
+"living extraordinary","2021-07-04",1
 "living stategy","2021-06-21",1
 "liya kya","2021-06-23",1
 "liz likes","2021-06-21",1
@@ -21657,6 +22204,7 @@
 "local bans","2021-06-21",1
 "local bans","2021-06-24",1
 "local bottom","2021-06-21",1
+"local clients","2021-07-04",1
 "local clothing","2021-06-10",1
 "local commerce","2021-06-28",1
 "local currency","2021-06-02",1
@@ -21694,9 +22242,11 @@
 "logan paul","2021-06-03",1
 "logic 3","2021-06-12",1
 "logic tells","2021-06-09",1
+"logical spots","2021-07-04",1
 "logical step","2021-06-24",1
 "logistics company","2021-06-21",1
 "loki dogecoin","2021-06-27",1
+"loku kwama","2021-07-04",1
 "lol 1","2021-06-15",1
 "lol 103","2021-06-23",1
 "lol absence","2021-06-09",1
@@ -21726,6 +22276,7 @@
 "lolli join","2021-05-26",1
 "lolli join","2021-05-28",1
 "lolli join","2021-06-02",1
+"lolli join","2021-07-04",1
 "lolol u're","2021-06-02",1
 "london artist","2021-06-10",1
 "london england","2021-05-28",1
@@ -21776,6 +22327,7 @@
 "lose money","2021-06-30",1
 "lose short","2021-06-18",1
 "lose sight","2021-07-01",1
+"lose time","2021-07-04",1
 "lose toopeople","2021-05-26",1
 "loses 0","2021-06-26",1
 "loses 30k","2021-06-26",1
@@ -21857,6 +22409,7 @@
 "love retweeting","2021-06-25",1
 "love shiba","2021-06-08",1
 "love shorting","2021-06-18",1
+"love talking","2021-07-04",1
 "love ttnex","2021-05-27",1
 "loveartnft cryptoartist","2021-06-18",1
 "loveisland crypto","2021-06-28",1
@@ -21887,6 +22440,7 @@
 "low energy","2021-06-29",1
 "low fees","2021-05-30",1
 "low fees","2021-06-11",1
+"low fees","2021-07-04",1
 "low gona","2021-05-31",1
 "low inflammation","2021-06-02",1
 "low iq","2021-06-09",1
@@ -21896,7 +22450,9 @@
 "low mid","2021-06-08",1
 "low price","2021-06-04",1
 "low price","2021-06-16",1
+"low price","2021-07-04",1
 "low prices","2021-06-16",1
+"low prices","2021-07-04",1
 "low rank","2021-06-08",1
 "low shame","2021-06-26",1
 "low slippage","2021-06-21",1
@@ -21933,6 +22489,7 @@
 "lower supports","2021-06-18",1
 "lower transaction","2021-06-21",1
 "lower transaction","2021-06-25",1
+"lower transaction","2021-07-04",1
 "lower wick","2021-06-05",1
 "lowest commissions","2021-06-22",1
 "lowest levels","2021-06-21",1
@@ -21944,6 +22501,7 @@
 "lp token","2021-05-28",1
 "ls built","2021-06-24",1
 "lse arb","2021-05-25",1
+"lskusdt lskbtc","2021-07-04",1
 "lt 10","2021-06-28",1
 "lt 2","2021-06-07",1
 "lt 3","2021-06-15",1
@@ -21959,7 +22517,9 @@
 "lt headline","2021-06-20",1
 "lt headline","2021-06-24",1
 "lt headline","2021-07-02",1
+"lt insert","2021-07-04",1
 "ltb altcoin","2021-06-29",1
+"ltc's ultimate","2021-07-04",1
 "ltc ","2021-06-24",1
 "ltc amp","2021-06-08",1
 "ltc bch","2021-05-25",1
@@ -22172,6 +22732,7 @@
 "major gains","2021-06-15",1
 "major issue","2021-05-25",1
 "major issues","2021-05-31",1
+"major move","2021-07-04",1
 "major moves","2021-06-30",1
 "major national","2021-05-26",1
 "major north","2021-06-11",1
@@ -22337,6 +22898,7 @@
 "mark cuban","2021-05-26",1
 "mark cuban","2021-05-30",1
 "mark cuban","2021-06-20",1
+"mark cuban","2021-07-04",1
 "mark cuban's","2021-06-20",1
 "mark guess","2021-06-21",1
 "mark karpel","2021-06-23",1
@@ -22370,6 +22932,7 @@
 "market cap","2021-06-20",1
 "market cap","2021-06-22",1
 "market cap","2021-07-02",1
+"market cap","2021-07-04",1
 "market capitalisation","2021-06-15",1
 "market capitalization","2021-05-25",1
 "market capitalization","2021-06-17",1
@@ -22407,6 +22970,7 @@
 "market figure","2021-06-23",1
 "market fit","2021-06-06",1
 "market flip","2021-06-21",1
+"market forces","2021-07-04",1
 "market gyrations","2021-06-17",1
 "market happen","2021-06-21",1
 "market hard","2021-06-04",1
@@ -22481,6 +23045,7 @@
 "market ultimately","2021-06-25",1
 "market update","2021-06-28",1
 "market upswing","2021-06-27",1
+"market users","2021-07-04",1
 "market vibes","2021-06-22",1
 "market waiting","2021-06-21",1
 "market wide","2021-06-06",1
@@ -22535,6 +23100,7 @@
 "markets sports","2021-06-26",1
 "markets stockmarket","2021-05-30",1
 "markets stockmarket","2021-06-17",1
+"markets trading","2021-07-04",1
 "markets whitout","2021-05-29",1
 "marketwatch blockchainnews","2021-06-02",1
 "markle people","2021-06-18",1
@@ -22557,8 +23123,10 @@
 "mass adoption","2021-06-09",1
 "mass adoption","2021-06-29",1
 "mass adoption","2021-06-30",1
+"mass adoption","2021-07-04",1
 "mass destruction","2021-05-27",1
 "mass exodus","2021-06-16",1
+"mass holders","2021-07-04",1
 "mass produce","2021-06-21",1
 "mass propaganda","2021-06-18",1
 "mass scale","2021-06-24",1
@@ -22590,6 +23158,7 @@
 "massive paradigm","2021-06-27",1
 "massive print","2021-05-28",1
 "massive profits","2021-06-02",1
+"massive qe","2021-07-04",1
 "massive rebound","2021-05-27",1
 "massive resource","2021-06-25",1
 "massive scale","2021-06-22",1
@@ -22607,6 +23176,7 @@
 "matching service","2021-06-07",1
 "matching service","2021-06-13",1
 "mate tokaynicosia","2021-06-26",1
+"material wealth","2021-07-04",1
 "materiality amp","2021-05-28",1
 "materially financial","2021-06-07",1
 "math amp","2021-06-14",1
@@ -22662,6 +23232,7 @@
 "maximalist behavior","2021-06-08",1
 "maximalist cheerleaders","2021-06-20",1
 "maximalist delusions","2021-05-31",1
+"maximalist lives","2021-07-04",1
 "maximalist panel","2021-06-08",1
 "maximalist party","2021-06-20",1
 "maximalist screaming","2021-05-31",1
@@ -22708,6 +23279,8 @@
 "mcdonalds cap","2021-06-22",1
 "mcdonalds jokes","2021-06-23",1
 "mdm cryptocurrenices","2021-06-08",1
+"mdoge 1m","2021-07-04",1
+"mdoge 249","2021-07-04",1
 "meaning equated","2021-06-21",1
 "meaning giving","2021-06-28",1
 "means ","2021-06-04",1
@@ -22773,7 +23346,10 @@
 "medium term","2021-06-24",1
 "meduse developer","2021-06-08",1
 "meet imersion","2021-05-27",1
+"meet reality","2021-07-04",1
+"meet teddy","2021-07-04",1
 "meet tether","2021-06-13",1
+"meeting ","2021-07-04",1
 "meeting disguised","2021-06-16",1
 "mega bulls","2021-06-20",1
 "mega ponzi","2021-05-29",1
@@ -22925,6 +23501,7 @@
 "michael saylor","2021-06-20",1
 "michael saylor","2021-06-22",1
 "michael saylor","2021-06-26",1
+"michael saylor","2021-07-04",1
 "michael saylor's","2021-06-21",1
 "michael sonnensheinbitcoin","2021-06-08",1
 "michaelsaylor continues","2021-06-24",1
@@ -22968,6 +23545,7 @@
 "mid bull","2021-06-03",1
 "mid july","2021-06-21",1
 "mid july","2021-06-30",1
+"mid range","2021-07-04",1
 "mid term","2021-06-11",1
 "middaynumbersbitcoin bitcoin40k","2021-06-15",1
 "middle amp","2021-06-14",1
@@ -22982,6 +23560,7 @@
 "mighty quiet","2021-06-20",1
 "migration issues","2021-06-06",1
 "migratory chinese","2021-06-30",1
+"mik naayem","2021-07-04",1
 "mike lorrey's","2021-06-05",1
 "mike maloney","2021-06-02",1
 "mike novogratz","2021-06-02",1
@@ -22991,6 +23570,7 @@
 "milestone 10000coinslisting","2021-05-28",1
 "milestone amp","2021-06-18",1
 "milionth time","2021-06-08",1
+"military attack","2021-07-04",1
 "military bases","2021-06-04",1
 "military violence","2021-06-22",1
 "milleniumrenaissanceark investall","2021-07-01",1
@@ -23013,6 +23593,7 @@
 "million dollars","2021-06-26",1
 "million ether","2021-05-27",1
 "million fine","2021-05-28",1
+"million ig","2021-07-04",1
 "million metric","2021-05-25",1
 "million microstrategy","2021-06-21",1
 "million note","2021-06-07",1
@@ -23068,6 +23649,7 @@
 "mind set","2021-06-13",1
 "minded people","2021-06-15",1
 "minded personally","2021-06-28",1
+"minded purpose","2021-07-04",1
 "minded supporters","2021-06-28",1
 "mindfulness keto","2021-06-15",1
 "minds hearts","2021-06-29",1
@@ -23093,6 +23675,7 @@
 "miner base","2021-06-20",1
 "miner diaspora","2021-06-17",1
 "miner difficulty","2021-06-29",1
+"miner ecosystem","2021-07-04",1
 "miner exodus","2021-06-23",1
 "miner greed","2021-06-12",1
 "miner hive","2021-06-18",1
@@ -23134,6 +23717,7 @@
 "mini shiba","2021-05-27",1
 "minig pools","2021-06-24",1
 "minijobs referrals","2021-06-28",1
+"minimal attack","2021-07-04",1
 "minimal disruption","2021-06-07",1
 "minimizes wasteful","2021-05-25",1
 "minimum 4","2021-06-29",1
@@ -23171,6 +23755,7 @@
 "mining climate","2021-05-28",1
 "mining community","2021-06-20",1
 "mining companies","2021-05-31",1
+"mining companies","2021-07-04",1
 "mining company","2021-06-22",1
 "mining council","2021-05-26",1
 "mining council","2021-05-30",1
@@ -23187,6 +23772,7 @@
 "mining difficulty","2021-06-07",1
 "mining difficulty","2021-06-22",1
 "mining difficulty","2021-06-26",1
+"mining difficulty","2021-07-04",1
 "mining earn","2021-05-31",1
 "mining energy","2021-06-10",1
 "mining energy","2021-06-11",1
@@ -23243,6 +23829,7 @@
 "mining operations","2021-06-12",1
 "mining operations","2021-06-20",1
 "mining operations","2021-06-24",1
+"mining operations","2021-07-04",1
 "mining partners","2021-06-23",1
 "mining paying","2021-06-26",1
 "mining platform","2021-05-31",1
@@ -23284,6 +23871,7 @@
 "mint currency","2021-06-17",1
 "mintable art","2021-06-18",1
 "mintable criptocurrency","2021-06-18",1
+"mintable platform","2021-07-04",1
 "minted bitcoiners","2021-06-09",1
 "minus 33k","2021-06-20",1
 "minus equals","2021-06-18",1
@@ -23291,6 +23879,7 @@
 "minute charts","2021-06-09",1
 "minute live","2021-05-26",1
 "minute setup","2021-07-02",1
+"minute setup","2021-07-04",1
 "minute starting","2021-06-15",1
 "minuteman food","2021-05-28",1
 "minutes ago","2021-06-05",1
@@ -23479,9 +24068,11 @@
 "monetary demand","2021-06-02",1
 "monetary eccentricity","2021-06-16",1
 "monetary energy","2021-06-02",1
+"monetary experiment","2021-07-04",1
 "monetary fraud","2021-06-11",1
 "monetary fund","2021-06-21",1
 "monetary independence","2021-06-03",1
+"monetary independence","2021-07-04",1
 "monetary network","2021-06-13",1
 "monetary network","2021-06-23",1
 "monetary network","2021-06-25",1
@@ -23511,6 +24102,7 @@
 "monetary system","2021-06-21",1
 "monetary system","2021-06-24",1
 "monetary system","2021-06-28",1
+"monetary system","2021-07-04",1
 "monetary theorybooks","2021-06-01",1
 "monetizarion volatility","2021-05-29",1
 "monetory forms","2021-06-02",1
@@ -23541,6 +24133,8 @@
 "money bybit","2021-05-29",1
 "money change","2021-06-17",1
 "money chatroom","2021-07-02",1
+"money check","2021-07-04",1
+"money clients","2021-07-04",1
 "money coached","2021-06-20",1
 "money collapsed","2021-06-18",1
 "money control","2021-07-02",1
@@ -23559,7 +24153,9 @@
 "money crypto","2021-06-23",1
 "money crypto","2021-06-26",1
 "money crypto","2021-07-02",1
+"money crypto","2021-07-04",1
 "money currency","2021-07-02",1
+"money daytrader","2021-07-04",1
 "money deserves","2021-06-21",1
 "money directly","2021-06-02",1
 "money discount","2021-05-31",1
@@ -23658,6 +24254,7 @@
 "money system","2021-06-27",1
 "money takers","2021-05-26",1
 "money talks","2021-06-18",1
+"money tough","2021-07-04",1
 "money trademoneta","2021-06-14",1
 "money trading","2021-05-27",1
 "money trading","2021-06-26",1
@@ -23674,6 +24271,7 @@
 "money worthless","2021-05-27",1
 "moneymaker money","2021-06-12",1
 "moneymaking smart","2021-05-29",1
+"moneymotivated bossdivas","2021-07-04",1
 "moneys role","2021-06-15",1
 "moneywall street","2021-05-31",1
 "mongering bs","2021-06-12",1
@@ -23733,6 +24331,7 @@
 "moon airdrop","2021-05-27",1
 "moon airdrop","2021-05-29",1
 "moon airdrop","2021-06-10",1
+"moon airdrops","2021-07-04",1
 "moon bag","2021-06-27",1
 "moon based","2021-06-02",1
 "moon boy","2021-06-12",1
@@ -23774,7 +24373,9 @@
 "morbex bex","2021-06-25",1
 "morbex bex","2021-06-26",1
 "morbex bex","2021-07-02",1
+"morbex bex","2021-07-04",1
 "morbex runs","2021-06-21",1
+"morbex runs","2021-07-04",1
 "morbexfinance morbex","2021-06-21",1
 "morbexfinance morbex","2021-06-22",1
 "morbexfinance morbex","2021-06-25",1
@@ -23812,6 +24413,7 @@
 "morse code","2021-06-02",1
 "mortgages buying","2021-05-26",1
 "mother longed","2021-06-23",1
+"motherrun fast","2021-07-04",1
 "motion trade","2021-07-02",1
 "motion train","2021-06-07",1
 "motivated youthful","2021-06-14",1
@@ -23918,6 +24520,7 @@
 "museum collaborates","2021-06-09",1
 "museum piece","2021-05-29",1
 "music blockbuster","2021-06-02",1
+"music chairs","2021-07-04",1
 "music distribution","2021-05-27",1
 "music stops","2021-06-25",1
 "music stores","2021-06-02",1
@@ -23990,8 +24593,10 @@
 "myths raise","2021-05-25",1
 "myths surrounding","2021-06-25",1
 "na mnathani","2021-06-26",1
+"naayem dapper","2021-07-04",1
 "naga brebsc","2021-06-14",1
 "nah fuck","2021-06-04",1
+"nahi hai","2021-07-04",1
 "naija richdadpoordad","2021-06-20",1
 "naijacryptotrader crypto","2021-06-01",1
 "naijamusic naija","2021-06-20",1
@@ -24000,6 +24605,7 @@
 "nakamoto's original","2021-06-14",1
 "nakamoto 3","2021-07-01",1
 "nakamoto coefficient","2021-06-12",1
+"nakamoto consensus","2021-07-04",1
 "nakamoto house","2021-05-30",1
 "nakamoto outlined","2021-06-06",1
 "nakamoto pow","2021-06-21",1
@@ -24126,6 +24732,7 @@
 "neckline green","2021-06-22",1
 "needn't worry","2021-06-09",1
 "negative 10","2021-06-13",1
+"negative balance","2021-07-04",1
 "negative comments","2021-06-12",1
 "negative externalities","2021-05-25",1
 "negative feedback","2021-06-22",1
@@ -24139,6 +24746,7 @@
 "negative outlook","2021-06-24",1
 "negative plenty","2021-06-08",1
 "negative press","2021-06-11",1
+"negative qualities","2021-07-04",1
 "negative returns","2021-05-31",1
 "negative spin","2021-06-16",1
 "negative statement","2021-06-16",1
@@ -24195,6 +24803,7 @@
 "network havefunbeingpoor","2021-06-16",1
 "network helping","2021-06-12",1
 "network including","2021-06-25",1
+"network investors","2021-07-04",1
 "network lookup","2021-06-16",1
 "network maintains","2021-06-20",1
 "network mymetaverse","2021-06-01",1
@@ -24221,9 +24830,21 @@
 "neuters predatory","2021-06-18",1
 "neutral alternative","2021-06-21",1
 "neutral bounce","2021-06-24",1
+"neutral broker","2021-07-04",1
+"neutral daytrading","2021-07-04",1
 "neutral entrepreneur","2021-07-01",1
+"neutral ff","2021-07-04",1
+"neutral fintech","2021-07-04",1
+"neutral forextrader","2021-07-04",1
+"neutral forextrading","2021-07-04",1
+"neutral futures","2021-07-04",1
 "neutral investing","2021-07-02",1
+"neutral investing","2021-07-04",1
+"neutral markets","2021-07-04",1
 "neutral nuclear","2021-06-20",1
+"neutral options","2021-07-04",1
+"neutral technology","2021-07-04",1
+"neutral trading","2021-07-04",1
 "nevada elon","2021-05-29",1
 "newbie dips","2021-06-03",1
 "newcrypto crypto","2021-06-01",1
@@ -24237,6 +24858,7 @@
 "news 2of2","2021-06-11",1
 "news 6","2021-06-06",1
 "news 650","2021-06-30",1
+"news aisa","2021-07-04",1
 "news amp","2021-06-27",1
 "news banking","2021-05-25",1
 "news banking","2021-06-25",1
@@ -24270,6 +24892,7 @@
 "news info","2021-06-25",1
 "news info","2021-06-29",1
 "news info","2021-07-01",1
+"news investing","2021-07-04",1
 "news isn","2021-06-16",1
 "news live","2021-05-28",1
 "news live","2021-06-22",1
@@ -24292,6 +24915,7 @@
 "news spain","2021-06-26",1
 "news stories","2021-05-28",1
 "news suddenly","2021-06-26",1
+"news technology","2021-07-04",1
 "news torc","2021-06-11",1
 "news trading","2021-06-29",1
 "news utility","2021-06-25",1
@@ -24313,6 +24937,7 @@
 "newyorkcity covid","2021-05-29",1
 "nexo alphabet","2021-05-26",1
 "nextdetails amp","2021-05-25",1
+"nextlevel youngboss","2021-07-04",1
 "neymar etherium","2021-06-10",1
 "nfa doge","2021-06-11",1
 "nfacryptocurency binancesmartchain","2021-06-13",1
@@ -24462,6 +25087,7 @@
 "nfts scammers","2021-06-22",1
 "nfts solar","2021-06-02",1
 "nftsmiami lifesagarden","2021-06-04",1
+"ngisho loku","2021-07-04",1
 "ngo currencies","2021-05-30",1
 "ngo eshop","2021-06-18",1
 "ngu amirite","2021-05-27",1
@@ -24520,6 +25146,7 @@
 "nicholas taleb","2021-06-27",1
 "nick haller","2021-06-16",1
 "nicole petallides","2021-06-14",1
+"nicosia introduction","2021-07-04",1
 "niece software","2021-06-28",1
 "nifty amp","2021-06-26",1
 "niftys nftcollectors","2021-06-21",1
@@ -24548,6 +25175,8 @@
 "nio gme","2021-06-02",1
 "nio nioillbeback","2021-06-18",1
 "nio plug","2021-06-25",1
+"nje eduze","2021-07-04",1
+"nje ngisho","2021-07-04",1
 "nl 17m","2021-05-29",1
 "nn taleb","2021-06-21",1
 "no1 platform","2021-06-22",1
@@ -24603,6 +25232,7 @@
 "north american","2021-06-23",1
 "north american","2021-06-30",1
 "northamerican miners","2021-06-28",1
+"northern california","2021-07-04",1
 "northwest florida","2021-06-02",1
 "norway ","2021-06-04",1
 "norway finance","2021-06-07",1
@@ -24652,6 +25282,7 @@
 "nvax coin","2021-06-25",1
 "nxtdimen block6ty","2021-06-21",1
 "ny amp","2021-06-14",1
+"nya likewise","2021-07-04",1
 "nyc crypto","2021-05-28",1
 "nyc mayoral","2021-06-24",1
 "nydig deal","2021-06-30",1
@@ -24661,6 +25292,7 @@
 "nyse nasdaq","2021-05-30",1
 "nyxbt 3","2021-06-23",1
 "nzc presale","2021-06-14",1
+"nzdcad target","2021-07-04",1
 "o2 supply","2021-07-01",1
 "o5lhmu governments","2021-06-23",1
 "oba june","2021-06-01",1
@@ -24688,7 +25320,9 @@
 "ocgn binance","2021-06-11",1
 "ocgn xtrm","2021-06-14",1
 "ocnic64 betfurysuccess","2021-06-30",1
+"ocrowd 1","2021-07-04",1
 "october 2021after","2021-06-27",1
+"october 31st","2021-07-04",1
 "odd juxtaposition","2021-06-11",1
 "odds 3","2021-06-24",1
 "odds picks","2021-06-12",1
@@ -24854,6 +25488,7 @@
 "opportunity pathetic","2021-06-04",1
 "opportunity scm","2021-06-10",1
 "opportunity shakepay","2021-06-21",1
+"opportunity shared","2021-07-04",1
 "opportunity solana","2021-06-27",1
 "opportunity tg","2021-06-21",1
 "opportunitybest wishes","2021-06-18",1
@@ -24878,9 +25513,11 @@
 "optionally accepted","2021-06-09",1
 "options dm","2021-05-29",1
 "options expiry","2021-06-21",1
+"options stocks","2021-07-04",1
 "options trading","2021-06-02",1
 "options trading","2021-06-03",1
 "options visit","2021-06-29",1
+"options visit","2021-07-04",1
 "optionstrading charting","2021-06-21",1
 "oracle highly","2021-05-25",1
 "oracle peg","2021-06-09",1
@@ -25037,6 +25674,7 @@
 "painful lessons","2021-06-30",1
 "painhedera hashgraph","2021-06-25",1
 "painting ","2021-06-28",1
+"painting remodeling","2021-07-04",1
 "painting worth","2021-06-26",1
 "paints 15","2021-05-26",1
 "pairs looked","2021-05-25",1
@@ -25055,6 +25693,7 @@
 "pancakeswap bnb","2021-06-14",1
 "pancakeswap bnb","2021-06-15",1
 "pancakeswap bnb","2021-06-26",1
+"pancakeswap bnb","2021-07-04",1
 "pancakeswap giveaway","2021-06-18",1
 "pancakeswap ido","2021-05-27",1
 "pancakeswap nftart","2021-05-27",1
@@ -25077,6 +25716,7 @@
 "panic stock","2021-05-30",1
 "pants due","2021-06-23",1
 "pants sagging","2021-05-27",1
+"paper assuming","2021-07-04",1
 "paper copyright","2021-06-29",1
 "paper currency","2021-05-30",1
 "paper hands","2021-06-23",1
@@ -25124,6 +25764,7 @@
 "partially filled","2021-07-01",1
 "partially true","2021-06-07",1
 "participants bet","2021-06-30",1
+"participantsblockchain dlike","2021-07-04",1
 "participateairdrops sapa","2021-06-30",1
 "participatecontact takeoffyourmask","2021-06-09",1
 "parties promoting","2021-06-25",1
@@ -25299,6 +25940,7 @@
 "payments verasity","2021-06-16",1
 "paymentslandon cassill","2021-06-21",1
 "payouts betfurysuccess","2021-06-27",1
+"paypal accepted","2021-07-04",1
 "paypal cashapp","2021-05-29",1
 "paypal earnings","2021-05-28",1
 "paypal earnings","2021-06-06",1
@@ -25339,6 +25981,7 @@
 "peer transfer","2021-05-28",1
 "peer version","2021-06-20",1
 "pegged stablecoin","2021-06-12",1
+"peirce adoption","2021-07-04",1
 "pena claims","2021-05-27",1
 "penalty amount","2021-05-28",1
 "pence jordan","2021-06-04",1
@@ -25373,6 +26016,7 @@
 "people comment","2021-07-01",1
 "people companies","2021-06-27",1
 "people competitively","2021-07-01",1
+"people congratulationslets","2021-07-04",1
 "people controlling","2021-06-16",1
 "people cosplaying","2021-05-26",1
 "people countries","2021-06-12",1
@@ -25384,6 +26028,7 @@
 "people don","2021-06-07",1
 "people don","2021-06-12",1
 "people dude","2021-06-09",1
+"people earn","2021-07-04",1
 "people educate","2021-06-22",1
 "people exist","2021-06-25",1
 "people fail","2021-05-31",1
@@ -25394,8 +26039,10 @@
 "people globally","2021-06-02",1
 "people gonna","2021-06-24",1
 "people hands","2021-05-29",1
+"people hate","2021-07-04",1
 "people hodl","2021-06-23",1
 "people holding","2021-06-11",1
+"people holding","2021-07-04",1
 "people hustling","2021-07-02",1
 "people ignore","2021-06-25",1
 "people immediately","2021-06-01",1
@@ -25418,6 +26065,7 @@
 "people megan","2021-06-18",1
 "people mine","2021-06-10",1
 "people miss","2021-06-13",1
+"people money","2021-07-04",1
 "people noticed","2021-05-28",1
 "people pay","2021-06-08",1
 "people people","2021-06-06",1
@@ -25485,6 +26133,7 @@
 "perfect time","2021-06-12",1
 "perfect time","2021-06-20",1
 "perfect timing","2021-06-02",1
+"perfect union","2021-07-04",1
 "perfectly 36","2021-06-18",1
 "perfectly demonstrated","2021-06-13",1
 "perfectly fits","2021-06-04",1
@@ -25510,6 +26159,7 @@
 "permabull narrative","2021-06-20",1
 "permanently read","2021-06-04",1
 "permission network","2021-05-28",1
+"permission october","2021-07-04",1
 "permissioned centralized","2021-05-26",1
 "permissioned system","2021-06-04",1
 "permissionless decentralized","2021-06-02",1
@@ -25519,6 +26169,7 @@
 "permitted validators","2021-06-30",1
 "perpetual traveler","2021-06-25",1
 "perpetual undermines","2021-06-29",1
+"perpetuated systemic","2021-07-04",1
 "perpetuity math","2021-06-27",1
 "persistent charts","2021-06-03",1
 "person afford","2021-06-09",1
@@ -25575,6 +26226,7 @@
 "phobic folks","2021-05-31",1
 "phone app","2021-05-26",1
 "phone call","2021-06-07",1
+"phone call","2021-07-04",1
 "phone calls","2021-06-04",1
 "phone computer","2021-06-27",1
 "phone cs","2021-06-28",1
@@ -25640,6 +26292,7 @@
 "pipeline operator","2021-06-10",1
 "pipeline ransomware","2021-06-08",1
 "pips posted","2021-06-20",1
+"pips profit","2021-07-04",1
 "pisces transiting","2021-06-16",1
 "piss shame","2021-06-15",1
 "pissed woke","2021-06-04",1
@@ -25688,6 +26341,7 @@
 "planet community","2021-06-21",1
 "planet cryptocurrencies","2021-06-07",1
 "planet focus","2021-06-25",1
+"planetary civilization","2021-07-04",1
 "planets fiat","2021-05-25",1
 "plans amp","2021-06-03",1
 "plant capable","2021-06-20",1
@@ -25811,6 +26465,7 @@
 "pocket tagged","2021-06-23",1
 "pocketed 4b","2021-06-08",1
 "pocketed institutions","2021-06-11",1
+"podcast ","2021-07-04",1
 "podcast 3","2021-06-16",1
 "podcast discussing","2021-05-28",1
 "podcast guy","2021-06-29",1
@@ -25855,6 +26510,7 @@
 "politicians leaving","2021-06-10",1
 "politicians terrorists","2021-05-25",1
 "politicians understand","2021-06-10",1
+"politics health","2021-07-04",1
 "politicsand memes","2021-06-20",1
 "polkadot avalanche","2021-05-26",1
 "polkadot blockchain","2021-05-26",1
@@ -25972,7 +26628,9 @@
 "popcorn enjoy","2021-06-27",1
 "popescu dead","2021-07-02",1
 "populace concerned","2021-06-20",1
+"popular analyst","2021-07-04",1
 "popular books","2021-06-05",1
+"popular buffettism","2021-07-04",1
 "popular crypto","2021-06-04",1
 "popular cryptocurrencies","2021-06-15",1
 "popular defi","2021-06-09",1
@@ -26013,6 +26671,7 @@
 "portfolio weightinginvesting","2021-07-01",1
 "portfolios amp","2021-06-13",1
 "portfolios continue","2021-06-25",1
+"portion segregated","2021-07-04",1
 "pos blockchain","2021-05-27",1
 "pos chains","2021-05-31",1
 "pos costless","2021-06-23",1
@@ -26054,6 +26713,7 @@
 "possibly internet","2021-06-02",1
 "possibly lead","2021-06-06",1
 "possibly range","2021-06-28",1
+"post 2014","2021-07-04",1
 "post ad","2021-06-25",1
 "post altcoin","2021-07-02",1
 "post app","2021-06-04",1
@@ -26102,6 +26762,7 @@
 "posts earnmoney","2021-06-11",1
 "posts makes","2021-06-25",1
 "posts memes","2021-06-04",1
+"posts mentioning","2021-07-04",1
 "posts trading","2021-06-29",1
 "pot farm","2021-06-04",1
 "pot kettle","2021-06-24",1
@@ -26159,6 +26820,7 @@
 "power gen","2021-06-28",1
 "power generation","2021-06-18",1
 "power generation","2021-06-20",1
+"power generation","2021-07-04",1
 "power grid","2021-06-29",1
 "power grids","2021-06-18",1
 "power house","2021-06-21",1
@@ -26201,6 +26863,8 @@
 "ppc peercoin","2021-05-30",1
 "ppl amp","2021-06-12",1
 "ppl buy","2021-05-26",1
+"ppl love","2021-07-04",1
+"ppl parrot","2021-07-04",1
 "ppl telling","2021-06-18",1
 "ppls true","2021-05-25",1
 "pr firm","2021-06-12",1
@@ -26329,6 +26993,7 @@
 "pretty bougie","2021-06-27",1
 "pretty brash","2021-06-25",1
 "pretty bullish","2021-06-20",1
+"pretty chuffed","2021-07-04",1
 "pretty confident","2021-05-27",1
 "pretty confident","2021-06-21",1
 "pretty cool","2021-05-30",1
@@ -26337,6 +27002,7 @@
 "pretty fascinating","2021-06-02",1
 "pretty fast","2021-05-28",1
 "pretty fucking","2021-06-21",1
+"pretty green","2021-07-04",1
 "pretty huge","2021-06-25",1
 "pretty identical","2021-05-31",1
 "pretty loud","2021-06-05",1
@@ -26347,11 +27013,13 @@
 "pretty quiet","2021-06-14",1
 "pretty shocked","2021-06-28",1
 "pretty simple","2021-06-05",1
+"pretty simple","2021-07-04",1
 "pretty solid","2021-06-22",1
 "pretty sound","2021-06-21",1
 "pretty stoked","2021-07-02",1
 "pretty strong","2021-06-09",1
 "pretty toxic","2021-06-06",1
+"pretty uneventful","2021-07-04",1
 "pretty wild","2021-06-03",1
 "pretty woman","2021-05-26",1
 "prev post","2021-06-22",1
@@ -26360,6 +27028,7 @@
 "prevent auch","2021-06-07",1
 "prevent boom","2021-06-16",1
 "prevent minority","2021-06-30",1
+"preventing dark","2021-07-04",1
 "prevents fraud","2021-05-28",1
 "previous 24","2021-06-21",1
 "previous 24","2021-06-24",1
@@ -26423,6 +27092,7 @@
 "price acton","2021-06-09",1
 "price amp","2021-05-31",1
 "price amp","2021-06-11",1
+"price amp","2021-07-04",1
 "price analysis","2021-05-25",1
 "price analysis","2021-06-24",1
 "price analysis","2021-07-02",1
@@ -26455,6 +27125,7 @@
 "price dives","2021-05-25",1
 "price doesn","2021-06-13",1
 "price doesn","2021-06-18",1
+"price dogearmy","2021-07-04",1
 "price dollar","2021-06-15",1
 "price dosnt","2021-06-26",1
 "price drama","2021-06-24",1
@@ -26573,7 +27244,9 @@
 "prices 6","2021-06-26",1
 "prices amp","2021-06-02",1
 "prices amp","2021-06-26",1
+"prices amp","2021-07-04",1
 "prices drop","2021-06-21",1
+"prices fell","2021-07-04",1
 "prices fmpartnerscapital","2021-06-14",1
 "prices hit","2021-06-21",1
 "prices lead","2021-06-14",1
@@ -26646,6 +27319,7 @@
 "private ledger","2021-06-25",1
 "private plane","2021-05-30",1
 "private property","2021-07-02",1
+"private property","2021-07-04",1
 "private sale","2021-06-22",1
 "private sector","2021-06-17",1
 "private wallet","2021-06-20",1
@@ -26672,6 +27346,7 @@
 "process card","2021-06-13",1
 "process set","2021-06-23",1
 "process wazirxwarriors","2021-06-06",1
+"processing payment","2021-07-04",1
 "processing power","2021-06-20",1
 "processors becuz","2021-07-02",1
 "procrastination solutions","2021-06-03",1
@@ -26729,6 +27404,7 @@
 "profitable tech","2021-06-20",1
 "profitably mine","2021-06-23",1
 "profits worth","2021-06-07",1
+"program bsc","2021-07-04",1
 "program smokes","2021-06-26",1
 "programmed boot","2021-06-12",1
 "programs links","2021-05-28",1
@@ -26762,6 +27438,7 @@
 "project airdrops","2021-06-10",1
 "project airdrops","2021-06-29",1
 "project airdrops","2021-07-01",1
+"project bid4bit","2021-07-04",1
 "project bigwin","2021-05-26",1
 "project binancesmartchain","2021-06-06",1
 "project blockchain","2021-05-26",1
@@ -26829,6 +27506,7 @@
 "project plastic","2021-06-17",1
 "project polygon","2021-06-25",1
 "project predicbel","2021-06-21",1
+"project presale","2021-07-04",1
 "project projects","2021-06-18",1
 "project pufferswap","2021-06-21",1
 "project reaches","2021-05-28",1
@@ -26923,6 +27601,7 @@
 "propaganda machine","2021-06-13",1
 "propaganda offal","2021-07-01",1
 "propel ftv","2021-06-02",1
+"proper blockchain","2021-07-04",1
 "proper dipped","2021-07-02",1
 "proper project","2021-06-10",1
 "proper regulation","2021-06-10",1
@@ -26949,8 +27628,10 @@
 "property titles","2021-06-01",1
 "property winning","2021-06-12",1
 "prophesied losses","2021-06-24",1
+"prophets names","2021-07-04",1
 "proponents argue","2021-06-09",1
 "proportionalrepresentation torycovidcatastrophe","2021-06-10",1
+"proposal devaluing","2021-07-04",1
 "proposes banks","2021-06-10",1
 "proposes law","2021-06-12",1
 "proptech property","2021-06-12",1
@@ -26964,7 +27645,9 @@
 "proteafire za","2021-06-05",1
 "proteafire zasuccess","2021-06-10",1
 "protect stacksats","2021-05-28",1
+"protect tradecraft","2021-07-04",1
 "protecting exchanges","2021-06-22",1
+"protecting private","2021-07-04",1
 "protection team","2021-05-29",1
 "protects holder","2021-06-06",1
 "protest sue","2021-06-26",1
@@ -27044,6 +27727,7 @@
 "public tweets","2021-05-30",1
 "publicationsgo fuck","2021-05-26",1
 "publicity schiff","2021-06-02",1
+"publicizing sidechains","2021-07-04",1
 "publicly demonstrated","2021-06-28",1
 "publicly goads","2021-06-28",1
 "publicly listed","2021-06-01",1
@@ -27092,6 +27776,7 @@
 "pundix bytecoin","2021-07-01",1
 "punks episode","2021-06-27",1
 "purchase 100k","2021-06-23",1
+"purchase bonds","2021-07-04",1
 "purchase cryptollic","2021-06-14",1
 "purchase housing","2021-06-22",1
 "purchase mileage","2021-05-25",1
@@ -27111,6 +27796,7 @@
 "purchasing power","2021-06-25",1
 "purchasing power","2021-06-27",1
 "pure commodities","2021-06-29",1
+"pure cringe","2021-07-04",1
 "pure digital","2021-06-12",1
 "pure entertainment","2021-06-12",1
 "pure fiat","2021-06-04",1
@@ -27127,6 +27813,7 @@
 "pure speculation","2021-06-23",1
 "pure technical","2021-06-18",1
 "pure unadulterated","2021-06-17",1
+"purely decentralised","2021-07-04",1
 "purely digital","2021-06-22",1
 "purely hypothetical","2021-05-27",1
 "purely peer","2021-06-20",1
@@ -27170,6 +27857,7 @@
 "qash ethereum","2021-06-25",1
 "qdxvault qdannyreigns","2021-06-21",1
 "qe begins","2021-06-03",1
+"qe gt","2021-07-04",1
 "qla godfather","2021-06-22",1
 "qnt makes","2021-06-30",1
 "qr codes","2021-06-16",1
@@ -27191,6 +27879,7 @@
 "quantum proof","2021-06-08",1
 "quarantine led","2021-06-10",1
 "quarter european","2021-05-28",1
+"quarter revenue","2021-07-04",1
 "quarterly 3","2021-06-16",1
 "quarterly statements","2021-06-21",1
 "quer dividendos","2021-07-01",1
@@ -27268,6 +27957,7 @@
 "raised bitcoins","2021-06-08",1
 "raised half","2021-06-09",1
 "raises 2","2021-06-16",1
+"raises 200m","2021-07-04",1
 "raises questions","2021-06-14",1
 "raising 400m","2021-06-07",1
 "raising rates","2021-06-17",1
@@ -27340,12 +28030,14 @@
 "rarely visit","2021-06-30",1
 "raspberry pi","2021-06-17",1
 "raspberry pi","2021-07-02",1
+"raspberry pi","2021-07-04",1
 "ratchet amp","2021-06-08",1
 "rate 2009","2021-05-31",1
 "rate concentration","2021-06-21",1
 "rate continues","2021-06-23",1
 "rate current","2021-06-20",1
 "rate due","2021-06-27",1
+"rate due","2021-07-04",1
 "rate faster","2021-06-23",1
 "rate hike","2021-06-14",1
 "rate reached","2021-06-28",1
@@ -27353,8 +28045,10 @@
 "rate3 reducing","2021-06-17",1
 "rates amp","2021-06-26",1
 "rates approach","2021-06-25",1
+"rates fall","2021-07-04",1
 "rates low","2021-05-31",1
 "rates lower","2021-06-16",1
+"rates rise","2021-07-04",1
 "ratesmocktailfinance mocktailswap","2021-05-27",1
 "ratio idr","2021-06-04",1
 "ration buy","2021-05-25",1
@@ -27418,6 +28112,7 @@
 "reading books","2021-06-15",1
 "reading learning","2021-05-27",1
 "reading news","2021-07-01",1
+"ready 4","2021-07-04",1
 "ready guys","2021-06-02",1
 "ready hope","2021-06-20",1
 "ready lol","2021-06-29",1
@@ -27485,6 +28180,7 @@
 "real money","2021-06-22",1
 "real money","2021-06-28",1
 "real money","2021-06-29",1
+"real money","2021-07-04",1
 "real moon","2021-06-15",1
 "real moonshot","2021-06-08",1
 "real nativedefi","2021-06-28",1
@@ -27493,6 +28189,7 @@
 "real opportunities","2021-06-29",1
 "real pay","2021-06-30",1
 "real people","2021-06-29",1
+"real people","2021-07-04",1
 "real person","2021-05-27",1
 "real power","2021-06-12",1
 "real price","2021-06-18",1
@@ -27544,6 +28241,7 @@
 "realized 272","2021-06-16",1
 "realized 272","2021-06-26",1
 "realized 272","2021-06-30",1
+"realized 272","2021-07-04",1
 "realized loss","2021-06-29",1
 "realmoney https","2021-06-09",1
 "realworldusecase massadoption","2021-06-05",1
@@ -27633,6 +28331,7 @@
 "recently removed","2021-06-25",1
 "recently sans","2021-06-30",1
 "recently started","2021-05-28",1
+"recently surpassed","2021-07-04",1
 "recked havoc","2021-06-07",1
 "reclaim 36","2021-06-30",1
 "reclaim bullishkey","2021-06-25",1
@@ -27646,6 +28345,8 @@
 "recognize major","2021-05-25",1
 "recognized currency","2021-06-09",1
 "recognizing jesus","2021-05-30",1
+"recommend bid4bit","2021-07-04",1
+"recommend buying","2021-07-04",1
 "recommend family","2021-06-10",1
 "recommend fiat","2021-07-02",1
 "recommend shorting","2021-06-24",1
@@ -27714,6 +28415,7 @@
 "redbubble rbandme","2021-06-27",1
 "redbubble rbandme","2021-06-29",1
 "reddcoin okex","2021-07-01",1
+"reddit amp","2021-07-04",1
 "reddit ethereum","2021-05-25",1
 "reddit forum","2021-06-27",1
 "reddit gift","2021-06-08",1
@@ -27863,6 +28565,7 @@
 "relative strength","2021-06-25",1
 "relative terms","2021-05-26",1
 "relative tweet","2021-05-26",1
+"relatives cuz","2021-07-04",1
 "release date","2021-06-28",1
 "release earlier","2021-06-27",1
 "released sunday","2021-05-25",1
@@ -27895,6 +28598,7 @@
 "remain attractive","2021-06-24",1
 "remain constant","2021-07-01",1
 "remain muted","2021-06-02",1
+"remain secure","2021-07-04",1
 "remain user","2021-06-02",1
 "remaining ","2021-06-30",1
 "remaining beacons","2021-07-02",1
@@ -27910,6 +28614,7 @@
 "remarks top","2021-05-31",1
 "remediation plant","2021-07-02",1
 "remember crypto","2021-06-20",1
+"remember hearing","2021-07-04",1
 "remember kids","2021-05-27",1
 "remember microsoft","2021-05-28",1
 "remember thiss","2021-06-05",1
@@ -28048,6 +28753,7 @@
 "reserve starts","2021-06-22",1
 "reserve status","2021-06-07",1
 "reserve system","2021-07-02",1
+"reserve taps","2021-07-04",1
 "reserve unveils","2021-06-03",1
 "reserverights cryptofree","2021-07-02",1
 "reserves gt","2021-06-09",1
@@ -28076,6 +28782,7 @@
 "resistance stock","2021-06-11",1
 "resistance usd","2021-07-01",1
 "resistanceplay safu","2021-06-10",1
+"resistant freedom","2021-07-04",1
 "resistant immutable","2021-06-02",1
 "resistant network","2021-07-01",1
 "resistant user","2021-06-24",1
@@ -28178,6 +28885,8 @@
 "reveals plan","2021-06-10",1
 "revelant aspects","2021-06-09",1
 "revenue generated","2021-05-26",1
+"revenue net","2021-07-04",1
+"revenue rose","2021-07-04",1
 "revenue share","2021-05-30",1
 "revenue share","2021-06-04",1
 "revenue share","2021-06-14",1
@@ -28210,7 +28919,9 @@
 "reviewsnapbots aitrading","2021-06-02",1
 "reviewsnapbots aitrading","2021-06-04",1
 "revisit 35","2021-06-30",1
+"revolution effects","2021-07-04",1
 "revolution tour","2021-06-06",1
+"revolutionamerican civil","2021-07-04",1
 "revolutionary project","2021-06-20",1
 "revolutionary renewable","2021-06-30",1
 "revolutionized currency","2021-05-31",1
@@ -28281,6 +28992,7 @@
 "ridden nwo","2021-06-04",1
 "ride 2021","2021-06-22",1
 "ride kids","2021-05-30",1
+"ride meatheads","2021-07-04",1
 "rider talking","2021-06-22",1
 "rides phone","2021-06-28",1
 "ridiculous head","2021-05-30",1
@@ -28288,6 +29000,7 @@
 "ridiculous price","2021-06-30",1
 "rig maker","2021-06-24",1
 "rights activists","2021-06-24",1
+"rights movement","2021-07-04",1
 "rights start","2021-06-06",1
 "rigs futurism","2021-06-24",1
 "riksbank prize","2021-05-25",1
@@ -28328,11 +29041,13 @@
 "rips ryan","2021-06-03",1
 "rise 3","2021-07-01",1
 "rise againstill","2021-06-01",1
+"rise gt","2021-07-04",1
 "rise lifts","2021-06-28",1
 "rise maintained","2021-06-29",1
 "rise means","2021-06-03",1
 "rises 1","2021-05-28",1
 "rises 46","2021-06-26",1
+"rises ahead","2021-07-04",1
 "rises ethereum","2021-05-29",1
 "rises governments","2021-05-26",1
 "rising congratulations","2021-06-04",1
@@ -28341,6 +29056,7 @@
 "rising star","2021-06-21",1
 "rising wedge","2021-05-31",1
 "rising wedge","2021-06-05",1
+"risingand stocks","2021-07-04",1
 "risingwe talk","2021-06-09",1
 "risk activity","2021-06-10",1
 "risk adjusted","2021-05-27",1
@@ -28497,6 +29213,7 @@
 "rsk stx","2021-05-26",1
 "rsr avax","2021-05-26",1
 "rt actualidad","2021-06-11",1
+"rt news","2021-07-04",1
 "rt post","2021-07-02",1
 "rug pull","2021-06-20",1
 "rugs waiting","2021-06-27",1
@@ -28515,6 +29232,7 @@
 "run close","2021-06-11",1
 "run crypto","2021-06-21",1
 "run factories","2021-06-20",1
+"run fast","2021-07-04",1
 "run fkn","2021-06-27",1
 "run imo","2021-06-22",1
 "run starts","2021-06-28",1
@@ -28535,6 +29253,7 @@
 "running future","2021-06-11",1
 "running gtv","2021-05-27",1
 "running idea","2021-07-02",1
+"running massive","2021-07-04",1
 "running program","2021-06-14",1
 "running rampant","2021-06-18",1
 "running raspberry","2021-06-17",1
@@ -28745,6 +29464,7 @@
 "satoshi baked","2021-06-28",1
 "satoshi bsv","2021-06-28",1
 "satoshi build","2021-06-28",1
+"satoshi cited","2021-07-04",1
 "satoshi created","2021-06-12",1
 "satoshi created","2021-07-02",1
 "satoshi cz","2021-07-02",1
@@ -28752,6 +29472,7 @@
 "satoshi disappeared","2021-06-20",1
 "satoshi dumps","2021-06-01",1
 "satoshi hadn","2021-06-04",1
+"satoshi instantly","2021-07-04",1
 "satoshi invented","2021-05-31",1
 "satoshi invented","2021-06-28",1
 "satoshi millionaire","2021-06-28",1
@@ -28774,6 +29495,7 @@
 "satoshi ya","2021-06-08",1
 "satoshies 1000","2021-06-13",1
 "satoshis faucet","2021-06-28",1
+"satoshis mdoge","2021-07-04",1
 "satoshis original","2021-06-23",1
 "sats 1btc","2021-06-25",1
 "sats daily","2021-05-26",1
@@ -28810,6 +29532,7 @@
 "save haven","2021-05-31",1
 "save money","2021-06-11",1
 "save money","2021-06-26",1
+"save money","2021-07-04",1
 "save retail","2021-06-14",1
 "save ur","2021-06-23",1
 "saves el","2021-06-14",1
@@ -28822,6 +29545,7 @@
 "savings challenge","2021-06-03",1
 "savings lol","2021-06-08",1
 "savings products","2021-06-12",1
+"savings remain","2021-07-04",1
 "savings technology","2021-05-30",1
 "savvy players","2021-07-02",1
 "sayhername acab","2021-06-14",1
@@ -28830,6 +29554,7 @@
 "saylor ","2021-06-04",1
 "saylor bought","2021-06-22",1
 "saylor buying","2021-06-12",1
+"saylor discussing","2021-07-04",1
 "saylor fan","2021-06-21",1
 "saylor heard","2021-05-31",1
 "saylor launches","2021-06-07",1
@@ -28978,6 +29703,7 @@
 "sec clearance","2021-06-01",1
 "sec climate","2021-06-07",1
 "sec commissioner","2021-06-20",1
+"sec commissioner","2021-07-04",1
 "sec continue","2021-06-18",1
 "sec dealt","2021-06-24",1
 "sec decided","2021-06-20",1
@@ -29018,6 +29744,7 @@
 "secure global","2021-06-23",1
 "secure home","2021-05-27",1
 "secure investment","2021-07-02",1
+"secure platform","2021-07-04",1
 "secure store","2021-06-09",1
 "secured contracts","2021-06-04",1
 "secured hardware","2021-06-28",1
@@ -29031,6 +29758,7 @@
 "security cdwsocial","2021-06-07",1
 "security designed","2021-05-30",1
 "security exchange","2021-05-29",1
+"security info","2021-07-04",1
 "security level","2021-06-24",1
 "security maximum","2021-06-15",1
 "security model","2021-06-24",1
@@ -29041,6 +29769,7 @@
 "security risks","2021-06-07",1
 "security stop","2021-06-14",1
 "security tips","2021-06-02",1
+"securityestablished history","2021-07-04",1
 "securitythey fixed","2021-06-03",1
 "securitytoken sto","2021-05-25",1
 "securitytokens digitalsecurities","2021-05-25",1
@@ -29048,6 +29777,8 @@
 "seemingly incoming","2021-06-07",1
 "seemingly negativewhat","2021-06-20",1
 "seemingly positive","2021-06-20",1
+"segregated account","2021-07-04",1
+"segwit2x ignores","2021-07-04",1
 "seizes 7","2021-06-22",1
 "seizing pipeline","2021-06-08",1
 "seizure resistant","2021-06-02",1
@@ -29088,6 +29819,7 @@
 "sell yeah","2021-06-09",1
 "sell zone","2021-06-21",1
 "seller fud","2021-06-10",1
+"sellers amp","2021-07-04",1
 "sellers entered","2021-06-18",1
 "sellers exhausted","2021-06-13",1
 "sellers june","2021-06-08",1
@@ -29148,12 +29880,14 @@
 "sentiment webinar","2021-06-29",1
 "separate fund","2021-06-09",1
 "separate l2","2021-06-02",1
+"separate monetary","2021-07-04",1
 "separate streaming","2021-06-17",1
 "separately managed","2021-06-04",1
 "sept 2020","2021-06-04",1
 "sept 7","2021-06-25",1
 "september 2021","2021-06-10",1
 "september 7","2021-06-25",1
+"september 7th","2021-07-04",1
 "september paraguay","2021-06-25",1
 "septic tankget","2021-06-16",1
 "series elon","2021-06-22",1
@@ -29209,6 +29943,7 @@
 "settles creating","2021-07-01",1
 "settling debts","2021-05-26",1
 "setup umbrel","2021-07-02",1
+"setup umbrel","2021-07-04",1
 "severe downside","2021-05-25",1
 "severe lack","2021-05-25",1
 "severely undervalued","2021-06-07",1
@@ -29234,6 +29969,7 @@
 "share price","2021-06-21",1
 "share subscribe","2021-05-31",1
 "shared abstractions","2021-06-13",1
+"shared airdropdetective","2021-07-04",1
 "shared faith","2021-06-07",1
 "shared valuesand","2021-06-13",1
 "shareholders meeting","2021-06-16",1
@@ -29361,6 +30097,7 @@
 "shitcoin investment","2021-06-03",1
 "shitcoin peddlers","2021-06-15",1
 "shitcoin seasonaltcoin","2021-06-08",1
+"shitcoiner suffering","2021-07-04",1
 "shitcoins ","2021-06-25",1
 "shitcoins buy","2021-06-17",1
 "shitcoins defi","2021-06-22",1
@@ -29460,6 +30197,7 @@
 "short ratio","2021-06-25",1
 "short run","2021-05-26",1
 "short sellers","2021-06-01",1
+"short sellers","2021-07-04",1
 "short selling","2021-06-15",1
 "short sighted","2021-06-05",1
 "short sighted","2021-06-15",1
@@ -29536,7 +30274,9 @@
 "sign bulls","2021-06-22",1
 "signal 100","2021-06-17",1
 "signal 28","2021-06-30",1
+"signal breakoutbitcoin","2021-07-04",1
 "signal btcusd","2021-06-11",1
+"signal buy","2021-07-04",1
 "signal confirms","2021-06-10",1
 "signal gotta","2021-06-23",1
 "signal range","2021-06-21",1
@@ -29589,10 +30329,12 @@
 "silly maxis","2021-06-09",1
 "silly reason","2021-06-28",1
 "silly retail","2021-06-18",1
+"silver amp","2021-07-04",1
 "silver bullet","2021-06-25",1
 "silver ethereum","2021-06-17",1
 "silver forum","2021-06-22",1
 "silver gold","2021-06-01",1
+"silver gt","2021-07-04",1
 "silver icx","2021-05-26",1
 "silver lining","2021-06-09",1
 "silver markets","2021-07-02",1
@@ -29629,6 +30371,7 @@
 "simple response","2021-06-28",1
 "simple rsi","2021-06-25",1
 "simple steps","2021-06-24",1
+"simple swap","2021-07-04",1
 "simple tasks","2021-05-30",1
 "simpletip humans","2021-05-25",1
 "simplifying nft","2021-06-30",1
@@ -29662,6 +30405,7 @@
 "single dump","2021-06-17",1
 "single entity","2021-06-22",1
 "single handedly","2021-06-16",1
+"single minded","2021-07-04",1
 "single miner","2021-06-11",1
 "single month","2021-05-27",1
 "single person","2021-05-26",1
@@ -29735,6 +30479,7 @@
 "slack chat","2021-06-08",1
 "slave kenya","2021-06-11",1
 "slave money","2021-06-07",1
+"slavery happy","2021-07-04",1
 "slaying heroes","2021-05-27",1
 "sleep eat","2021-06-11",1
 "sleep pissed","2021-06-04",1
@@ -29744,6 +30489,7 @@
 "sleeping hold","2021-06-22",1
 "sleeve designs","2021-05-27",1
 "slides erasing","2021-06-23",1
+"slight change","2021-07-04",1
 "slight decline","2021-06-25",1
 "slight dip","2021-06-25",1
 "slightly deeper","2021-06-25",1
@@ -29781,6 +30527,7 @@
 "smart chain","2021-06-11",1
 "smart chain","2021-06-21",1
 "smart chain","2021-06-26",1
+"smart chain","2021-07-04",1
 "smart contacts","2021-06-18",1
 "smart contract","2021-05-26",1
 "smart contract","2021-05-29",1
@@ -29893,6 +30640,7 @@
 "socialists pitted","2021-06-29",1
 "socialmedia amazon","2021-05-30",1
 "socialmedia birthdaygirl","2021-06-12",1
+"socialmedia birthdaygirl","2021-07-04",1
 "socialmedia giftshop","2021-07-02",1
 "socialmedia nfts","2021-06-03",1
 "socialmedia shoppingstar","2021-06-17",1
@@ -29919,6 +30667,7 @@
 "software development","2021-06-09",1
 "software development","2021-06-28",1
 "software digitalassets","2021-06-08",1
+"software engineers","2021-07-04",1
 "software illiterates","2021-06-09",1
 "software improvements","2021-05-29",1
 "software vendor","2021-06-27",1
@@ -29962,12 +30711,14 @@
 "solid late","2021-05-26",1
 "solid morning","2021-05-25",1
 "solid narrative","2021-07-02",1
+"solid plan","2021-07-04",1
 "solid project","2021-05-27",1
 "solid store","2021-05-25",1
 "solitetoken slt","2021-06-16",1
 "solution buy","2021-05-27",1
 "solution read","2021-05-28",1
 "solutions avail","2021-06-25",1
+"solutions don","2021-07-04",1
 "solutions rely","2021-05-28",1
 "solutions solve","2021-06-12",1
 "solutions stage","2021-06-29",1
@@ -30025,6 +30776,7 @@
 "sounds superheroicly","2021-06-10",1
 "source code","2021-06-18",1
 "source code","2021-06-30",1
+"source code","2021-07-04",1
 "source development","2021-05-30",1
 "source dm","2021-06-20",1
 "source p2p","2021-06-08",1
@@ -30068,9 +30820,11 @@
 "sovereignty opensourcemoney","2021-06-07",1
 "sovereignty plebnet","2021-06-30",1
 "sovryn liquid","2021-05-26",1
+"sp futurestrading","2021-07-04",1
 "sp hmm","2021-06-22",1
 "sp500 dogecoin","2021-06-17",1
 "space ","2021-06-28",1
+"space altcoins","2021-07-04",1
 "space amp","2021-06-06",1
 "space check","2021-06-03",1
 "space dogecoin","2021-06-10",1
@@ -30107,7 +30861,9 @@
 "spearheading dph","2021-06-05",1
 "spearmoon sprm","2021-06-07",1
 "special edition","2021-06-04",1
+"special guest","2021-07-04",1
 "special investigations","2021-05-29",1
+"special meeting","2021-07-04",1
 "special offer","2021-06-22",1
 "special purposes","2021-05-29",1
 "special reason","2021-06-08",1
@@ -30157,6 +30913,7 @@
 "spell morgan","2021-06-16",1
 "spend 1","2021-06-15",1
 "spend 100","2021-05-26",1
+"spend 25","2021-07-04",1
 "spend 30","2021-07-02",1
 "spend 35000","2021-06-30",1
 "spend fewer","2021-06-10",1
@@ -30166,6 +30923,7 @@
 "spend time","2021-05-31",1
 "spend time","2021-06-22",1
 "spend truckloads","2021-06-11",1
+"spending 30","2021-07-04",1
 "spending 8","2021-05-30",1
 "spending 80","2021-05-30",1
 "spending average","2021-06-28",1
@@ -30214,6 +30972,7 @@
 "spread fud","2021-05-29",1
 "spread fud","2021-06-27",1
 "spread misinformation","2021-06-09",1
+"spread wrong","2021-07-04",1
 "spreading misinformation","2021-06-11",1
 "spreads forbes","2021-06-20",1
 "spreads hope","2021-06-17",1
@@ -30231,6 +30990,7 @@
 "square amp","2021-06-24",1
 "square ceo","2021-06-13",1
 "square crypto","2021-05-25",1
+"square footage","2021-07-04",1
 "square reminds","2021-06-03",1
 "squeeze ","2021-06-01",1
 "squeeze gme","2021-06-25",1
@@ -30239,6 +30999,7 @@
 "st blackrock","2021-05-29",1
 "st bottom","2021-06-25",1
 "stability amp","2021-06-23",1
+"stable asset","2021-07-04",1
 "stable coin","2021-05-30",1
 "stable coins","2021-05-27",1
 "stable coins","2021-05-31",1
@@ -30300,6 +31061,7 @@
 "stakeholder concept","2021-06-02",1
 "stakers una","2021-06-18",1
 "staking adonx","2021-06-02",1
+"staking contract","2021-07-04",1
 "staking farming","2021-06-26",1
 "staking lending","2021-06-12",1
 "staking liquidity","2021-06-23",1
@@ -30308,6 +31070,7 @@
 "staking payouts","2021-06-11",1
 "staking payouts","2021-06-21",1
 "staking payouts","2021-06-25",1
+"staking payouts","2021-07-04",1
 "staking rewards","2021-05-30",1
 "staking rewards","2021-06-21",1
 "staking smart","2021-06-04",1
@@ -30385,6 +31148,7 @@
 "start trading","2021-06-09",1
 "start trading","2021-06-17",1
 "start trading","2021-07-01",1
+"start tweeting","2021-07-04",1
 "start unplugging","2021-06-21",1
 "start usage","2021-06-25",1
 "start vertical","2021-06-12",1
@@ -30461,7 +31225,9 @@
 "stay dumb","2021-06-03",1
 "stay flat","2021-06-25",1
 "stay focused","2021-06-08",1
+"stay frosty","2021-07-04",1
 "stay healthy","2021-06-23",1
+"stay home","2021-07-04",1
 "stay humble","2021-06-17",1
 "stay poor","2021-05-26",1
 "stay positive","2021-05-26",1
@@ -30505,6 +31271,7 @@
 "stealing electricity","2021-05-30",1
 "stealing energy","2021-05-26",1
 "stealing ideas","2021-06-27",1
+"stealth4julytraders expires","2021-07-04",1
 "steam accepting","2021-05-28",1
 "steam locomotive","2021-05-25",1
 "steem blurt","2021-06-14",1
@@ -30580,6 +31347,7 @@
 "stock sell","2021-06-21",1
 "stock trades","2021-06-13",1
 "stock trading","2021-06-01",1
+"stockmarket daytrading","2021-07-04",1
 "stockmarket finance","2021-05-28",1
 "stockmarket finance","2021-07-01",1
 "stockmarket finance","2021-07-02",1
@@ -30611,10 +31379,13 @@
 "stocks realestate","2021-07-02",1
 "stocks robinhood","2021-06-09",1
 "stocks set","2021-06-28",1
+"stocks trader","2021-07-04",1
 "stocks trading","2021-06-24",1
+"stocks usdtry","2021-07-04",1
 "stocks visit","2021-07-01",1
 "stocks xrp","2021-06-29",1
 "stoicism helps","2021-05-25",1
+"stoking drivechain","2021-07-04",1
 "stolen electricity","2021-06-04",1
 "stolen power","2021-05-25",1
 "stolen rand","2021-06-26",1
@@ -30696,6 +31467,7 @@
 "story lines","2021-06-03",1
 "storylineglizzy ethereum","2021-07-02",1
 "straight 10","2021-06-04",1
+"straight talk","2021-07-04",1
 "straight week","2021-06-21",1
 "straightforward sign","2021-06-16",1
 "strangest shit","2021-06-11",1
@@ -30739,6 +31511,7 @@
 "strength weakness","2021-06-28",1
 "stress test","2021-05-25",1
 "stress test","2021-06-04",1
+"stress tests","2021-07-04",1
 "stressed amp","2021-06-04",1
 "stressful situation","2021-06-21",1
 "strict rules","2021-06-29",1
@@ -30807,6 +31580,7 @@
 "strong team","2021-06-24",1
 "strong team","2021-06-25",1
 "strong team","2021-06-30",1
+"strong team","2021-07-04",1
 "strong team0x5e6b158861f4036c16f64da6e109e9b064ac165a","2021-06-05",1
 "strong trend","2021-05-30",1
 "strong world","2021-06-21",1
@@ -30864,6 +31638,7 @@
 "style external","2021-06-21",1
 "style leads","2021-06-24",1
 "styriangp austriagp","2021-06-26",1
+"subconscious mind","2021-07-04",1
 "subject ","2021-06-01",1
 "subjective matter","2021-06-14",1
 "subliminally tweet","2021-05-31",1
@@ -30875,6 +31650,7 @@
 "subscribe blacklivesmatter","2021-05-29",1
 "subscribers cathie","2021-06-23",1
 "subscription plans","2021-06-03",1
+"subsequent debt","2021-07-04",1
 "subsequent decade","2021-06-02",1
 "subsidiary called","2021-06-21",1
 "subsidize alfalfa","2021-07-02",1
@@ -30925,6 +31701,7 @@
 "successful crypto","2021-06-21",1
 "successful forecasts","2021-06-21",1
 "successful fundraiser","2021-06-24",1
+"successful market","2021-07-04",1
 "successful mining","2021-06-29",1
 "successful mocktailfinance","2021-05-27",1
 "successful project","2021-05-31",1
@@ -30966,6 +31743,7 @@
 "suited stupid","2021-06-04",1
 "suites worth","2021-06-22",1
 "sum game","2021-06-25",1
+"sum game","2021-07-04",1
 "summary list","2021-06-04",1
 "summer 2017","2021-06-22",1
 "summer adventures","2021-06-04",1
@@ -30979,6 +31757,7 @@
 "sun rockets","2021-06-14",1
 "sunday's seattle","2021-06-25",1
 "sunday 23","2021-05-25",1
+"sunday ama","2021-07-04",1
 "sunday consecutively","2021-05-28",1
 "sunday morning","2021-06-27",1
 "sunday nobel","2021-05-25",1
@@ -30992,6 +31771,7 @@
 "super article","2021-06-07",1
 "super bullish","2021-05-25",1
 "super bullish","2021-06-14",1
+"super bullish","2021-07-04",1
 "super cheap","2021-05-29",1
 "super computer","2021-05-27",1
 "super contangos","2021-06-20",1
@@ -31022,6 +31802,7 @@
 "superficial consumerism","2021-05-28",1
 "superheroicly insane","2021-06-10",1
 "superior asset","2021-06-02",1
+"superior form","2021-07-04",1
 "superior money","2021-06-24",1
 "superior processor","2021-06-02",1
 "superior product","2021-06-22",1
@@ -31068,6 +31849,7 @@
 "support central","2021-06-11",1
 "support coin","2021-06-18",1
 "support crypto","2021-06-08",1
+"support cryptocurrencies","2021-07-04",1
 "support don","2021-06-18",1
 "support layered","2021-05-28",1
 "support level","2021-06-18",1
@@ -31157,6 +31939,7 @@
 "sustained noting","2021-06-21",1
 "suv airplane","2021-06-04",1
 "suze orman","2021-06-25",1
+"sven henrich","2021-07-04",1
 "sveriges riksbank","2021-05-25",1
 "sw caribbean","2021-06-11",1
 "swag care","2021-06-04",1
@@ -31181,6 +31964,7 @@
 "swing trades","2021-05-30",1
 "swings ahead","2021-05-27",1
 "swingtrade daytrade","2021-07-01",1
+"swingtrade signal","2021-07-04",1
 "swingtrading optionstrading","2021-06-21",1
 "swiping cards","2021-06-05",1
 "swiping coins","2021-06-05",1
@@ -31224,6 +32008,8 @@
 "system powerfulwhy","2021-06-23",1
 "system software","2021-06-09",1
 "systembitcoin cryptocoin","2021-06-13",1
+"systemic inequality","2021-07-04",1
+"systems bi3","2021-07-04",1
 "systemwhile xrp","2021-06-16",1
 "szabo's collectibles","2021-06-29",1
 "ta analysis","2021-05-30",1
@@ -31271,6 +32057,7 @@
 "taking profits","2021-06-08",1
 "taking profits","2021-07-02",1
 "taking sooo","2021-06-22",1
+"taleb erroneously","2021-07-04",1
 "taleb saylor","2021-05-25",1
 "taleb shooting","2021-06-21",1
 "taleb tweets","2021-05-30",1
@@ -31282,6 +32069,7 @@
 "talentedjournalist beautiful","2021-06-15",1
 "talk publicly","2021-06-15",1
 "talk shit","2021-05-25",1
+"talk sven","2021-07-04",1
 "talkin boxingego","2021-06-03",1
 "talking advertising","2021-05-29",1
 "talking bs","2021-06-03",1
@@ -31314,11 +32102,13 @@
 "taproot live","2021-06-17",1
 "taproot update","2021-06-25",1
 "taproot upgrade","2021-06-14",1
+"taps blackrock","2021-07-04",1
 "target 39","2021-07-01",1
 "target 40k","2021-06-10",1
 "target 58","2021-06-25",1
 "target fresh","2021-06-28",1
 "target hit","2021-06-18",1
+"target hit","2021-07-04",1
 "targeted advertising","2021-06-07",1
 "targeted trolls","2021-06-07",1
 "targeting people","2021-06-11",1
@@ -31329,6 +32119,7 @@
 "task completed","2021-06-03",1
 "task force","2021-06-26",1
 "task fresh","2021-06-21",1
+"task purify","2021-07-04",1
 "task share","2021-05-31",1
 "taskforce legal","2021-06-16",1
 "tasks 2","2021-06-07",1
@@ -31344,6 +32135,7 @@
 "tax advantaged","2021-06-04",1
 "tax agreement","2021-06-06",1
 "tax avoidance","2021-06-11",1
+"tax avoidance","2021-07-04",1
 "tax burden","2021-06-25",1
 "tax compliance","2021-05-26",1
 "tax creditsselling","2021-06-11",1
@@ -31478,13 +32270,16 @@
 "technology doesn","2021-06-27",1
 "technology evolves","2021-05-29",1
 "technology existed","2021-06-17",1
+"technology ff","2021-07-04",1
 "technology gap","2021-06-25",1
 "technology hiphop","2021-06-04",1
 "technology innovation","2021-07-02",1
 "technology litecoin","2021-06-06",1
 "technology litecoin","2021-06-23",1
 "technology news","2021-06-27",1
+"technology options","2021-07-04",1
 "technology policy","2021-06-08",1
+"technology politics","2021-07-04",1
 "technology rendered","2021-06-17",1
 "technology resolves","2021-06-09",1
 "technology starting","2021-06-22",1
@@ -31599,6 +32394,7 @@
 "term trendline","2021-06-20",1
 "term underlying","2021-05-26",1
 "term uptrend","2021-06-20",1
+"term vitalik","2021-07-04",1
 "terms choose","2021-06-25",1
 "terms hug","2021-06-21",1
 "terrible acab","2021-05-28",1
@@ -31675,6 +32471,7 @@
 "tether's reserve","2021-06-21",1
 "tether ","2021-06-02",1
 "tether ","2021-06-26",1
+"tether ","2021-07-04",1
 "tether ada","2021-05-31",1
 "tether bnb","2021-06-27",1
 "tether compound","2021-07-02",1
@@ -31705,6 +32502,7 @@
 "tezos atom","2021-06-08",1
 "tezos atom","2021-06-23",1
 "tezos crypto","2021-06-26",1
+"tezos ecosystem","2021-07-04",1
 "tf atleast","2021-06-24",1
 "tf attaching","2021-06-01",1
 "tf candlestick","2021-06-17",1
@@ -31833,6 +32631,7 @@
 "time cardano","2021-06-03",1
 "time check","2021-06-20",1
 "time china","2021-06-21",1
+"time choosing","2021-07-04",1
 "time consuming","2021-06-27",1
 "time cracks","2021-06-30",1
 "time crypto","2021-06-29",1
@@ -31895,6 +32694,7 @@
 "time trades","2021-06-01",1
 "time trading","2021-06-08",1
 "time tradingview","2021-06-11",1
+"time traveler","2021-07-04",1
 "time tweeting","2021-06-21",1
 "time ui","2021-06-09",1
 "time volatility","2021-06-02",1
@@ -31907,6 +32707,7 @@
 "timelet's address","2021-06-02",1
 "timelinenew official","2021-06-25",1
 "times aheadbitcoin","2021-06-30",1
+"times await","2021-07-04",1
 "times cartel","2021-06-01",1
 "times china","2021-06-20",1
 "times guess","2021-06-11",1
@@ -31919,6 +32720,7 @@
 "timestamp13 00","2021-06-29",1
 "timestamped update","2021-05-29",1
 "timethe impact","2021-06-30",1
+"timing appears","2021-07-04",1
 "timing yesterday","2021-06-14",1
 "tiny bit","2021-06-07",1
 "tiny country","2021-06-09",1
@@ -31991,6 +32793,7 @@
 "tokenized investmentsales","2021-07-01",1
 "tokenized securities","2021-06-23",1
 "tokenizes amp","2021-07-01",1
+"tokenizing assets","2021-07-04",1
 "tokenomics binance","2021-06-08",1
 "tokenomics model","2021-06-08",1
 "tokens amazon","2021-06-08",1
@@ -32028,6 +32831,7 @@
 "tonight's powwow","2021-05-25",1
 "tonight 9","2021-06-09",1
 "tonight euro2020","2021-06-15",1
+"tonight pretty","2021-07-04",1
 "tonite 8","2021-06-05",1
 "tony montana","2021-06-21",1
 "toocannot buy","2021-06-28",1
@@ -32139,6 +32943,7 @@
 "torysleaze torybrexitdisaster","2021-06-10",1
 "total addressable","2021-06-11",1
 "total annualized","2021-05-25",1
+"total bag","2021-07-04",1
 "total ban","2021-06-06",1
 "total control","2021-06-26",1
 "total cpu","2021-06-24",1
@@ -32189,6 +32994,7 @@
 "tough position","2021-06-08",1
 "tough resistance","2021-06-28",1
 "tough time","2021-06-11",1
+"tough times","2021-07-04",1
 "toughest bank","2021-06-10",1
 "toughest single","2021-06-24",1
 "tour join","2021-06-06",1
@@ -32218,6 +33024,7 @@
 "traceable cash","2021-06-11",1
 "traceable public","2021-06-10",1
 "track cryptocurrencies","2021-06-24",1
+"track cybercrime","2021-07-04",1
 "track equities","2021-06-30",1
 "track expecting","2021-05-31",1
 "track ta","2021-06-12",1
@@ -32299,6 +33106,7 @@
 "trademoneta crypto","2021-06-15",1
 "trademoneta crypto","2021-06-21",1
 "trader's blog","2021-06-18",1
+"trader's market","2021-07-04",1
 "trader bhfyp","2021-07-02",1
 "trader binary","2021-06-25",1
 "trader btcusdtperp","2021-06-25",1
@@ -32312,9 +33120,12 @@
 "trader money","2021-05-25",1
 "trader robert","2021-06-22",1
 "trader robin","2021-06-21",1
+"trader stockmarket","2021-07-04",1
 "trader stocks","2021-06-17",1
+"trader visit","2021-07-04",1
 "traders brace","2021-05-28",1
 "traders break","2021-05-27",1
+"traders market","2021-07-04",1
 "traders stay","2021-07-02",1
 "traders swingtrade","2021-07-01",1
 "traders trading","2021-07-02",1
@@ -32389,6 +33200,7 @@
 "trading officially","2021-06-29",1
 "trading options","2021-06-09",1
 "trading options","2021-06-16",1
+"trading options","2021-07-04",1
 "trading pair","2021-06-24",1
 "trading pairs","2021-05-25",1
 "trading pattern","2021-07-02",1
@@ -32448,6 +33260,7 @@
 "traditional portfolio","2021-05-27",1
 "traditional system","2021-06-04",1
 "traffic explains","2021-06-04",1
+"traffic loads","2021-07-04",1
 "traffickers ransomware","2021-06-06",1
 "tragic consequences","2021-06-25",1
 "tragic time","2021-06-04",1
@@ -32458,6 +33271,7 @@
 "transaction costs","2021-06-02",1
 "transaction costs","2021-06-12",1
 "transaction costs","2021-06-21",1
+"transaction costs","2021-07-04",1
 "transaction entry","2021-06-26",1
 "transaction fee","2021-06-07",1
 "transaction fee","2021-06-27",1
@@ -32478,6 +33292,7 @@
 "transactions cost","2021-06-06",1
 "transactions ct","2021-06-23",1
 "transactions happen","2021-06-22",1
+"transactions increasing","2021-07-04",1
 "transactions instantly","2021-06-21",1
 "transactions software","2021-06-08",1
 "transactions thenwe","2021-06-24",1
@@ -32515,6 +33330,7 @@
 "trash blowing","2021-06-02",1
 "trash coins","2021-06-10",1
 "trash coins","2021-06-13",1
+"trash proper","2021-07-04",1
 "travel accommodations","2021-05-31",1
 "travel business","2021-05-28",1
 "travel business","2021-06-02",1
@@ -32535,7 +33351,9 @@
 "travel sleep","2021-05-31",1
 "travel social","2021-05-25",1
 "travel transformation","2021-05-25",1
+"traveler luca","2021-07-04",1
 "treacherous path","2021-06-21",1
+"treasure chest","2021-07-04",1
 "treasury asset","2021-06-14",1
 "treasury bills","2021-06-21",1
 "treasury list","2021-06-21",1
@@ -32557,6 +33375,7 @@
 "trend retests","2021-06-10",1
 "trend reversal","2021-06-28",1
 "trend signalnfabitcoin","2021-06-13",1
+"trend stay","2021-07-04",1
 "trend top","2021-05-29",1
 "trending breakingnews","2021-06-20",1
 "trending dogecoin","2021-06-26",1
@@ -32580,6 +33399,7 @@
 "triangle shiba","2021-06-06",1
 "trigger nasty","2021-06-04",1
 "triggers thousands","2021-06-08",1
+"trillion bonds","2021-07-04",1
 "trillion crypto","2021-05-25",1
 "trillion dollar","2021-06-13",1
 "trillion federal","2021-05-28",1
@@ -32648,6 +33468,7 @@
 "true power","2021-06-01",1
 "true price","2021-06-13",1
 "true property","2021-06-03",1
+"true revolution","2021-07-04",1
 "true ruler","2021-06-21",1
 "true sound","2021-05-26",1
 "true stacking","2021-06-15",1
@@ -32682,6 +33503,7 @@
 "trumps losing","2021-06-07",1
 "trumpys gonna","2021-06-08",1
 "trust amp","2021-06-23",1
+"trust bnb","2021-07-04",1
 "trust gbtc","2021-06-03",1
 "trust gbtc","2021-06-23",1
 "trust gbtc","2021-06-26",1
@@ -32703,6 +33525,7 @@
 "trustless money","2021-06-05",1
 "trustless network","2021-05-30",1
 "trustless system","2021-06-01",1
+"trustnodes crypto","2021-07-04",1
 "trusts garygensler","2021-06-29",1
 "trustwallet draw","2021-06-14",1
 "truth republicans","2021-05-26",1
@@ -32748,6 +33571,7 @@
 "tuesdayvibe fyp","2021-06-29",1
 "tulip mania","2021-06-22",1
 "tulips bubbles","2021-06-17",1
+"tulleys shocktober","2021-07-04",1
 "tumble dogecoin","2021-06-25",1
 "tumblr affiliatemarketing","2021-05-30",1
 "tumblr affiliatemarketing","2021-06-03",1
@@ -32757,6 +33581,7 @@
 "tumblr affiliatemarketing","2021-06-14",1
 "tumblr affiliatemarketing","2021-06-18",1
 "tumblr affiliatemarketing","2021-06-21",1
+"tumblr birthdaygirl","2021-07-04",1
 "tumblr giftshop","2021-06-13",1
 "tumblr giftshop","2021-07-02",1
 "tumblr socialmedia","2021-05-29",1
@@ -32814,6 +33639,7 @@
 "tweets yahoo","2021-05-25",1
 "twicemocktailswap mok","2021-06-18",1
 "twin elephants","2021-06-13",1
+"twins apparently","2021-07-04",1
 "twisting people","2021-06-10",1
 "twitch youtube","2021-06-08",1
 "twitters quandary","2021-06-14",1
@@ -32870,6 +33696,7 @@
 "ukjoin snapbots","2021-06-02",1
 "ulterior motives","2021-06-08",1
 "ultimate bottom","2021-06-25",1
+"ultimate demise","2021-07-04",1
 "ultimate fiat","2021-06-07",1
 "ultimate field","2021-06-27",1
 "ultimate fud","2021-06-23",1
@@ -32901,6 +33728,7 @@
 "unable due","2021-06-09",1
 "unadulterated truth","2021-06-17",1
 "unaeza ingia","2021-06-26",1
+"unalienable amp","2021-07-04",1
 "unalienable properties","2021-06-16",1
 "unattractive option","2021-06-09",1
 "unbanked eliminating","2021-06-27",1
@@ -32991,6 +33819,7 @@
 "unhackable computer","2021-06-29",1
 "uni crypto","2021-05-26",1
 "uni days","2021-06-12",1
+"uni icp","2021-07-04",1
 "uni matic","2021-06-11",1
 "uni rose","2021-05-26",1
 "uni sushi","2021-06-02",1
@@ -33005,6 +33834,7 @@
 "unions pretty","2021-06-30",1
 "unions ready","2021-07-01",1
 "unique aliasing","2021-05-26",1
+"unique american","2021-07-04",1
 "unique characteristics","2021-06-14",1
 "unique company","2021-06-02",1
 "unique crypto","2021-06-24",1
@@ -33015,11 +33845,13 @@
 "unique feature","2021-06-07",1
 "unique feature","2021-06-20",1
 "unique market","2021-06-06",1
+"unique mechanism","2021-07-04",1
 "unique tech","2021-06-06",1
 "unique tweet","2021-06-30",1
 "uniswap aave","2021-06-14",1
 "uniswap altseason2021","2021-06-05",1
 "uniswap fil","2021-06-24",1
+"uniswap icp","2021-07-04",1
 "uniswap pancake","2021-06-21",1
 "uniswap pancakeswap","2021-05-27",1
 "uniswap solana","2021-05-28",1
@@ -33109,10 +33941,12 @@
 "update 11","2021-06-06",1
 "update 25","2021-06-25",1
 "update 7trx","2021-05-30",1
+"update forextrading","2021-07-04",1
 "update june","2021-06-28",1
 "update unofficial","2021-06-27",1
 "updateinvesting investment","2021-07-02",1
 "updates daily","2021-06-09",1
+"updates mate","2021-07-04",1
 "upends idea","2021-06-16",1
 "upgrade ","2021-05-25",1
 "upgrade finally","2021-06-12",1
@@ -33156,6 +33990,7 @@
 "upward movement","2021-06-16",1
 "upward volatility","2021-05-27",1
 "upwards 100k","2021-06-18",1
+"upwards biased","2021-07-04",1
 "upwards momentum","2021-06-09",1
 "upwards slowly","2021-05-27",1
 "ur asso","2021-06-23",1
@@ -33168,6 +34003,7 @@
 "usa america","2021-06-22",1
 "usa amp","2021-06-20",1
 "usa binance","2021-06-09",1
+"usa coinbase","2021-07-04",1
 "usa easy","2021-06-11",1
 "usa lifestyle","2021-05-26",1
 "usa magicshopbar","2021-06-02",1
@@ -33248,11 +34084,13 @@
 "usdt usdc","2021-07-01",1
 "usdt xbase","2021-06-11",1
 "usdt xbc","2021-06-11",1
+"usdtry forex","2021-07-04",1
 "usdtry lira","2021-05-28",1
 "useless computer","2021-06-30",1
 "useless dogecoin","2021-06-11",1
 "useless economists","2021-06-17",1
 "useless mayor","2021-05-30",1
+"useless person","2021-07-04",1
 "useless prize","2021-06-17",1
 "user account","2021-05-26",1
 "user base","2021-06-04",1
@@ -33261,6 +34099,7 @@
 "user experience","2021-05-30",1
 "user friendly","2021-05-29",1
 "user friendly","2021-06-02",1
+"user presale","2021-07-04",1
 "user vault","2021-05-31",1
 "user vault","2021-06-01",1
 "user vault","2021-06-12",1
@@ -33271,6 +34110,7 @@
 "user vault","2021-06-26",1
 "user vault","2021-06-30",1
 "user vault","2021-07-02",1
+"user vault","2021-07-04",1
 "user withdrew","2021-05-31",1
 "user285344 betfurysuccess","2021-05-25",1
 "user618365 betfurysuccess","2021-05-26",1
@@ -33278,6 +34118,7 @@
 "user66471 betfurysuccess","2021-06-25",1
 "user697527 betfurysuccess","2021-06-25",1
 "user727674 betfurysuccess","2021-06-21",1
+"user818640 betfurysuccess","2021-07-04",1
 "user841167 betfurysuccess","2021-06-03",1
 "user878708 betfurysuccess","2021-06-23",1
 "username aking0001","2021-06-24",1
@@ -33298,6 +34139,7 @@
 "username user66471","2021-06-25",1
 "username user697527","2021-06-25",1
 "username user727674","2021-06-21",1
+"username user818640","2021-07-04",1
 "username user841167","2021-06-03",1
 "username user878708","2021-06-23",1
 "users america","2021-06-14",1
@@ -33314,6 +34156,7 @@
 "useryieldfarming airdrop","2021-06-21",1
 "usg recovers","2021-06-08",1
 "usimg crypto","2021-06-25",1
+"usoil stocks","2021-07-04",1
 "usthavecrypto tokensour","2021-06-20",1
 "usual buy","2021-07-01",1
 "usual check","2021-06-25",1
@@ -33337,6 +34180,7 @@
 "utterly criminal","2021-06-20",1
 "utterly false","2021-06-13",1
 "utxo transferable","2021-05-25",1
+"ux front","2021-07-04",1
 "v2 launches","2021-06-11",1
 "v2 platform","2021-06-15",1
 "vacay amp","2021-06-26",1
@@ -33367,10 +34211,12 @@
 "vanilla ice","2021-05-27",1
 "vanity useless","2021-06-10",1
 "vaporware shitcoins","2021-06-28",1
+"variant delta","2021-07-04",1
 "variously adapt","2021-06-20",1
 "vast amounts","2021-06-21",1
 "vast energy","2021-06-11",1
 "vast majority","2021-06-05",1
+"vast majority","2021-07-04",1
 "vast sea","2021-05-26",1
 "vastly superior","2021-06-29",1
 "vax passports","2021-06-25",1
@@ -33400,9 +34246,11 @@
 "ve refrained","2021-05-26",1
 "ve spent","2021-06-22",1
 "ve spent","2021-06-26",1
+"vechain dogecoin","2021-07-04",1
 "vechain reddcoin","2021-07-01",1
 "vechain vefam","2021-05-25",1
 "vechain video","2021-05-29",1
+"vectorbelievable securityestablished","2021-07-04",1
 "vefam freecoin","2021-06-23",1
 "vegan vegans","2021-06-02",1
 "veganismbitcoin crypto","2021-06-02",1
@@ -33432,6 +34280,7 @@
 "venus captain","2021-05-27",1
 "verge coinbase","2021-06-23",1
 "veri ico","2021-06-25",1
+"verifiability false","2021-07-04",1
 "verification start","2021-06-27",1
 "verified account","2021-06-08",1
 "verified indexed","2021-06-05",1
@@ -33449,6 +34298,7 @@
 "version interpretation","2021-06-06",1
 "version signaling","2021-06-27",1
 "versus decentralized","2021-07-02",1
+"vertical food","2021-07-04",1
 "vertical jump","2021-06-12",1
 "vertical scam","2021-06-11",1
 "vertical usesbitcoin","2021-06-18",1
@@ -33476,6 +34326,7 @@
 "vibrant resource","2021-05-26",1
 "vice versa","2021-05-25",1
 "vice versa","2021-06-12",1
+"victim funds","2021-07-04",1
 "victim mentality","2021-05-31",1
 "victormoses zidane","2021-05-27",1
 "vid dogelord","2021-06-02",1
@@ -33545,9 +34396,11 @@
 "virtuous circle","2021-05-28",1
 "virtuous circle","2021-06-23",1
 "virus covid","2021-06-25",1
+"visa accepts","2021-07-04",1
 "visa transaction","2021-06-18",1
 "visa versa","2021-05-27",1
 "visa versa","2021-06-11",1
+"visa whales","2021-07-04",1
 "visibly poor","2021-06-18",1
 "vision created","2021-06-01",1
 "vision laid","2021-06-16",1
@@ -33619,6 +34472,7 @@
 "votes approved","2021-06-09",1
 "voting fraud","2021-06-28",1
 "voting powered","2021-06-02",1
+"voting proposal","2021-07-04",1
 "voyager digital","2021-06-21",1
 "voyager download","2021-05-26",1
 "voyager download","2021-06-03",1
@@ -33669,6 +34523,7 @@
 "wallet address","2021-06-10",1
 "wallet app","2021-06-29",1
 "wallet assuming","2021-06-25",1
+"wallet citing","2021-07-04",1
 "wallet como","2021-06-08",1
 "wallet crytocurrency","2021-06-01",1
 "wallet designed","2021-06-12",1
@@ -33681,6 +34536,7 @@
 "wallet join","2021-06-29",1
 "wallet market","2021-06-14",1
 "wallet pass","2021-05-27",1
+"wallet preventing","2021-07-04",1
 "wallet private","2021-06-16",1
 "wallet startups","2021-06-13",1
 "wallet transactions","2021-06-12",1
@@ -33716,6 +34572,7 @@
 "war destruction","2021-05-28",1
 "war major","2021-06-06",1
 "war times","2021-06-26",1
+"waramerican civil","2021-07-04",1
 "warming dollar","2021-06-07",1
 "warning crypto","2021-05-31",1
 "warns investors","2021-06-04",1
@@ -33841,7 +34698,9 @@
 "wealth stocks","2021-05-30",1
 "wealth taxes","2021-06-10",1
 "wealth transfer","2021-06-10",1
+"wealth visit","2021-07-04",1
 "wealth wisely","2021-06-25",1
+"wealth4everybody success","2021-07-04",1
 "wealthier individuals","2021-06-16",1
 "wealths snowden","2021-06-12",1
 "wealthsimple announced","2021-06-03",1
@@ -33931,6 +34790,7 @@
 "weekend tradingnothing","2021-06-28",1
 "weekendcatchupbitcoin beach","2021-06-18",1
 "weekenterprise business","2021-06-27",1
+"weekly ama","2021-07-04",1
 "weekly ascending","2021-05-31",1
 "weekly chart","2021-06-11",1
 "weekly close","2021-06-06",1
@@ -33944,6 +34804,7 @@
 "weekly resistance","2021-06-10",1
 "weekly roundup","2021-06-30",1
 "weekly timeframe","2021-06-13",1
+"weeks ago","2021-07-04",1
 "weeks bitcoin's","2021-06-20",1
 "weeks months","2021-06-22",1
 "weeks propaganda","2021-06-08",1
@@ -34032,6 +34893,7 @@
 "white paper","2021-06-29",1
 "white paper","2021-06-30",1
 "white paper","2021-07-01",1
+"white paper","2021-07-04",1
 "white people","2021-06-26",1
 "white suit","2021-06-05",1
 "whitelist participants","2021-05-28",1
@@ -34119,6 +34981,7 @@
 "wing mind","2021-06-05",1
 "wing wong","2021-05-28",1
 "wink pietrielpidio","2021-07-01",1
+"winklevoss twins","2021-07-04",1
 "winklevossqdx qdxvault","2021-06-21",1
 "winner bags","2021-06-16",1
 "winner chosen","2021-06-17",1
@@ -34163,9 +35026,11 @@
 "withdrawal option","2021-06-09",1
 "withdrawals trademoneta","2021-06-18",1
 "withdrew 0","2021-05-31",1
+"witnesses historic","2021-07-04",1
 "witnessing heavy","2021-06-29",1
 "wizards build","2021-06-06",1
 "wkhs nexo","2021-05-26",1
+"wkimcnl vechain","2021-07-04",1
 "wmt rsr","2021-05-26",1
 "wnba finals","2021-06-25",1
 "wo gt","2021-06-16",1
@@ -34243,6 +35108,7 @@
 "world centuries","2021-06-25",1
 "world changing","2021-06-22",1
 "world class","2021-06-06",1
+"world class","2021-07-04",1
 "world concerns","2021-06-05",1
 "world countries","2021-05-26",1
 "world countries","2021-06-12",1
@@ -34261,10 +35127,12 @@
 "world economy","2021-06-07",1
 "world economy","2021-06-28",1
 "world esp","2021-06-06",1
+"world ethereum","2021-07-04",1
 "world financial","2021-06-01",1
 "world forcing","2021-06-07",1
 "world forward","2021-05-30",1
 "world gold","2021-06-13",1
+"world gold","2021-07-04",1
 "world governments","2021-05-30",1
 "world hasn","2021-06-28",1
 "world history","2021-06-28",1
@@ -34320,6 +35188,7 @@
 "worst investment","2021-06-15",1
 "worst jk","2021-05-27",1
 "worst month","2021-06-01",1
+"worst nightmare","2021-07-04",1
 "worst performance","2021-05-27",1
 "worst performance","2021-06-22",1
 "worst performances","2021-06-01",1
@@ -34341,6 +35210,7 @@
 "worth 7","2021-06-01",1
 "worth 7","2021-07-01",1
 "worth 700","2021-06-20",1
+"worth 789","2021-07-04",1
 "worth 843","2021-06-25",1
 "worth 99p","2021-05-26",1
 "worth approximately","2021-05-27",1
@@ -34354,6 +35224,7 @@
 "worth losing","2021-06-05",1
 "worth n44million","2021-05-28",1
 "worth paying","2021-05-26",1
+"worth picking","2021-07-04",1
 "worth private","2021-06-18",1
 "worth reading","2021-06-28",1
 "worth roughly","2021-06-23",1
@@ -34403,6 +35274,7 @@
 "wrong direction","2021-06-30",1
 "wrong guy","2021-06-07",1
 "wrong horse","2021-06-13",1
+"wrong information","2021-07-04",1
 "wrong move","2021-05-26",1
 "wrong orange","2021-06-07",1
 "wrong retail","2021-06-16",1
@@ -34414,6 +35286,7 @@
 "wtc21final euro2020","2021-06-23",1
 "wtf elsemt","2021-05-29",1
 "wti light","2021-06-30",1
+"wti usoil","2021-07-04",1
 "wu ","2021-06-26",1
 "wu holds","2021-06-08",1
 "wuhan lab","2021-06-01",1
@@ -34449,6 +35322,7 @@
 "xbox gift","2021-07-02",1
 "xbt dollar","2021-06-29",1
 "xbts bitshares","2021-06-28",1
+"xcademy zilswap","2021-07-04",1
 "xdc cryptocurrencies","2021-06-23",1
 "xdc network","2021-06-30",1
 "xdc vet","2021-06-23",1
@@ -34483,6 +35357,7 @@
 "xrp blockchain","2021-06-28",1
 "xrp blockchain","2021-07-02",1
 "xrp business","2021-06-08",1
+"xrp cardano","2021-07-04",1
 "xrp cnbc","2021-05-26",1
 "xrp coins","2021-07-01",1
 "xrp crypto","2021-05-25",1
@@ -34501,6 +35376,7 @@
 "xrp crypto","2021-06-20",1
 "xrp crypto","2021-06-29",1
 "xrp crypto","2021-07-02",1
+"xrp crypto","2021-07-04",1
 "xrp cryptocurrencies","2021-05-30",1
 "xrp cryptocurrencies","2021-06-02",1
 "xrp cryptocurrencies","2021-06-03",1
@@ -34543,6 +35419,7 @@
 "xrp ripplexrp","2021-06-17",1
 "xrp stellar","2021-06-20",1
 "xrp stellarlumens","2021-06-02",1
+"xrp top","2021-07-04",1
 "xrp unique","2021-06-30",1
 "xrp urgent","2021-06-09",1
 "xrp xbt","2021-06-22",1
@@ -34590,10 +35467,12 @@
 "yard detectives","2021-06-13",1
 "yea bro","2021-06-11",1
 "yeah coin","2021-06-09",1
+"yeah erik","2021-07-04",1
 "yeah fuck","2021-06-05",1
 "yeah im","2021-06-02",1
 "yeah nah","2021-06-16",1
 "yeah nice","2021-06-04",1
+"yeah program","2021-07-04",1
 "yeah sounds","2021-06-24",1
 "yeah totally","2021-06-15",1
 "yeah xrp","2021-06-14",1
@@ -34634,6 +35513,7 @@
 "yieldfarming airdrop","2021-06-18",1
 "yieldfarming airdrop","2021-06-24",1
 "yieldfarming airdrop","2021-06-26",1
+"yieldfarming airdrop","2021-07-04",1
 "yieldfarming binance","2021-06-12",1
 "yks2021 lockdown","2021-06-26",1
 "yo 200lb","2021-06-12",1
@@ -34654,7 +35534,9 @@
 "york times","2021-05-28",1
 "youaregoingtomakeit hex","2021-06-12",1
 "youarenotsafe recognize","2021-06-18",1
+"youngboss blackwealth","2021-07-04",1
 "youngmoney crypto","2021-06-10",1
+"youre completely","2021-07-04",1
 "yous lot","2021-05-26",1
 "youth mental","2021-05-31",1
 "youthful population","2021-06-14",1
@@ -34712,15 +35594,21 @@
 "ziglu app","2021-06-04",1
 "zignaly crypto","2021-07-01",1
 "zil eth","2021-06-30",1
+"zil xcademy","2021-07-04",1
 "zil zilliqa","2021-05-31",1
+"zilliqa crypto","2021-07-04",1
+"zilliqa news","2021-07-04",1
 "zilliqa usdt","2021-05-31",1
+"zilswap voting","2021-07-04",1
 "zimmermann alph","2021-06-04",1
 "zm pton","2021-06-25",1
 "zodiac horoscopes","2021-06-12",1
 "zombie coins","2021-06-17",1
 "zombies sold","2021-06-21",1
 "zone approaching","2021-06-25",1
+"zone bsc","2021-07-04",1
 "zone puffing","2021-05-27",1
+"zoneswap zone","2021-07-04",1
 "zoom calls","2021-06-16",1
 "zoom earnings","2021-05-31",1
 "zoom outif","2021-06-28",1
