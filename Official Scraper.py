@@ -19,6 +19,7 @@ except:
 query = 'bitcoin'
 n_tweets = 2000
 
+
 print('Tweets are now being scraped')
 try:
     # Creation of query method using parameters
@@ -138,3 +139,6 @@ timestamp = 'Tweets_' + str(datetime.now().strftime('%m_%d_%Y')) + '.csv'
 path = 'C:\\Users\\student\\Documents\\UVA\\Portfolio Projects\\Sentiment Analysis\\sentimentanalysis\\TimeStamped\\'
 tweets_df.to_csv(path + timestamp, header=True)
 print("All done, check out final csv")
+
+current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+print("Time of last scrape: " + current_time)
