@@ -140,5 +140,5 @@ path = 'C:\\Users\\student\\Documents\\UVA\\Portfolio Projects\\Sentiment Analys
 tweets_df.to_csv(path + timestamp, header=True)
 print("All done, check out final csv")
 
-current_time = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 print("Time of last scrape: " + current_time)
