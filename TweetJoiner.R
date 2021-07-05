@@ -17,3 +17,4 @@ all.tweets$Date <- format(as.Date(all.tweets$Date, format = "%m/%d/%Y"))
 
 
 write.csv(all.tweets,"C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis/Scraped_Tweets.csv", row.names = FALSE)
+print("Complete!")
