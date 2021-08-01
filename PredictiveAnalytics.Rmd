@@ -1,0 +1,62 @@
+---
+title: "Sentiment Analysis and Bitcoin"
+output: html_notebook
+---
+
+```{r}
+library(ggplot2)
+library(corrplot)
+library(tidyr)
+library(tidytext)
+library(stringr)
+library(tm)
+library(ggpubr)
+
+setwd('C:/Users/student/Documents/UVA/Portfolio Projects/Sentiment Analysis/sentimentanalysis')
+
+
+data <- read.csv('Scraped_Tweets.csv')
+```
+
+# EDA
+## Cleaning
+```{r}
+str(data)
+data$Date <- as.Date(data$Date, format = '%Y-%m-%d')
+colSums(is.na(data))
+```
+
+Before we get too far, let's add sentiment scores for each tweet.
+```{r}
+review.words <- data %>%
+  unnest_tokens(word, Text) %>%
+  mutate(word = str_extract(word, "[0-9a-z']+")) %>%
+  drop_na()
+
+review.words$word <- sapply(review.words$word, removeNumbers)
+
+review.words <- review.words %>%
+  anti_join(stop_words)
+
+
+afinn.sent <- get_sentiments("afinn")
+
+sentiments <- review.words %>%
+  inner_join(afinn.sent)
+
+scores <- sentiments  %>% group_by(X, Date, BTC.Price, User.follower.count, UserFollowingCount, User.Verified, Quote.Status., Default.Profile.Theme., DefaultProfileImage) %>% summarise(mean = mean(value))
+```
+
+## Visualizing
+```{r}
+scores <- as.data.frame(scores)
+
+ggplot(scores, aes(x=mean, y=BTC.Price)) + geom_point()
+```
+This sums most of it up. The relationship between price and sentiment is non linear, and quite honestly, appears that there is no correlation. Let's double check this before considering alternate models.
+
+```{r}
+cor(scores$mean, scores$BTC.Price, method='pearson', use='complete.obs')
+```
+
+
